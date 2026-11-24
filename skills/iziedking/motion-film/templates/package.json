@@ -1,0 +1,20 @@
+{
+  "name": "motion-film-project",
+  "private": true,
+  "version": "0.2.0",
+  "description": "A film project: shots rendered frame by frame on the engine that suits each, original sound, one finish, measured QC.",
+  "scripts": {
+    "doctor": "node tools/doctor.cjs",
+    "refstudy": "node tools/refstudy.cjs",
+    "capture": "node capture/capture.cjs",
+    "assemble": "node edit/assemble.cjs",
+    "finish": "node finish/finish.cjs",
+    "proof": "node render.cjs proof",
+    "study": "node render.cjs study",
+    "render": "node render.cjs render",
+    "qc": "node render.cjs qc"
+  },
+  "dependencies": {
+    "playwright-core": "^1.50.0"
+  }
+}

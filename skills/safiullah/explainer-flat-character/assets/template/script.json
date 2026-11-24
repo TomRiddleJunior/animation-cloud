@@ -1,0 +1,6 @@
+{"voice": "af_heart", "speed": 0.92, "lead": 0.8, "tail": 1.0, "gap": 0.45,
+ "lines": [
+  {"id": "hook", "text": "Meet Sam. Every morning, the to-do list wins."},
+  {"id": "turn", "text": "So Sam tried Tidyleaf, and the list finally shrank.", "gap": 0.5},
+  {"id": "cta",  "text": "Tidyleaf. Try it free today.", "gap": 0.5}
+ ]}

@@ -1,0 +1,82 @@
+{
+ "voice": "bm_george",
+ "speed": 1.04,
+ "lead": 2.6,
+ "tail": 3.2,
+ "lines": [
+  {
+   "id": "hook",
+   "text": "Nearly all of us keep a small museum that no one else would want to visit."
+  },
+  {
+   "id": "list",
+   "text": "A concert ticket. A pebble from one particular beach. The key to a flat we left long ago.",
+   "gap": 0.5
+  },
+  {
+   "id": "c1",
+   "text": "One. The evidence.",
+   "gap": 0.9
+  },
+  {
+   "id": "proof",
+   "text": "To anyone else, they are clutter. To us, they are proof that a certain afternoon really happened.",
+   "gap": 0.6
+  },
+  {
+   "id": "memory",
+   "text": "Memory is a poor archivist. It fades, it edits, it flatters.",
+   "gap": 0.6
+  },
+  {
+   "id": "stone",
+   "text": "A stone in the hand cannot be argued with.",
+   "gap": 0.5
+  },
+  {
+   "id": "c2",
+   "text": "Two. Holding on.",
+   "gap": 0.9
+  },
+  {
+   "id": "grip",
+   "text": "And so we grip these things a little too tightly.",
+   "gap": 0.6
+  },
+  {
+   "id": "summer",
+   "text": "We fear that if the object goes, the person or the summer goes with it.",
+   "gap": 0.4
+  },
+  {
+   "id": "carry",
+   "text": "The drawers fill up, and the past becomes something we carry rather than visit.",
+   "gap": 0.5
+  },
+  {
+   "id": "c3",
+   "text": "Three. Travelling light.",
+   "gap": 0.9
+  },
+  {
+   "id": "door",
+   "text": "Yet the object was never the memory. It was only a door.",
+   "gap": 0.6
+  },
+  {
+   "id": "us",
+   "text": "What happened lives on in us: in how we laugh, what we notice, who we become.",
+   "gap": 0.5
+  },
+  {
+   "id": "keep",
+   "text": "Keep the few things that still open something.",
+   "gap": 0.7
+  },
+  {
+   "id": "go",
+   "text": "And let the rest go, gently, with thanks.",
+   "gap": 0.5
+  }
+ ]
+}

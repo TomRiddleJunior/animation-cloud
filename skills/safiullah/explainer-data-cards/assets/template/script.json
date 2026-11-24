@@ -1,0 +1,6 @@
+{"voice": "am_michael", "speed": 1.08, "lead": 0.35, "tail": 3.0,
+ "lines": [
+  {"id": "hook", "text": "One treaty has been ratified by every country on Earth: the Montreal Protocol."},
+  {"id": "data", "text": "Ozone is on track to recover around 2040 for most of the world, and 2066 over Antarctica.", "gap": 0.9},
+  {"id": "q", "text": "Could the world do it again?", "gap": 0.9}
+ ]}

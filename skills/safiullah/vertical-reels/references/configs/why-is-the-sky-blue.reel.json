@@ -1,0 +1,35 @@
+{
+ "key": "sky",
+ "name": "why-is-the-sky-blue",
+ "master": "sky-explainer/out/why-is-the-sky-blue.mp4",
+ "lines": "sky-explainer/data/vo.json",
+ "fonts": "sky-explainer/app/public/fonts",
+ "title": [
+  "Why is the",
+  "sky blue?"
+ ],
+ "title_font": "Baloo 2 ExtraBold",
+ "title_size": 120,
+ "sub": "A PAPER-CRAFT EXPLAINER",
+ "note": "NARRATION: KOKORO TTS (AI VOICE)",
+ "sub_font": "Atkinson Hyperlegible Mono SemiBold",
+ "cap_font": "Baloo 2 ExtraBold",
+ "cap_size": 92,
+ "sub_size": 44,
+ "note_size": 34,
+ "accent": "#EE7356",
+ "cuts": {
+  "shorts": [
+   [
+    0.0,
+    88.7
+   ]
+  ],
+  "full": [
+   [
+    0.0,
+    88.7
+   ]
+  ]
+ }
+}

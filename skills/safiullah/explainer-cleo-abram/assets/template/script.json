@@ -1,0 +1,6 @@
+{"voice": "af_heart", "speed": 1.18, "lead": 3.3, "tail": 1.2, "gap": 0.2,
+ "lines": [
+  {"id": "hook",   "text": "What if a spaceship could sail on sunlight alone?"},
+  {"id": "photon", "text": "Every photon that bounces off a mirror gives it a tiny push."},
+  {"id": "kepler", "text": "And four hundred years ago, Kepler already suspected it.", "gap": 0.35}
+ ]}

@@ -1,0 +1,1040 @@
+{
+ "duration": 70.755,
+ "voice": "bm_george",
+ "words": 163,
+ "wpm_overall": 138.2,
+ "wpm_speech": 169.5,
+ "lines": [
+  {
+   "id": "h1",
+   "i": 0,
+   "text": "So you want to run a bubble?",
+   "start": 0.78,
+   "end": 2.505,
+   "words": [
+    {
+     "w": "So",
+     "start": 0.78,
+     "end": 0.955
+    },
+    {
+     "w": "you",
+     "start": 0.955,
+     "end": 1.08
+    },
+    {
+     "w": "want",
+     "start": 1.08,
+     "end": 1.268
+    },
+    {
+     "w": "to",
+     "start": 1.268,
+     "end": 1.393
+    },
+    {
+     "w": "run",
+     "start": 1.393,
+     "end": 1.705
+    },
+    {
+     "w": "a",
+     "start": 1.705,
+     "end": 1.817
+    },
+    {
+     "w": "bubble?",
+     "start": 1.817,
+     "end": 2.505
+    }
+   ]
+  },
+  {
+   "id": "h2",
+   "i": 1,
+   "text": "Forget the ships. Forget the spice.",
+   "start": 2.787,
+   "end": 5.212,
+   "words": [
+    {
+     "w": "Forget",
+     "start": 2.787,
+     "end": 3.112
+    },
+    {
+     "w": "the",
+     "start": 3.112,
+     "end": 3.262
+    },
+    {
+     "w": "ships.",
+     "start": 3.262,
+     "end": 3.787
+    },
+    {
+     "w": "Forget",
+     "start": 3.887,
+     "end": 4.237
+    },
+    {
+     "w": "the",
+     "start": 4.237,
+     "end": 4.375
+    },
+    {
+     "w": "spice.",
+     "start": 4.375,
+     "end": 5.212
+    }
+   ]
+  },
+  {
+   "id": "h3",
+   "i": 2,
+   "text": "You're not selling cargo. You're selling a price,",
+   "start": 5.515,
+   "end": 7.99,
+   "words": [
+    {
+     "w": "You're",
+     "start": 5.515,
+     "end": 5.627
+    },
+    {
+     "w": "not",
+     "start": 5.627,
+     "end": 5.84
+    },
+    {
+     "w": "selling",
+     "start": 5.84,
+     "end": 6.19
+    },
+    {
+     "w": "cargo.",
+     "start": 6.19,
+     "end": 6.74
+    },
+    {
+     "w": "You're",
+     "start": 6.84,
+     "end": 6.99
+    },
+    {
+     "w": "selling",
+     "start": 6.99,
+     "end": 7.303
+    },
+    {
+     "w": "a",
+     "start": 7.303,
+     "end": 7.365
+    },
+    {
+     "w": "price,",
+     "start": 7.365,
+     "end": 7.99
+    }
+   ]
+  },
+  {
+   "id": "h4",
+   "i": 3,
+   "text": "and a fool to pay it twice.",
+   "start": 8.242,
+   "end": 10.267,
+   "words": [
+    {
+     "w": "and",
+     "start": 8.242,
+     "end": 8.33
+    },
+    {
+     "w": "a",
+     "start": 8.33,
+     "end": 8.442
+    },
+    {
+     "w": "fool",
+     "start": 8.442,
+     "end": 8.942
+    },
+    {
+     "w": "to",
+     "start": 8.942,
+     "end": 9.067
+    },
+    {
+     "w": "pay",
+     "start": 9.067,
+     "end": 9.292
+    },
+    {
+     "w": "it",
+     "start": 9.292,
+     "end": 9.43
+    },
+    {
+     "w": "twice.",
+     "start": 9.43,
+     "end": 10.267
+    }
+   ]
+  },
+  {
+   "id": "s1a",
+   "i": 4,
+   "text": "Step one: a charter, seventeen eleven.",
+   "start": 10.969,
+   "end": 13.544,
+   "words": [
+    {
+     "w": "Step",
+     "start": 10.969,
+     "end": 11.244
+    },
+    {
+     "w": "one:",
+     "start": 11.244,
+     "end": 11.619
+    },
+    {
+     "w": "a",
+     "start": 11.694,
+     "end": 11.794
+    },
+    {
+     "w": "charter,",
+     "start": 11.794,
+     "end": 12.269
+    },
+    {
+     "w": "seventeen",
+     "start": 12.369,
+     "end": 12.919
+    },
+    {
+     "w": "eleven.",
+     "start": 12.919,
+     "end": 13.544
+    }
+   ]
+  },
+  {
+   "id": "s1b",
+   "i": 5,
+   "text": "South Sea trade: a monopoly from heaven.",
+   "start": 13.814,
+   "end": 16.239,
+   "words": [
+    {
+     "w": "South",
+     "start": 13.814,
+     "end": 14.064
+    },
+    {
+     "w": "Sea",
+     "start": 14.064,
+     "end": 14.314
+    },
+    {
+     "w": "trade:",
+     "start": 14.314,
+     "end": 14.814
+    },
+    {
+     "w": "a",
+     "start": 14.914,
+     "end": 14.977
+    },
+    {
+     "w": "monopoly",
+     "start": 14.977,
+     "end": 15.464
+    },
+    {
+     "w": "from",
+     "start": 15.464,
+     "end": 15.664
+    },
+    {
+     "w": "heaven.",
+     "start": 15.664,
+     "end": 16.239
+    }
+   ]
+  },
+  {
+   "id": "s1c",
+   "i": 6,
+   "text": "It never pays? Relax: paper and wax.",
+   "start": 16.509,
+   "end": 18.909,
+   "words": [
+    {
+     "w": "It",
+     "start": 16.509,
+     "end": 16.622
+    },
+    {
+     "w": "never",
+     "start": 16.622,
+     "end": 16.859
+    },
+    {
+     "w": "pays?",
+     "start": 16.859,
+     "end": 17.334
+    },
+    {
+     "w": "Relax:",
+     "start": 17.434,
+     "end": 17.859
+    },
+    {
+     "w": "paper",
+     "start": 17.909,
+     "end": 18.197
+    },
+    {
+     "w": "and",
+     "start": 18.197,
+     "end": 18.309
+    },
+    {
+     "w": "wax.",
+     "start": 18.309,
+     "end": 18.909
+    }
+   ]
+  },
+  {
+   "id": "s2a",
+   "i": 7,
+   "text": "Step two: swallow the nation's debt,",
+   "start": 19.151,
+   "end": 21.576,
+   "words": [
+    {
+     "w": "Step",
+     "start": 19.151,
+     "end": 19.439
+    },
+    {
+     "w": "two:",
+     "start": 19.439,
+     "end": 19.826
+    },
+    {
+     "w": "swallow",
+     "start": 19.913,
+     "end": 20.326
+    },
+    {
+     "w": "the",
+     "start": 20.326,
+     "end": 20.451
+    },
+    {
+     "w": "nation's",
+     "start": 20.451,
+     "end": 20.976
+    },
+    {
+     "w": "debt,",
+     "start": 20.976,
+     "end": 21.576
+    }
+   ]
+  },
+  {
+   "id": "s2b",
+   "i": 8,
+   "text": "thirty-one million, swapped for shares.",
+   "start": 21.846,
+   "end": 24.271,
+   "words": [
+    {
+     "w": "thirty-one",
+     "start": 21.846,
+     "end": 22.396
+    },
+    {
+     "w": "million,",
+     "start": 22.396,
+     "end": 22.921
+    },
+    {
+     "w": "swapped",
+     "start": 23.033,
+     "end": 23.346
+    },
+    {
+     "w": "for",
+     "start": 23.346,
+     "end": 23.483
+    },
+    {
+     "w": "shares.",
+     "start": 23.483,
+     "end": 24.271
+    }
+   ]
+  },
+  {
+   "id": "s2c",
+   "i": 9,
+   "text": "Higher price, bigger cut. Who cares?",
+   "start": 24.541,
+   "end": 27.091,
+   "words": [
+    {
+     "w": "Higher",
+     "start": 24.541,
+     "end": 24.816
+    },
+    {
+     "w": "price,",
+     "start": 24.816,
+     "end": 25.241
+    },
+    {
+     "w": "bigger",
+     "start": 25.316,
+     "end": 25.603
+    },
+    {
+     "w": "cut.",
+     "start": 25.603,
+     "end": 26.016
+    },
+    {
+     "w": "Who",
+     "start": 26.091,
+     "end": 26.278
+    },
+    {
+     "w": "cares?",
+     "start": 26.278,
+     "end": 27.091
+    }
+   ]
+  },
+  {
+   "id": "s3a",
+   "i": 10,
+   "text": "Step three: friends where laws get made.",
+   "start": 27.333,
+   "end": 29.808,
+   "words": [
+    {
+     "w": "Step",
+     "start": 27.333,
+     "end": 27.583
+    },
+    {
+     "w": "three:",
+     "start": 27.583,
+     "end": 27.958
+    },
+    {
+     "w": "friends",
+     "start": 28.033,
+     "end": 28.533
+    },
+    {
+     "w": "where",
+     "start": 28.533,
+     "end": 28.708
+    },
+    {
+     "w": "laws",
+     "start": 28.708,
+     "end": 28.983
+    },
+    {
+     "w": "get",
+     "start": 28.983,
+     "end": 29.183
+    },
+    {
+     "w": "made.",
+     "start": 29.183,
+     "end": 29.808
+    }
+   ]
+  },
+  {
+   "id": "s3b",
+   "i": 11,
+   "text": "Hand ministers stock. Nothing paid.",
+   "start": 30.078,
+   "end": 32.403,
+   "words": [
+    {
+     "w": "Hand",
+     "start": 30.078,
+     "end": 30.378
+    },
+    {
+     "w": "ministers",
+     "start": 30.378,
+     "end": 30.84
+    },
+    {
+     "w": "stock.",
+     "start": 30.84,
+     "end": 31.328
+    },
+    {
+     "w": "Nothing",
+     "start": 31.441,
+     "end": 31.803
+    },
+    {
+     "w": "paid.",
+     "start": 31.803,
+     "end": 32.403
+    }
+   ]
+  },
+  {
+   "id": "s3c",
+   "i": 12,
+   "text": "They sell it back high; the bill sails by.",
+   "start": 32.673,
+   "end": 35.273,
+   "words": [
+    {
+     "w": "They",
+     "start": 32.673,
+     "end": 32.835
+    },
+    {
+     "w": "sell",
+     "start": 32.835,
+     "end": 33.06
+    },
+    {
+     "w": "it",
+     "start": 33.06,
+     "end": 33.148
+    },
+    {
+     "w": "back",
+     "start": 33.148,
+     "end": 33.423
+    },
+    {
+     "w": "high;",
+     "start": 33.423,
+     "end": 33.823
+    },
+    {
+     "w": "the",
+     "start": 33.923,
+     "end": 34.048
+    },
+    {
+     "w": "bill",
+     "start": 34.048,
+     "end": 34.335
+    },
+    {
+     "w": "sails",
+     "start": 34.335,
+     "end": 34.698
+    },
+    {
+     "w": "by.",
+     "start": 34.698,
+     "end": 35.273
+    }
+   ]
+  },
+  {
+   "id": "s4a",
+   "i": 13,
+   "text": "Step four: climb. January, one twenty-eight.",
+   "start": 35.515,
+   "end": 37.865,
+   "words": [
+    {
+     "w": "Step",
+     "start": 35.515,
+     "end": 35.69
+    },
+    {
+     "w": "four:",
+     "start": 35.69,
+     "end": 35.915
+    },
+    {
+     "w": "climb.",
+     "start": 35.965,
+     "end": 36.44
+    },
+    {
+     "w": "January,",
+     "start": 36.54,
+     "end": 36.89
+    },
+    {
+     "w": "one",
+     "start": 36.94,
+     "end": 37.165
+    },
+    {
+     "w": "twenty-eight.",
+     "start": 37.165,
+     "end": 37.865
+    }
+   ]
+  },
+  {
+   "id": "s4b",
+   "i": 14,
+   "text": "By summer, a thousand. Rivals? Legislate.",
+   "start": 38.135,
+   "end": 40.635,
+   "words": [
+    {
+     "w": "By",
+     "start": 38.135,
+     "end": 38.297
+    },
+    {
+     "w": "summer,",
+     "start": 38.297,
+     "end": 38.56
+    },
+    {
+     "w": "a",
+     "start": 38.635,
+     "end": 38.748
+    },
+    {
+     "w": "thousand.",
+     "start": 38.748,
+     "end": 39.235
+    },
+    {
+     "w": "Rivals?",
+     "start": 39.31,
+     "end": 39.81
+    },
+    {
+     "w": "Legislate.",
+     "start": 39.885,
+     "end": 40.635
+    }
+   ]
+  },
+  {
+   "id": "s4c",
+   "i": 15,
+   "text": "June's Bubble Act: no charter? Shut the gate.",
+   "start": 40.905,
+   "end": 43.205,
+   "words": [
+    {
+     "w": "June's",
+     "start": 40.905,
+     "end": 41.18
+    },
+    {
+     "w": "Bubble",
+     "start": 41.18,
+     "end": 41.38
+    },
+    {
+     "w": "Act:",
+     "start": 41.38,
+     "end": 41.705
+    },
+    {
+     "w": "no",
+     "start": 41.78,
+     "end": 41.955
+    },
+    {
+     "w": "charter?",
+     "start": 41.955,
+     "end": 42.405
+    },
+    {
+     "w": "Shut",
+     "start": 42.505,
+     "end": 42.643
+    },
+    {
+     "w": "the",
+     "start": 42.643,
+     "end": 42.73
+    },
+    {
+     "w": "gate.",
+     "start": 42.73,
+     "end": 43.205
+    }
+   ]
+  },
+  {
+   "id": "s5a",
+   "i": 16,
+   "text": "Step five: sell before the music stops.",
+   "start": 43.696,
+   "end": 45.671,
+   "words": [
+    {
+     "w": "Step",
+     "start": 43.696,
+     "end": 43.921
+    },
+    {
+     "w": "five:",
+     "start": 43.921,
+     "end": 44.296
+    },
+    {
+     "w": "sell",
+     "start": 44.383,
+     "end": 44.584
+    },
+    {
+     "w": "before",
+     "start": 44.584,
+     "end": 44.834
+    },
+    {
+     "w": "the",
+     "start": 44.834,
+     "end": 44.908
+    },
+    {
+     "w": "music",
+     "start": 44.908,
+     "end": 45.158
+    },
+    {
+     "w": "stops.",
+     "start": 45.158,
+     "end": 45.671
+    }
+   ]
+  },
+  {
+   "id": "s5b",
+   "i": 17,
+   "text": "September's end: one fifty. Watch it drop.",
+   "start": 45.941,
+   "end": 48.266,
+   "words": [
+    {
+     "w": "September's",
+     "start": 45.941,
+     "end": 46.366
+    },
+    {
+     "w": "end:",
+     "start": 46.366,
+     "end": 46.741
+    },
+    {
+     "w": "one",
+     "start": 46.816,
+     "end": 47.016
+    },
+    {
+     "w": "fifty.",
+     "start": 47.016,
+     "end": 47.441
+    },
+    {
+     "w": "Watch",
+     "start": 47.541,
+     "end": 47.704
+    },
+    {
+     "w": "it",
+     "start": 47.704,
+     "end": 47.791
+    },
+    {
+     "w": "drop.",
+     "start": 47.791,
+     "end": 48.266
+    }
+   ]
+  },
+  {
+   "id": "s5c",
+   "i": 18,
+   "text": "Newton reportedly lost twenty thousand pounds.",
+   "start": 48.536,
+   "end": 51.111,
+   "words": [
+    {
+     "w": "Newton",
+     "start": 48.536,
+     "end": 48.836
+    },
+    {
+     "w": "reportedly",
+     "start": 48.836,
+     "end": 49.549
+    },
+    {
+     "w": "lost",
+     "start": 49.549,
+     "end": 49.836
+    },
+    {
+     "w": "twenty",
+     "start": 49.836,
+     "end": 50.136
+    },
+    {
+     "w": "thousand",
+     "start": 50.136,
+     "end": 50.461
+    },
+    {
+     "w": "pounds.",
+     "start": 50.461,
+     "end": 51.111
+    }
+   ]
+  },
+  {
+   "id": "s5d",
+   "i": 19,
+   "text": "He wrote gravity's law. It still came down.",
+   "start": 51.381,
+   "end": 53.506,
+   "words": [
+    {
+     "w": "He",
+     "start": 51.381,
+     "end": 51.494
+    },
+    {
+     "w": "wrote",
+     "start": 51.494,
+     "end": 51.681
+    },
+    {
+     "w": "gravity's",
+     "start": 51.681,
+     "end": 52.056
+    },
+    {
+     "w": "law.",
+     "start": 52.056,
+     "end": 52.406
+    },
+    {
+     "w": "It",
+     "start": 52.469,
+     "end": 52.569
+    },
+    {
+     "w": "still",
+     "start": 52.569,
+     "end": 52.731
+    },
+    {
+     "w": "came",
+     "start": 52.731,
+     "end": 52.956
+    },
+    {
+     "w": "down.",
+     "start": 52.956,
+     "end": 53.506
+    }
+   ]
+  },
+  {
+   "id": "l1",
+   "i": 20,
+   "text": "Last step? Do nothing. Seventeen twenty-one:",
+   "start": 54.605,
+   "end": 56.98,
+   "words": [
+    {
+     "w": "Last",
+     "start": 54.605,
+     "end": 54.792
+    },
+    {
+     "w": "step?",
+     "start": 54.792,
+     "end": 55.105
+    },
+    {
+     "w": "Do",
+     "start": 55.167,
+     "end": 55.292
+    },
+    {
+     "w": "nothing.",
+     "start": 55.292,
+     "end": 55.755
+    },
+    {
+     "w": "Seventeen",
+     "start": 55.83,
+     "end": 56.28
+    },
+    {
+     "w": "twenty-one:",
+     "start": 56.28,
+     "end": 56.98
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "i": 21,
+   "text": "the inquiry. The Chancellor's in the Tower.",
+   "start": 57.25,
+   "end": 59.6,
+   "words": [
+    {
+     "w": "the",
+     "start": 57.25,
+     "end": 57.35
+    },
+    {
+     "w": "inquiry.",
+     "start": 57.35,
+     "end": 58.025
+    },
+    {
+     "w": "The",
+     "start": 58.1,
+     "end": 58.2
+    },
+    {
+     "w": "Chancellor's",
+     "start": 58.2,
+     "end": 58.762
+    },
+    {
+     "w": "in",
+     "start": 58.762,
+     "end": 58.887
+    },
+    {
+     "w": "the",
+     "start": 58.887,
+     "end": 58.975
+    },
+    {
+     "w": "Tower.",
+     "start": 58.975,
+     "end": 59.6
+    }
+   ]
+  },
+  {
+   "id": "t1",
+   "i": 22,
+   "text": "But a bubble needs no villain, just one more buyer.",
+   "start": 60.06,
+   "end": 63.36,
+   "words": [
+    {
+     "w": "But",
+     "start": 60.06,
+     "end": 60.172
+    },
+    {
+     "w": "a",
+     "start": 60.172,
+     "end": 60.273
+    },
+    {
+     "w": "bubble",
+     "start": 60.273,
+     "end": 60.635
+    },
+    {
+     "w": "needs",
+     "start": 60.635,
+     "end": 61.01
+    },
+    {
+     "w": "no",
+     "start": 61.01,
+     "end": 61.297
+    },
+    {
+     "w": "villain,",
+     "start": 61.297,
+     "end": 61.835
+    },
+    {
+     "w": "just",
+     "start": 61.935,
+     "end": 62.21
+    },
+    {
+     "w": "one",
+     "start": 62.21,
+     "end": 62.46
+    },
+    {
+     "w": "more",
+     "start": 62.46,
+     "end": 62.685
+    },
+    {
+     "w": "buyer.",
+     "start": 62.685,
+     "end": 63.36
+    }
+   ]
+  },
+  {
+   "id": "t2",
+   "i": 23,
+   "text": "Check your portfolio. Who's paying higher?",
+   "start": 63.63,
+   "end": 66.305,
+   "words": [
+    {
+     "w": "Check",
+     "start": 63.63,
+     "end": 63.905
+    },
+    {
+     "w": "your",
+     "start": 63.905,
+     "end": 64.08
+    },
+    {
+     "w": "portfolio.",
+     "start": 64.08,
+     "end": 64.955
+    },
+    {
+     "w": "Who's",
+     "start": 65.055,
+     "end": 65.305
+    },
+    {
+     "w": "paying",
+     "start": 65.305,
+     "end": 65.655
+    },
+    {
+     "w": "higher?",
+     "start": 65.655,
+     "end": 66.305
+    }
+   ]
+  }
+ ]
+}

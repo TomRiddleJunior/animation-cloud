@@ -1,0 +1,8 @@
+{"voice": "am_michael", "speed": 1.02, "lead": 0.6, "tail": 4.5, "gap": 0.2,
+ "lines": [
+  {"id": "hook", "text": "Some things are better when you share them."},
+  {"id": "name", "text": "That's why we made Hubbly.", "gap": 0.3},
+  {"id": "card", "text": "Every card opens into its own little world,", "gap": 0.3},
+  {"id": "back", "text": "and folds right back into your pocket.", "gap": 0.1},
+  {"id": "logo", "text": "Hubbly. Try it today.", "gap": 0.4}
+ ]}

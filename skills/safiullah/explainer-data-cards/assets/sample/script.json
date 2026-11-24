@@ -1,0 +1,67 @@
+{
+ "voice": "am_michael",
+ "speed": 1.08,
+ "lead": 0.35,
+ "tail": 3.4,
+ "lines": [
+  {
+   "id": "hook",
+   "text": "One treaty has phased out nearly 99 percent of the ozone-destroying chemicals it banned."
+  },
+  {
+   "id": "twist",
+   "text": "And not a single country stayed out.",
+   "gap": 0.6
+  },
+  {
+   "id": "signed",
+   "text": "The Montreal Protocol was signed on September 16th, 1987.",
+   "gap": 0.8
+  },
+  {
+   "id": "target",
+   "text": "Its main target: CFCs, from fridges and spray cans.",
+   "gap": 0.8
+  },
+  {
+   "id": "how",
+   "text": "In the stratosphere, sunlight splits them, and their chlorine destroys ozone, again and again.",
+   "gap": 0.9
+  },
+  {
+   "id": "universal",
+   "text": "In 2009 it became the first UN treaty ratified by every country.",
+   "gap": 0.9
+  },
+  {
+   "id": "recover",
+   "text": "Ozone is on track to recover to 1980 levels around 2040 for most of the world, 2045 over the Arctic, and 2066 over Antarctica.",
+   "gap": 0.8
+  },
+  {
+   "id": "hfc",
+   "text": "Their substitutes, HFCs, spare the ozone but heat the planet.",
+   "gap": 0.9
+  },
+  {
+   "id": "kigali",
+   "text": "So in 2016 the Kigali Amendment set out to phase them down.",
+   "gap": 0.5
+  },
+  {
+   "id": "hole",
+   "text": "But the Antarctic hole still opens every spring.",
+   "gap": 0.9
+  },
+  {
+   "id": "q1",
+   "text": "So, was the ozone layer a one-off?",
+   "gap": 0.9
+  },
+  {
+   "id": "q2",
+   "text": "Or proof the world can act, again?",
+   "gap": 0.6
+  }
+ ]
+}

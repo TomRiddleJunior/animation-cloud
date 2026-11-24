@@ -1,0 +1,951 @@
+{
+ "duration": 74.755,
+ "voice": "am_michael",
+ "words": 156,
+ "wpm_overall": 125.2,
+ "wpm_speech": 161.9,
+ "lines": [
+  {
+   "id": "title",
+   "i": 0,
+   "text": "The making of money.",
+   "start": 1.26,
+   "end": 2.685,
+   "words": [
+    {
+     "w": "The",
+     "start": 1.26,
+     "end": 1.36
+    },
+    {
+     "w": "making",
+     "start": 1.36,
+     "end": 1.81
+    },
+    {
+     "w": "of",
+     "start": 1.81,
+     "end": 1.973
+    },
+    {
+     "w": "money.",
+     "start": 1.973,
+     "end": 2.685
+    }
+   ]
+  },
+  {
+   "id": "q1",
+   "i": 1,
+   "text": "Where does new money come from?",
+   "start": 4.395,
+   "end": 6.12,
+   "words": [
+    {
+     "w": "Where",
+     "start": 4.395,
+     "end": 4.508
+    },
+    {
+     "w": "does",
+     "start": 4.508,
+     "end": 4.732
+    },
+    {
+     "w": "new",
+     "start": 4.732,
+     "end": 4.982
+    },
+    {
+     "w": "money",
+     "start": 4.982,
+     "end": 5.295
+    },
+    {
+     "w": "come",
+     "start": 5.295,
+     "end": 5.545
+    },
+    {
+     "w": "from?",
+     "start": 5.545,
+     "end": 6.12
+    }
+   ]
+  },
+  {
+   "id": "verdict",
+   "i": 2,
+   "text": "Mostly? From loans.",
+   "start": 6.68,
+   "end": 8.305,
+   "words": [
+    {
+     "w": "Mostly?",
+     "start": 6.68,
+     "end": 7.205
+    },
+    {
+     "w": "From",
+     "start": 7.255,
+     "end": 7.48
+    },
+    {
+     "w": "loans.",
+     "start": 7.48,
+     "end": 8.305
+    }
+   ]
+  },
+  {
+   "id": "jargon",
+   "i": 3,
+   "text": "You've heard the words: deposits, reserves, central banks.",
+   "start": 8.965,
+   "end": 12.69,
+   "words": [
+    {
+     "w": "You've",
+     "start": 8.965,
+     "end": 9.115
+    },
+    {
+     "w": "heard",
+     "start": 9.115,
+     "end": 9.377
+    },
+    {
+     "w": "the",
+     "start": 9.377,
+     "end": 9.49
+    },
+    {
+     "w": "words:",
+     "start": 9.49,
+     "end": 10.115
+    },
+    {
+     "w": "deposits,",
+     "start": 10.24,
+     "end": 10.865
+    },
+    {
+     "w": "reserves,",
+     "start": 10.915,
+     "end": 11.465
+    },
+    {
+     "w": "central",
+     "start": 11.515,
+     "end": 11.94
+    },
+    {
+     "w": "banks.",
+     "start": 11.94,
+     "end": 12.69
+    }
+   ]
+  },
+  {
+   "id": "who",
+   "i": 4,
+   "text": "Who makes it? Ordinary banks.",
+   "start": 13.4,
+   "end": 15.275,
+   "words": [
+    {
+     "w": "Who",
+     "start": 13.4,
+     "end": 13.525
+    },
+    {
+     "w": "makes",
+     "start": 13.525,
+     "end": 13.825
+    },
+    {
+     "w": "it?",
+     "start": 13.825,
+     "end": 13.975
+    },
+    {
+     "w": "Ordinary",
+     "start": 14.05,
+     "end": 14.55
+    },
+    {
+     "w": "banks.",
+     "start": 14.55,
+     "end": 15.275
+    }
+   ]
+  },
+  {
+   "id": "how",
+   "i": 5,
+   "text": "How? Here's how.",
+   "start": 15.785,
+   "end": 16.885,
+   "words": [
+    {
+     "w": "How?",
+     "start": 15.785,
+     "end": 15.96
+    },
+    {
+     "w": "Here's",
+     "start": 16.01,
+     "end": 16.31
+    },
+    {
+     "w": "how.",
+     "start": 16.31,
+     "end": 16.885
+    }
+   ]
+  },
+  {
+   "id": "cast",
+   "i": 6,
+   "text": "Meet the cast: a family who wants a house, a builder selling one, and their banks.",
+   "start": 17.645,
+   "end": 22.82,
+   "words": [
+    {
+     "w": "Meet",
+     "start": 17.645,
+     "end": 17.845
+    },
+    {
+     "w": "the",
+     "start": 17.845,
+     "end": 17.983
+    },
+    {
+     "w": "cast:",
+     "start": 17.983,
+     "end": 18.72
+    },
+    {
+     "w": "a",
+     "start": 18.858,
+     "end": 18.983
+    },
+    {
+     "w": "family",
+     "start": 18.983,
+     "end": 19.433
+    },
+    {
+     "w": "who",
+     "start": 19.433,
+     "end": 19.57
+    },
+    {
+     "w": "wants",
+     "start": 19.57,
+     "end": 19.808
+    },
+    {
+     "w": "a",
+     "start": 19.808,
+     "end": 19.87
+    },
+    {
+     "w": "house,",
+     "start": 19.87,
+     "end": 20.445
+    },
+    {
+     "w": "a",
+     "start": 20.545,
+     "end": 20.658
+    },
+    {
+     "w": "builder",
+     "start": 20.658,
+     "end": 21.083
+    },
+    {
+     "w": "selling",
+     "start": 21.083,
+     "end": 21.47
+    },
+    {
+     "w": "one,",
+     "start": 21.47,
+     "end": 21.72
+    },
+    {
+     "w": "and",
+     "start": 21.758,
+     "end": 21.858
+    },
+    {
+     "w": "their",
+     "start": 21.858,
+     "end": 22.045
+    },
+    {
+     "w": "banks.",
+     "start": 22.045,
+     "end": 22.82
+    }
+   ]
+  },
+  {
+   "id": "proxy",
+   "i": 7,
+   "text": "Most money isn't cash. It's a deposit: a number in a bank's ledger.",
+   "start": 23.48,
+   "end": 28.155,
+   "words": [
+    {
+     "w": "Most",
+     "start": 23.48,
+     "end": 23.805
+    },
+    {
+     "w": "money",
+     "start": 23.805,
+     "end": 24.055
+    },
+    {
+     "w": "isn't",
+     "start": 24.055,
+     "end": 24.343
+    },
+    {
+     "w": "cash.",
+     "start": 24.343,
+     "end": 25.055
+    },
+    {
+     "w": "It's",
+     "start": 25.18,
+     "end": 25.393
+    },
+    {
+     "w": "a",
+     "start": 25.393,
+     "end": 25.455
+    },
+    {
+     "w": "deposit:",
+     "start": 25.455,
+     "end": 26.28
+    },
+    {
+     "w": "a",
+     "start": 26.393,
+     "end": 26.518
+    },
+    {
+     "w": "number",
+     "start": 26.518,
+     "end": 26.93
+    },
+    {
+     "w": "in",
+     "start": 26.93,
+     "end": 27.018
+    },
+    {
+     "w": "a",
+     "start": 27.018,
+     "end": 27.08
+    },
+    {
+     "w": "bank's",
+     "start": 27.08,
+     "end": 27.455
+    },
+    {
+     "w": "ledger.",
+     "start": 27.455,
+     "end": 28.155
+    }
+   ]
+  },
+  {
+   "id": "ask",
+   "i": 8,
+   "text": "The family asks the bank for a loan.",
+   "start": 29.115,
+   "end": 31.465,
+   "words": [
+    {
+     "w": "The",
+     "start": 29.115,
+     "end": 29.228
+    },
+    {
+     "w": "family",
+     "start": 29.228,
+     "end": 29.74
+    },
+    {
+     "w": "asks",
+     "start": 29.74,
+     "end": 30.115
+    },
+    {
+     "w": "the",
+     "start": 30.115,
+     "end": 30.215
+    },
+    {
+     "w": "bank",
+     "start": 30.215,
+     "end": 30.515
+    },
+    {
+     "w": "for",
+     "start": 30.515,
+     "end": 30.628
+    },
+    {
+     "w": "a",
+     "start": 30.628,
+     "end": 30.715
+    },
+    {
+     "w": "loan.",
+     "start": 30.715,
+     "end": 31.465
+    }
+   ]
+  },
+  {
+   "id": "types",
+   "i": 9,
+   "text": "The bank checks they can repay, then types the amount into their account.",
+   "start": 32.025,
+   "end": 36.325,
+   "words": [
+    {
+     "w": "The",
+     "start": 32.025,
+     "end": 32.1
+    },
+    {
+     "w": "bank",
+     "start": 32.1,
+     "end": 32.413
+    },
+    {
+     "w": "checks",
+     "start": 32.413,
+     "end": 32.75
+    },
+    {
+     "w": "they",
+     "start": 32.75,
+     "end": 32.9
+    },
+    {
+     "w": "can",
+     "start": 32.9,
+     "end": 33.1
+    },
+    {
+     "w": "repay,",
+     "start": 33.1,
+     "end": 33.85
+    },
+    {
+     "w": "then",
+     "start": 34.0,
+     "end": 34.225
+    },
+    {
+     "w": "types",
+     "start": 34.225,
+     "end": 34.525
+    },
+    {
+     "w": "the",
+     "start": 34.525,
+     "end": 34.675
+    },
+    {
+     "w": "amount",
+     "start": 34.675,
+     "end": 35.038
+    },
+    {
+     "w": "into",
+     "start": 35.038,
+     "end": 35.3
+    },
+    {
+     "w": "their",
+     "start": 35.3,
+     "end": 35.5
+    },
+    {
+     "w": "account.",
+     "start": 35.5,
+     "end": 36.325
+    }
+   ]
+  },
+  {
+   "id": "fresh",
+   "i": 10,
+   "text": "Nobody's savings shrink. That deposit is brand-new money.",
+   "start": 36.935,
+   "end": 40.96,
+   "words": [
+    {
+     "w": "Nobody's",
+     "start": 36.935,
+     "end": 37.473
+    },
+    {
+     "w": "savings",
+     "start": 37.473,
+     "end": 37.923
+    },
+    {
+     "w": "shrink.",
+     "start": 37.923,
+     "end": 38.585
+    },
+    {
+     "w": "That",
+     "start": 38.723,
+     "end": 38.985
+    },
+    {
+     "w": "deposit",
+     "start": 38.985,
+     "end": 39.56
+    },
+    {
+     "w": "is",
+     "start": 39.56,
+     "end": 39.723
+    },
+    {
+     "w": "brand-new",
+     "start": 39.723,
+     "end": 40.285
+    },
+    {
+     "w": "money.",
+     "start": 40.285,
+     "end": 40.96
+    }
+   ]
+  },
+  {
+   "id": "pay",
+   "i": 11,
+   "text": "Then the family pays the builder. The deposit moves to the builder's bank,",
+   "start": 41.77,
+   "end": 46.245,
+   "words": [
+    {
+     "w": "Then",
+     "start": 41.77,
+     "end": 41.908
+    },
+    {
+     "w": "the",
+     "start": 41.908,
+     "end": 42.008
+    },
+    {
+     "w": "family",
+     "start": 42.008,
+     "end": 42.483
+    },
+    {
+     "w": "pays",
+     "start": 42.483,
+     "end": 42.87
+    },
+    {
+     "w": "the",
+     "start": 42.87,
+     "end": 42.97
+    },
+    {
+     "w": "builder.",
+     "start": 42.97,
+     "end": 43.695
+    },
+    {
+     "w": "The",
+     "start": 43.82,
+     "end": 43.92
+    },
+    {
+     "w": "deposit",
+     "start": 43.92,
+     "end": 44.558
+    },
+    {
+     "w": "moves",
+     "start": 44.558,
+     "end": 44.97
+    },
+    {
+     "w": "to",
+     "start": 44.97,
+     "end": 45.058
+    },
+    {
+     "w": "the",
+     "start": 45.058,
+     "end": 45.145
+    },
+    {
+     "w": "builder's",
+     "start": 45.145,
+     "end": 45.583
+    },
+    {
+     "w": "bank,",
+     "start": 45.583,
+     "end": 46.245
+    }
+   ]
+  },
+  {
+   "id": "settle",
+   "i": 12,
+   "text": "and the two banks settle up in reserves at the central bank.",
+   "start": 46.605,
+   "end": 50.18,
+   "words": [
+    {
+     "w": "and",
+     "start": 46.605,
+     "end": 46.693
+    },
+    {
+     "w": "the",
+     "start": 46.693,
+     "end": 46.793
+    },
+    {
+     "w": "two",
+     "start": 46.793,
+     "end": 47.005
+    },
+    {
+     "w": "banks",
+     "start": 47.005,
+     "end": 47.468
+    },
+    {
+     "w": "settle",
+     "start": 47.468,
+     "end": 47.818
+    },
+    {
+     "w": "up",
+     "start": 47.818,
+     "end": 48.005
+    },
+    {
+     "w": "in",
+     "start": 48.005,
+     "end": 48.155
+    },
+    {
+     "w": "reserves",
+     "start": 48.155,
+     "end": 48.83
+    },
+    {
+     "w": "at",
+     "start": 48.83,
+     "end": 48.918
+    },
+    {
+     "w": "the",
+     "start": 48.918,
+     "end": 49.043
+    },
+    {
+     "w": "central",
+     "start": 49.043,
+     "end": 49.48
+    },
+    {
+     "w": "bank.",
+     "start": 49.48,
+     "end": 50.18
+    }
+   ]
+  },
+  {
+   "id": "stop",
+   "i": 13,
+   "text": "So what stops banks lending forever?",
+   "start": 50.94,
+   "end": 53.265,
+   "words": [
+    {
+     "w": "So",
+     "start": 50.94,
+     "end": 51.065
+    },
+    {
+     "w": "what",
+     "start": 51.065,
+     "end": 51.215
+    },
+    {
+     "w": "stops",
+     "start": 51.215,
+     "end": 51.603
+    },
+    {
+     "w": "banks",
+     "start": 51.603,
+     "end": 52.003
+    },
+    {
+     "w": "lending",
+     "start": 52.003,
+     "end": 52.428
+    },
+    {
+     "w": "forever?",
+     "start": 52.428,
+     "end": 53.265
+    }
+   ]
+  },
+  {
+   "id": "limits",
+   "i": 14,
+   "text": "Borrowers who can repay, capital rules, and the central bank's interest rate.",
+   "start": 53.875,
+   "end": 58.775,
+   "words": [
+    {
+     "w": "Borrowers",
+     "start": 53.875,
+     "end": 54.388
+    },
+    {
+     "w": "who",
+     "start": 54.388,
+     "end": 54.525
+    },
+    {
+     "w": "can",
+     "start": 54.525,
+     "end": 54.725
+    },
+    {
+     "w": "repay,",
+     "start": 54.725,
+     "end": 55.425
+    },
+    {
+     "w": "capital",
+     "start": 55.563,
+     "end": 56.025
+    },
+    {
+     "w": "rules,",
+     "start": 56.025,
+     "end": 56.675
+    },
+    {
+     "w": "and",
+     "start": 56.75,
+     "end": 56.863
+    },
+    {
+     "w": "the",
+     "start": 56.863,
+     "end": 56.963
+    },
+    {
+     "w": "central",
+     "start": 56.963,
+     "end": 57.375
+    },
+    {
+     "w": "bank's",
+     "start": 57.375,
+     "end": 57.725
+    },
+    {
+     "w": "interest",
+     "start": 57.725,
+     "end": 58.125
+    },
+    {
+     "w": "rate.",
+     "start": 58.125,
+     "end": 58.775
+    }
+   ]
+  },
+  {
+   "id": "repay",
+   "i": 15,
+   "text": "Over the years, the family repays. The loan shrinks, and that much money disappears.",
+   "start": 59.585,
+   "end": 65.16,
+   "words": [
+    {
+     "w": "Over",
+     "start": 59.585,
+     "end": 59.785
+    },
+    {
+     "w": "the",
+     "start": 59.785,
+     "end": 59.923
+    },
+    {
+     "w": "years,",
+     "start": 59.923,
+     "end": 60.31
+    },
+    {
+     "w": "the",
+     "start": 60.348,
+     "end": 60.448
+    },
+    {
+     "w": "family",
+     "start": 60.448,
+     "end": 60.885
+    },
+    {
+     "w": "repays.",
+     "start": 60.885,
+     "end": 61.86
+    },
+    {
+     "w": "The",
+     "start": 61.998,
+     "end": 62.148
+    },
+    {
+     "w": "loan",
+     "start": 62.148,
+     "end": 62.573
+    },
+    {
+     "w": "shrinks,",
+     "start": 62.573,
+     "end": 63.135
+    },
+    {
+     "w": "and",
+     "start": 63.185,
+     "end": 63.298
+    },
+    {
+     "w": "that",
+     "start": 63.298,
+     "end": 63.51
+    },
+    {
+     "w": "much",
+     "start": 63.51,
+     "end": 63.773
+    },
+    {
+     "w": "money",
+     "start": 63.773,
+     "end": 64.085
+    },
+    {
+     "w": "disappears.",
+     "start": 64.085,
+     "end": 65.16
+    }
+   ]
+  },
+  {
+   "id": "loop",
+   "i": 16,
+   "text": "Lend, spend, settle, repay. Round and round.",
+   "start": 65.97,
+   "end": 69.27,
+   "words": [
+    {
+     "w": "Lend,",
+     "start": 65.97,
+     "end": 66.22
+    },
+    {
+     "w": "spend,",
+     "start": 66.258,
+     "end": 66.545
+    },
+    {
+     "w": "settle,",
+     "start": 66.608,
+     "end": 66.895
+    },
+    {
+     "w": "repay.",
+     "start": 66.945,
+     "end": 67.62
+    },
+    {
+     "w": "Round",
+     "start": 67.82,
+     "end": 68.32
+    },
+    {
+     "w": "and",
+     "start": 68.32,
+     "end": 68.458
+    },
+    {
+     "w": "round.",
+     "start": 68.458,
+     "end": 69.27
+    }
+   ]
+  },
+  {
+   "id": "close",
+   "i": 17,
+   "text": "That's the making of money.",
+   "start": 69.93,
+   "end": 71.605,
+   "words": [
+    {
+     "w": "That's",
+     "start": 69.93,
+     "end": 70.23
+    },
+    {
+     "w": "the",
+     "start": 70.23,
+     "end": 70.355
+    },
+    {
+     "w": "making",
+     "start": 70.355,
+     "end": 70.755
+    },
+    {
+     "w": "of",
+     "start": 70.755,
+     "end": 70.905
+    },
+    {
+     "w": "money.",
+     "start": 70.905,
+     "end": 71.605
+    }
+   ]
+  }
+ ]
+}

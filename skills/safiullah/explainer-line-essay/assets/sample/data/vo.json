@@ -1,0 +1,937 @@
+{
+ "duration": 56.65,
+ "voice": "af_heart",
+ "words": 155,
+ "wpm_overall": 164.2,
+ "wpm_speech": 207.6,
+ "lines": [
+  {
+   "id": "hook1",
+   "i": 0,
+   "text": "This line was drawn by thousands of people who never met.",
+   "start": 0.36,
+   "end": 3.535,
+   "words": [
+    {
+     "w": "This",
+     "start": 0.36,
+     "end": 0.56
+    },
+    {
+     "w": "line",
+     "start": 0.56,
+     "end": 0.873
+    },
+    {
+     "w": "was",
+     "start": 0.873,
+     "end": 1.048
+    },
+    {
+     "w": "drawn",
+     "start": 1.048,
+     "end": 1.485
+    },
+    {
+     "w": "by",
+     "start": 1.485,
+     "end": 1.698
+    },
+    {
+     "w": "thousands",
+     "start": 1.698,
+     "end": 2.147
+    },
+    {
+     "w": "of",
+     "start": 2.147,
+     "end": 2.235
+    },
+    {
+     "w": "people",
+     "start": 2.235,
+     "end": 2.61
+    },
+    {
+     "w": "who",
+     "start": 2.61,
+     "end": 2.735
+    },
+    {
+     "w": "never",
+     "start": 2.735,
+     "end": 2.985
+    },
+    {
+     "w": "met.",
+     "start": 2.985,
+     "end": 3.535
+    }
+   ]
+  },
+  {
+   "id": "hook2",
+   "i": 1,
+   "text": "And this is the path they were given.",
+   "start": 4.165,
+   "end": 6.14,
+   "words": [
+    {
+     "w": "And",
+     "start": 4.165,
+     "end": 4.34
+    },
+    {
+     "w": "this",
+     "start": 4.34,
+     "end": 4.752
+    },
+    {
+     "w": "is",
+     "start": 4.752,
+     "end": 4.902
+    },
+    {
+     "w": "the",
+     "start": 4.902,
+     "end": 5.002
+    },
+    {
+     "w": "path",
+     "start": 5.002,
+     "end": 5.352
+    },
+    {
+     "w": "they",
+     "start": 5.352,
+     "end": 5.427
+    },
+    {
+     "w": "were",
+     "start": 5.427,
+     "end": 5.54
+    },
+    {
+     "w": "given.",
+     "start": 5.54,
+     "end": 6.14
+    }
+   ]
+  },
+  {
+   "id": "plan",
+   "i": 2,
+   "text": "The paved one is perfect. Right angles, every time.",
+   "start": 6.67,
+   "end": 9.87,
+   "words": [
+    {
+     "w": "The",
+     "start": 6.67,
+     "end": 6.745
+    },
+    {
+     "w": "paved",
+     "start": 6.745,
+     "end": 7.107
+    },
+    {
+     "w": "one",
+     "start": 7.107,
+     "end": 7.232
+    },
+    {
+     "w": "is",
+     "start": 7.232,
+     "end": 7.37
+    },
+    {
+     "w": "perfect.",
+     "start": 7.37,
+     "end": 8.07
+    },
+    {
+     "w": "Right",
+     "start": 8.207,
+     "end": 8.47
+    },
+    {
+     "w": "angles,",
+     "start": 8.47,
+     "end": 8.92
+    },
+    {
+     "w": "every",
+     "start": 8.97,
+     "end": 9.27
+    },
+    {
+     "w": "time.",
+     "start": 9.27,
+     "end": 9.87
+    }
+   ]
+  },
+  {
+   "id": "copies",
+   "i": 3,
+   "text": "The same plan, poured in park after park.",
+   "start": 10.44,
+   "end": 12.94,
+   "words": [
+    {
+     "w": "The",
+     "start": 10.44,
+     "end": 10.54
+    },
+    {
+     "w": "same",
+     "start": 10.54,
+     "end": 10.815
+    },
+    {
+     "w": "plan,",
+     "start": 10.815,
+     "end": 11.315
+    },
+    {
+     "w": "poured",
+     "start": 11.415,
+     "end": 11.678
+    },
+    {
+     "w": "in",
+     "start": 11.678,
+     "end": 11.815
+    },
+    {
+     "w": "park",
+     "start": 11.815,
+     "end": 12.077
+    },
+    {
+     "w": "after",
+     "start": 12.077,
+     "end": 12.34
+    },
+    {
+     "w": "park.",
+     "start": 12.34,
+     "end": 12.94
+    }
+   ]
+  },
+  {
+   "id": "look",
+   "i": 4,
+   "text": "But look at this one.",
+   "start": 13.51,
+   "end": 14.56,
+   "words": [
+    {
+     "w": "But",
+     "start": 13.51,
+     "end": 13.635
+    },
+    {
+     "w": "look",
+     "start": 13.635,
+     "end": 13.797
+    },
+    {
+     "w": "at",
+     "start": 13.797,
+     "end": 13.885
+    },
+    {
+     "w": "this",
+     "start": 13.885,
+     "end": 14.11
+    },
+    {
+     "w": "one.",
+     "start": 14.11,
+     "end": 14.56
+    }
+   ]
+  },
+  {
+   "id": "f1",
+   "i": 5,
+   "text": "It cuts the corner, because a diagonal is shorter.",
+   "start": 15.13,
+   "end": 17.93,
+   "words": [
+    {
+     "w": "It",
+     "start": 15.13,
+     "end": 15.255
+    },
+    {
+     "w": "cuts",
+     "start": 15.255,
+     "end": 15.555
+    },
+    {
+     "w": "the",
+     "start": 15.555,
+     "end": 15.655
+    },
+    {
+     "w": "corner,",
+     "start": 15.655,
+     "end": 16.205
+    },
+    {
+     "w": "because",
+     "start": 16.305,
+     "end": 16.542
+    },
+    {
+     "w": "a",
+     "start": 16.542,
+     "end": 16.605
+    },
+    {
+     "w": "diagonal",
+     "start": 16.605,
+     "end": 17.155
+    },
+    {
+     "w": "is",
+     "start": 17.155,
+     "end": 17.292
+    },
+    {
+     "w": "shorter.",
+     "start": 17.292,
+     "end": 17.93
+    }
+   ]
+  },
+  {
+   "id": "f2",
+   "i": 6,
+   "text": "It bends where the rain collects.",
+   "start": 18.54,
+   "end": 20.19,
+   "words": [
+    {
+     "w": "It",
+     "start": 18.54,
+     "end": 18.665
+    },
+    {
+     "w": "bends",
+     "start": 18.665,
+     "end": 19.002
+    },
+    {
+     "w": "where",
+     "start": 19.002,
+     "end": 19.127
+    },
+    {
+     "w": "the",
+     "start": 19.127,
+     "end": 19.215
+    },
+    {
+     "w": "rain",
+     "start": 19.215,
+     "end": 19.49
+    },
+    {
+     "w": "collects.",
+     "start": 19.49,
+     "end": 20.19
+    }
+   ]
+  },
+  {
+   "id": "f3",
+   "i": 7,
+   "text": "It's wider where strangers stepped aside to pass.",
+   "start": 20.74,
+   "end": 23.215,
+   "words": [
+    {
+     "w": "It's",
+     "start": 20.74,
+     "end": 20.94
+    },
+    {
+     "w": "wider",
+     "start": 20.94,
+     "end": 21.277
+    },
+    {
+     "w": "where",
+     "start": 21.277,
+     "end": 21.415
+    },
+    {
+     "w": "strangers",
+     "start": 21.415,
+     "end": 21.915
+    },
+    {
+     "w": "stepped",
+     "start": 21.915,
+     "end": 22.202
+    },
+    {
+     "w": "aside",
+     "start": 22.202,
+     "end": 22.527
+    },
+    {
+     "w": "to",
+     "start": 22.527,
+     "end": 22.615
+    },
+    {
+     "w": "pass.",
+     "start": 22.615,
+     "end": 23.215
+    }
+   ]
+  },
+  {
+   "id": "none",
+   "i": 8,
+   "text": "Nobody planned it. Nobody voted on it.",
+   "start": 23.825,
+   "end": 26.15,
+   "words": [
+    {
+     "w": "Nobody",
+     "start": 23.825,
+     "end": 24.175
+    },
+    {
+     "w": "planned",
+     "start": 24.175,
+     "end": 24.525
+    },
+    {
+     "w": "it.",
+     "start": 24.525,
+     "end": 24.8
+    },
+    {
+     "w": "Nobody",
+     "start": 24.912,
+     "end": 25.275
+    },
+    {
+     "w": "voted",
+     "start": 25.275,
+     "end": 25.612
+    },
+    {
+     "w": "on",
+     "start": 25.612,
+     "end": 25.775
+    },
+    {
+     "w": "it.",
+     "start": 25.775,
+     "end": 26.15
+    }
+   ]
+  },
+  {
+   "id": "steps",
+   "i": 9,
+   "text": "Each walker just pressed the grass a little flatter.",
+   "start": 26.72,
+   "end": 29.17,
+   "words": [
+    {
+     "w": "Each",
+     "start": 26.72,
+     "end": 26.97
+    },
+    {
+     "w": "walker",
+     "start": 26.97,
+     "end": 27.345
+    },
+    {
+     "w": "just",
+     "start": 27.345,
+     "end": 27.57
+    },
+    {
+     "w": "pressed",
+     "start": 27.57,
+     "end": 27.857
+    },
+    {
+     "w": "the",
+     "start": 27.857,
+     "end": 27.945
+    },
+    {
+     "w": "grass",
+     "start": 27.945,
+     "end": 28.282
+    },
+    {
+     "w": "a",
+     "start": 28.282,
+     "end": 28.332
+    },
+    {
+     "w": "little",
+     "start": 28.332,
+     "end": 28.52
+    },
+    {
+     "w": "flatter.",
+     "start": 28.52,
+     "end": 29.17
+    }
+   ]
+  },
+  {
+   "id": "name",
+   "i": 10,
+   "text": "Planners even have a name for it. Desire paths.",
+   "start": 29.74,
+   "end": 32.49,
+   "words": [
+    {
+     "w": "Planners",
+     "start": 29.74,
+     "end": 30.19
+    },
+    {
+     "w": "even",
+     "start": 30.19,
+     "end": 30.44
+    },
+    {
+     "w": "have",
+     "start": 30.44,
+     "end": 30.577
+    },
+    {
+     "w": "a",
+     "start": 30.577,
+     "end": 30.627
+    },
+    {
+     "w": "name",
+     "start": 30.627,
+     "end": 30.865
+    },
+    {
+     "w": "for",
+     "start": 30.865,
+     "end": 31.04
+    },
+    {
+     "w": "it.",
+     "start": 31.04,
+     "end": 31.315
+    },
+    {
+     "w": "Desire",
+     "start": 31.415,
+     "end": 31.815
+    },
+    {
+     "w": "paths.",
+     "start": 31.815,
+     "end": 32.49
+    }
+   ]
+  },
+  {
+   "id": "turn",
+   "i": 11,
+   "text": "That's the thing about people.",
+   "start": 33.12,
+   "end": 34.62,
+   "words": [
+    {
+     "w": "That's",
+     "start": 33.12,
+     "end": 33.42
+    },
+    {
+     "w": "the",
+     "start": 33.42,
+     "end": 33.52
+    },
+    {
+     "w": "thing",
+     "start": 33.52,
+     "end": 33.707
+    },
+    {
+     "w": "about",
+     "start": 33.707,
+     "end": 33.995
+    },
+    {
+     "w": "people.",
+     "start": 33.995,
+     "end": 34.62
+    }
+   ]
+  },
+  {
+   "id": "thesis",
+   "i": 12,
+   "text": "We don't walk where we're told. We walk where we mean to go.",
+   "start": 35.17,
+   "end": 38.02,
+   "words": [
+    {
+     "w": "We",
+     "start": 35.17,
+     "end": 35.257
+    },
+    {
+     "w": "don't",
+     "start": 35.257,
+     "end": 35.445
+    },
+    {
+     "w": "walk",
+     "start": 35.445,
+     "end": 35.707
+    },
+    {
+     "w": "where",
+     "start": 35.707,
+     "end": 35.832
+    },
+    {
+     "w": "we're",
+     "start": 35.832,
+     "end": 35.945
+    },
+    {
+     "w": "told.",
+     "start": 35.945,
+     "end": 36.52
+    },
+    {
+     "w": "We",
+     "start": 36.62,
+     "end": 36.77
+    },
+    {
+     "w": "walk",
+     "start": 36.77,
+     "end": 37.007
+    },
+    {
+     "w": "where",
+     "start": 37.007,
+     "end": 37.132
+    },
+    {
+     "w": "we",
+     "start": 37.132,
+     "end": 37.22
+    },
+    {
+     "w": "mean",
+     "start": 37.22,
+     "end": 37.42
+    },
+    {
+     "w": "to",
+     "start": 37.42,
+     "end": 37.52
+    },
+    {
+     "w": "go.",
+     "start": 37.52,
+     "end": 38.02
+    }
+   ]
+  },
+  {
+   "id": "proof",
+   "i": 13,
+   "text": "A worn path is proof that someone was here, and the next person agreed.",
+   "start": 38.59,
+   "end": 42.515,
+   "words": [
+    {
+     "w": "A",
+     "start": 38.59,
+     "end": 38.677
+    },
+    {
+     "w": "worn",
+     "start": 38.677,
+     "end": 39.027
+    },
+    {
+     "w": "path",
+     "start": 39.027,
+     "end": 39.39
+    },
+    {
+     "w": "is",
+     "start": 39.39,
+     "end": 39.552
+    },
+    {
+     "w": "proof",
+     "start": 39.552,
+     "end": 39.89
+    },
+    {
+     "w": "that",
+     "start": 39.89,
+     "end": 40.04
+    },
+    {
+     "w": "someone",
+     "start": 40.04,
+     "end": 40.277
+    },
+    {
+     "w": "was",
+     "start": 40.277,
+     "end": 40.44
+    },
+    {
+     "w": "here,",
+     "start": 40.44,
+     "end": 40.915
+    },
+    {
+     "w": "and",
+     "start": 41.015,
+     "end": 41.127
+    },
+    {
+     "w": "the",
+     "start": 41.127,
+     "end": 41.215
+    },
+    {
+     "w": "next",
+     "start": 41.215,
+     "end": 41.49
+    },
+    {
+     "w": "person",
+     "start": 41.49,
+     "end": 41.815
+    },
+    {
+     "w": "agreed.",
+     "start": 41.815,
+     "end": 42.515
+    }
+   ]
+  },
+  {
+   "id": "copy",
+   "i": 14,
+   "text": "A plan can be copied anywhere. The reasons we walk can't.",
+   "start": 43.085,
+   "end": 46.335,
+   "words": [
+    {
+     "w": "A",
+     "start": 43.085,
+     "end": 43.16
+    },
+    {
+     "w": "plan",
+     "start": 43.16,
+     "end": 43.485
+    },
+    {
+     "w": "can",
+     "start": 43.485,
+     "end": 43.597
+    },
+    {
+     "w": "be",
+     "start": 43.597,
+     "end": 43.71
+    },
+    {
+     "w": "copied",
+     "start": 43.71,
+     "end": 44.06
+    },
+    {
+     "w": "anywhere.",
+     "start": 44.06,
+     "end": 44.685
+    },
+    {
+     "w": "The",
+     "start": 44.81,
+     "end": 44.935
+    },
+    {
+     "w": "reasons",
+     "start": 44.935,
+     "end": 45.36
+    },
+    {
+     "w": "we",
+     "start": 45.36,
+     "end": 45.51
+    },
+    {
+     "w": "walk",
+     "start": 45.51,
+     "end": 45.785
+    },
+    {
+     "w": "can't.",
+     "start": 45.785,
+     "end": 46.335
+    }
+   ]
+  },
+  {
+   "id": "close",
+   "i": 15,
+   "text": "The straightest lines in a city are drawn by planners. The truest ones are drawn by people.",
+   "start": 46.945,
+   "end": 51.92,
+   "words": [
+    {
+     "w": "The",
+     "start": 46.945,
+     "end": 47.057
+    },
+    {
+     "w": "straightest",
+     "start": 47.057,
+     "end": 47.52
+    },
+    {
+     "w": "lines",
+     "start": 47.52,
+     "end": 47.857
+    },
+    {
+     "w": "in",
+     "start": 47.857,
+     "end": 47.932
+    },
+    {
+     "w": "a",
+     "start": 47.932,
+     "end": 48.007
+    },
+    {
+     "w": "city",
+     "start": 48.007,
+     "end": 48.407
+    },
+    {
+     "w": "are",
+     "start": 48.407,
+     "end": 48.582
+    },
+    {
+     "w": "drawn",
+     "start": 48.582,
+     "end": 48.92
+    },
+    {
+     "w": "by",
+     "start": 48.92,
+     "end": 49.07
+    },
+    {
+     "w": "planners.",
+     "start": 49.07,
+     "end": 49.895
+    },
+    {
+     "w": "The",
+     "start": 49.995,
+     "end": 50.095
+    },
+    {
+     "w": "truest",
+     "start": 50.095,
+     "end": 50.532
+    },
+    {
+     "w": "ones",
+     "start": 50.532,
+     "end": 50.757
+    },
+    {
+     "w": "are",
+     "start": 50.757,
+     "end": 50.845
+    },
+    {
+     "w": "drawn",
+     "start": 50.845,
+     "end": 51.145
+    },
+    {
+     "w": "by",
+     "start": 51.145,
+     "end": 51.295
+    },
+    {
+     "w": "people.",
+     "start": 51.295,
+     "end": 51.92
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "i": 16,
+   "text": "Follow for more things worth noticing.",
+   "start": 52.55,
+   "end": 54.5,
+   "words": [
+    {
+     "w": "Follow",
+     "start": 52.55,
+     "end": 52.85
+    },
+    {
+     "w": "for",
+     "start": 52.85,
+     "end": 52.975
+    },
+    {
+     "w": "more",
+     "start": 52.975,
+     "end": 53.2
+    },
+    {
+     "w": "things",
+     "start": 53.2,
+     "end": 53.5
+    },
+    {
+     "w": "worth",
+     "start": 53.5,
+     "end": 53.75
+    },
+    {
+     "w": "noticing.",
+     "start": 53.75,
+     "end": 54.5
+    }
+   ]
+  }
+ ]
+}

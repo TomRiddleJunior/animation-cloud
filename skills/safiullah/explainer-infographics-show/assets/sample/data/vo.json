@@ -1,0 +1,1426 @@
+{
+ "duration": 72.48,
+ "voice": "am_puck",
+ "words": 251,
+ "wpm_overall": 207.8,
+ "wpm_speech": 234.6,
+ "lines": [
+  {
+   "id": "hook1",
+   "i": 0,
+   "text": "Imagine this: you wake up on Mars to a blaring alarm.",
+   "start": 0.46,
+   "end": 3.135,
+   "words": [
+    {
+     "w": "Imagine",
+     "start": 0.46,
+     "end": 0.81
+    },
+    {
+     "w": "this:",
+     "start": 0.81,
+     "end": 1.06
+    },
+    {
+     "w": "you",
+     "start": 1.11,
+     "end": 1.21
+    },
+    {
+     "w": "wake",
+     "start": 1.21,
+     "end": 1.397
+    },
+    {
+     "w": "up",
+     "start": 1.397,
+     "end": 1.522
+    },
+    {
+     "w": "on",
+     "start": 1.522,
+     "end": 1.66
+    },
+    {
+     "w": "Mars",
+     "start": 1.66,
+     "end": 1.96
+    },
+    {
+     "w": "to",
+     "start": 1.96,
+     "end": 2.047
+    },
+    {
+     "w": "a",
+     "start": 2.047,
+     "end": 2.11
+    },
+    {
+     "w": "blaring",
+     "start": 2.11,
+     "end": 2.46
+    },
+    {
+     "w": "alarm.",
+     "start": 2.46,
+     "end": 3.135
+    }
+   ]
+  },
+  {
+   "id": "hook2",
+   "i": 1,
+   "text": "Your crew already flew home, and the last ride off the planet is a shrinking dot in the sky.",
+   "start": 3.405,
+   "end": 7.955,
+   "words": [
+    {
+     "w": "Your",
+     "start": 3.405,
+     "end": 3.53
+    },
+    {
+     "w": "crew",
+     "start": 3.53,
+     "end": 3.755
+    },
+    {
+     "w": "already",
+     "start": 3.755,
+     "end": 4.13
+    },
+    {
+     "w": "flew",
+     "start": 4.13,
+     "end": 4.355
+    },
+    {
+     "w": "home,",
+     "start": 4.355,
+     "end": 4.705
+    },
+    {
+     "w": "and",
+     "start": 4.78,
+     "end": 4.892
+    },
+    {
+     "w": "the",
+     "start": 4.892,
+     "end": 4.98
+    },
+    {
+     "w": "last",
+     "start": 4.98,
+     "end": 5.305
+    },
+    {
+     "w": "ride",
+     "start": 5.305,
+     "end": 5.517
+    },
+    {
+     "w": "off",
+     "start": 5.517,
+     "end": 5.692
+    },
+    {
+     "w": "the",
+     "start": 5.692,
+     "end": 5.78
+    },
+    {
+     "w": "planet",
+     "start": 5.78,
+     "end": 6.155
+    },
+    {
+     "w": "is",
+     "start": 6.155,
+     "end": 6.267
+    },
+    {
+     "w": "a",
+     "start": 6.267,
+     "end": 6.367
+    },
+    {
+     "w": "shrinking",
+     "start": 6.367,
+     "end": 6.755
+    },
+    {
+     "w": "dot",
+     "start": 6.755,
+     "end": 7.017
+    },
+    {
+     "w": "in",
+     "start": 7.017,
+     "end": 7.092
+    },
+    {
+     "w": "the",
+     "start": 7.092,
+     "end": 7.18
+    },
+    {
+     "w": "sky.",
+     "start": 7.18,
+     "end": 7.955
+    }
+   ]
+  },
+  {
+   "id": "hook3",
+   "i": 2,
+   "text": "Congratulations, you're now the loneliest person in the solar system.",
+   "start": 8.225,
+   "end": 11.5,
+   "words": [
+    {
+     "w": "Congratulations,",
+     "start": 8.225,
+     "end": 9.1
+    },
+    {
+     "w": "you're",
+     "start": 9.15,
+     "end": 9.263
+    },
+    {
+     "w": "now",
+     "start": 9.263,
+     "end": 9.413
+    },
+    {
+     "w": "the",
+     "start": 9.413,
+     "end": 9.525
+    },
+    {
+     "w": "loneliest",
+     "start": 9.525,
+     "end": 9.975
+    },
+    {
+     "w": "person",
+     "start": 9.975,
+     "end": 10.313
+    },
+    {
+     "w": "in",
+     "start": 10.313,
+     "end": 10.388
+    },
+    {
+     "w": "the",
+     "start": 10.388,
+     "end": 10.475
+    },
+    {
+     "w": "solar",
+     "start": 10.475,
+     "end": 10.775
+    },
+    {
+     "w": "system.",
+     "start": 10.775,
+     "end": 11.5
+    }
+   ]
+  },
+  {
+   "id": "title",
+   "i": 3,
+   "text": "So could you survive? Let's find out, on this episode of Worst Case.",
+   "start": 11.83,
+   "end": 15.005,
+   "words": [
+    {
+     "w": "So",
+     "start": 11.83,
+     "end": 11.93
+    },
+    {
+     "w": "could",
+     "start": 11.93,
+     "end": 12.043
+    },
+    {
+     "w": "you",
+     "start": 12.043,
+     "end": 12.13
+    },
+    {
+     "w": "survive?",
+     "start": 12.13,
+     "end": 12.655
+    },
+    {
+     "w": "Let's",
+     "start": 12.73,
+     "end": 12.905
+    },
+    {
+     "w": "find",
+     "start": 12.905,
+     "end": 13.117
+    },
+    {
+     "w": "out,",
+     "start": 13.117,
+     "end": 13.255
+    },
+    {
+     "w": "on",
+     "start": 13.293,
+     "end": 13.393
+    },
+    {
+     "w": "this",
+     "start": 13.393,
+     "end": 13.555
+    },
+    {
+     "w": "episode",
+     "start": 13.555,
+     "end": 13.967
+    },
+    {
+     "w": "of",
+     "start": 13.967,
+     "end": 14.055
+    },
+    {
+     "w": "Worst",
+     "start": 14.055,
+     "end": 14.33
+    },
+    {
+     "w": "Case.",
+     "start": 14.33,
+     "end": 15.005
+    }
+   ]
+  },
+  {
+   "id": "setup",
+   "i": 4,
+   "text": "Mars looks friendly enough, but it's trying to kill you in at least four ways.",
+   "start": 15.335,
+   "end": 18.71,
+   "words": [
+    {
+     "w": "Mars",
+     "start": 15.335,
+     "end": 15.622
+    },
+    {
+     "w": "looks",
+     "start": 15.622,
+     "end": 15.835
+    },
+    {
+     "w": "friendly",
+     "start": 15.835,
+     "end": 16.172
+    },
+    {
+     "w": "enough,",
+     "start": 16.172,
+     "end": 16.385
+    },
+    {
+     "w": "but",
+     "start": 16.422,
+     "end": 16.547
+    },
+    {
+     "w": "it's",
+     "start": 16.547,
+     "end": 16.66
+    },
+    {
+     "w": "trying",
+     "start": 16.66,
+     "end": 16.922
+    },
+    {
+     "w": "to",
+     "start": 16.922,
+     "end": 17.01
+    },
+    {
+     "w": "kill",
+     "start": 17.01,
+     "end": 17.26
+    },
+    {
+     "w": "you",
+     "start": 17.26,
+     "end": 17.397
+    },
+    {
+     "w": "in",
+     "start": 17.397,
+     "end": 17.472
+    },
+    {
+     "w": "at",
+     "start": 17.472,
+     "end": 17.547
+    },
+    {
+     "w": "least",
+     "start": 17.547,
+     "end": 17.76
+    },
+    {
+     "w": "four",
+     "start": 17.76,
+     "end": 17.985
+    },
+    {
+     "w": "ways.",
+     "start": 17.985,
+     "end": 18.71
+    }
+   ]
+  },
+  {
+   "id": "air1",
+   "i": 5,
+   "text": "First, the air. Mars has less than one percent of Earth's air pressure, and it's mostly carbon dioxide.",
+   "start": 19.04,
+   "end": 24.29,
+   "words": [
+    {
+     "w": "First,",
+     "start": 19.04,
+     "end": 19.315
+    },
+    {
+     "w": "the",
+     "start": 19.352,
+     "end": 19.465
+    },
+    {
+     "w": "air.",
+     "start": 19.465,
+     "end": 19.74
+    },
+    {
+     "w": "Mars",
+     "start": 19.815,
+     "end": 20.128
+    },
+    {
+     "w": "has",
+     "start": 20.128,
+     "end": 20.315
+    },
+    {
+     "w": "less",
+     "start": 20.315,
+     "end": 20.54
+    },
+    {
+     "w": "than",
+     "start": 20.54,
+     "end": 20.715
+    },
+    {
+     "w": "one",
+     "start": 20.715,
+     "end": 20.94
+    },
+    {
+     "w": "percent",
+     "start": 20.94,
+     "end": 21.253
+    },
+    {
+     "w": "of",
+     "start": 21.253,
+     "end": 21.34
+    },
+    {
+     "w": "Earth's",
+     "start": 21.34,
+     "end": 21.64
+    },
+    {
+     "w": "air",
+     "start": 21.64,
+     "end": 21.84
+    },
+    {
+     "w": "pressure,",
+     "start": 21.84,
+     "end": 22.24
+    },
+    {
+     "w": "and",
+     "start": 22.315,
+     "end": 22.428
+    },
+    {
+     "w": "it's",
+     "start": 22.428,
+     "end": 22.565
+    },
+    {
+     "w": "mostly",
+     "start": 22.565,
+     "end": 22.94
+    },
+    {
+     "w": "carbon",
+     "start": 22.94,
+     "end": 23.315
+    },
+    {
+     "w": "dioxide.",
+     "start": 23.315,
+     "end": 24.29
+    }
+   ]
+  },
+  {
+   "id": "air2",
+   "i": 6,
+   "text": "Step outside without a suit and you'd pass out in about fifteen seconds.",
+   "start": 24.56,
+   "end": 28.01,
+   "words": [
+    {
+     "w": "Step",
+     "start": 24.56,
+     "end": 24.772
+    },
+    {
+     "w": "outside",
+     "start": 24.772,
+     "end": 25.172
+    },
+    {
+     "w": "without",
+     "start": 25.172,
+     "end": 25.397
+    },
+    {
+     "w": "a",
+     "start": 25.397,
+     "end": 25.473
+    },
+    {
+     "w": "suit",
+     "start": 25.473,
+     "end": 25.81
+    },
+    {
+     "w": "and",
+     "start": 25.81,
+     "end": 25.922
+    },
+    {
+     "w": "you'd",
+     "start": 25.922,
+     "end": 26.035
+    },
+    {
+     "w": "pass",
+     "start": 26.035,
+     "end": 26.31
+    },
+    {
+     "w": "out",
+     "start": 26.31,
+     "end": 26.473
+    },
+    {
+     "w": "in",
+     "start": 26.473,
+     "end": 26.547
+    },
+    {
+     "w": "about",
+     "start": 26.547,
+     "end": 26.81
+    },
+    {
+     "w": "fifteen",
+     "start": 26.81,
+     "end": 27.21
+    },
+    {
+     "w": "seconds.",
+     "start": 27.21,
+     "end": 28.01
+    }
+   ]
+  },
+  {
+   "id": "air3",
+   "i": 7,
+   "text": "So the helmet stays on, even when your nose itches.",
+   "start": 28.28,
+   "end": 30.755,
+   "words": [
+    {
+     "w": "So",
+     "start": 28.28,
+     "end": 28.367
+    },
+    {
+     "w": "the",
+     "start": 28.367,
+     "end": 28.455
+    },
+    {
+     "w": "helmet",
+     "start": 28.455,
+     "end": 28.767
+    },
+    {
+     "w": "stays",
+     "start": 28.767,
+     "end": 29.03
+    },
+    {
+     "w": "on,",
+     "start": 29.03,
+     "end": 29.28
+    },
+    {
+     "w": "even",
+     "start": 29.355,
+     "end": 29.592
+    },
+    {
+     "w": "when",
+     "start": 29.592,
+     "end": 29.717
+    },
+    {
+     "w": "your",
+     "start": 29.717,
+     "end": 29.817
+    },
+    {
+     "w": "nose",
+     "start": 29.817,
+     "end": 30.055
+    },
+    {
+     "w": "itches.",
+     "start": 30.055,
+     "end": 30.755
+    }
+   ]
+  },
+  {
+   "id": "cold1",
+   "i": 8,
+   "text": "Problem two: the cold. It averages minus eighty degrees Fahrenheit, and your heater runs on solar power.",
+   "start": 31.085,
+   "end": 36.41,
+   "words": [
+    {
+     "w": "Problem",
+     "start": 31.085,
+     "end": 31.485
+    },
+    {
+     "w": "two:",
+     "start": 31.485,
+     "end": 31.71
+    },
+    {
+     "w": "the",
+     "start": 31.747,
+     "end": 31.835
+    },
+    {
+     "w": "cold.",
+     "start": 31.835,
+     "end": 32.21
+    },
+    {
+     "w": "It",
+     "start": 32.248,
+     "end": 32.36
+    },
+    {
+     "w": "averages",
+     "start": 32.36,
+     "end": 32.797
+    },
+    {
+     "w": "minus",
+     "start": 32.797,
+     "end": 33.16
+    },
+    {
+     "w": "eighty",
+     "start": 33.16,
+     "end": 33.41
+    },
+    {
+     "w": "degrees",
+     "start": 33.41,
+     "end": 33.76
+    },
+    {
+     "w": "Fahrenheit,",
+     "start": 33.76,
+     "end": 34.26
+    },
+    {
+     "w": "and",
+     "start": 34.297,
+     "end": 34.398
+    },
+    {
+     "w": "your",
+     "start": 34.398,
+     "end": 34.51
+    },
+    {
+     "w": "heater",
+     "start": 34.51,
+     "end": 34.835
+    },
+    {
+     "w": "runs",
+     "start": 34.835,
+     "end": 35.172
+    },
+    {
+     "w": "on",
+     "start": 35.172,
+     "end": 35.36
+    },
+    {
+     "w": "solar",
+     "start": 35.36,
+     "end": 35.66
+    },
+    {
+     "w": "power.",
+     "start": 35.66,
+     "end": 36.41
+    }
+   ]
+  },
+  {
+   "id": "cold2",
+   "i": 9,
+   "text": "Great, until a dust storm blots out the sun for weeks.",
+   "start": 36.68,
+   "end": 39.305,
+   "words": [
+    {
+     "w": "Great,",
+     "start": 36.68,
+     "end": 36.98
+    },
+    {
+     "w": "until",
+     "start": 37.018,
+     "end": 37.243
+    },
+    {
+     "w": "a",
+     "start": 37.243,
+     "end": 37.305
+    },
+    {
+     "w": "dust",
+     "start": 37.305,
+     "end": 37.543
+    },
+    {
+     "w": "storm",
+     "start": 37.543,
+     "end": 37.83
+    },
+    {
+     "w": "blots",
+     "start": 37.83,
+     "end": 38.093
+    },
+    {
+     "w": "out",
+     "start": 38.093,
+     "end": 38.218
+    },
+    {
+     "w": "the",
+     "start": 38.218,
+     "end": 38.305
+    },
+    {
+     "w": "sun",
+     "start": 38.305,
+     "end": 38.555
+    },
+    {
+     "w": "for",
+     "start": 38.555,
+     "end": 38.68
+    },
+    {
+     "w": "weeks.",
+     "start": 38.68,
+     "end": 39.305
+    }
+   ]
+  },
+  {
+   "id": "food1",
+   "i": 10,
+   "text": "Next, dinner. The water is frozen in the ground, so you'll dig up ice and melt it.",
+   "start": 39.635,
+   "end": 43.41,
+   "words": [
+    {
+     "w": "Next,",
+     "start": 39.635,
+     "end": 39.86
+    },
+    {
+     "w": "dinner.",
+     "start": 39.898,
+     "end": 40.185
+    },
+    {
+     "w": "The",
+     "start": 40.26,
+     "end": 40.36
+    },
+    {
+     "w": "water",
+     "start": 40.36,
+     "end": 40.672
+    },
+    {
+     "w": "is",
+     "start": 40.672,
+     "end": 40.785
+    },
+    {
+     "w": "frozen",
+     "start": 40.785,
+     "end": 41.123
+    },
+    {
+     "w": "in",
+     "start": 41.123,
+     "end": 41.197
+    },
+    {
+     "w": "the",
+     "start": 41.197,
+     "end": 41.285
+    },
+    {
+     "w": "ground,",
+     "start": 41.285,
+     "end": 41.635
+    },
+    {
+     "w": "so",
+     "start": 41.672,
+     "end": 41.773
+    },
+    {
+     "w": "you'll",
+     "start": 41.773,
+     "end": 41.885
+    },
+    {
+     "w": "dig",
+     "start": 41.885,
+     "end": 42.072
+    },
+    {
+     "w": "up",
+     "start": 42.072,
+     "end": 42.235
+    },
+    {
+     "w": "ice",
+     "start": 42.235,
+     "end": 42.51
+    },
+    {
+     "w": "and",
+     "start": 42.51,
+     "end": 42.635
+    },
+    {
+     "w": "melt",
+     "start": 42.635,
+     "end": 42.885
+    },
+    {
+     "w": "it.",
+     "start": 42.885,
+     "end": 43.41
+    }
+   ]
+  },
+  {
+   "id": "food2",
+   "i": 11,
+   "text": "The soil is laced with toxic salts, so wash it, then grow about a dozen potatoes a day.",
+   "start": 43.68,
+   "end": 48.155,
+   "words": [
+    {
+     "w": "The",
+     "start": 43.68,
+     "end": 43.78
+    },
+    {
+     "w": "soil",
+     "start": 43.78,
+     "end": 44.08
+    },
+    {
+     "w": "is",
+     "start": 44.08,
+     "end": 44.23
+    },
+    {
+     "w": "laced",
+     "start": 44.23,
+     "end": 44.468
+    },
+    {
+     "w": "with",
+     "start": 44.468,
+     "end": 44.605
+    },
+    {
+     "w": "toxic",
+     "start": 44.605,
+     "end": 45.005
+    },
+    {
+     "w": "salts,",
+     "start": 45.005,
+     "end": 45.33
+    },
+    {
+     "w": "so",
+     "start": 45.38,
+     "end": 45.555
+    },
+    {
+     "w": "wash",
+     "start": 45.555,
+     "end": 45.855
+    },
+    {
+     "w": "it,",
+     "start": 45.855,
+     "end": 45.98
+    },
+    {
+     "w": "then",
+     "start": 46.018,
+     "end": 46.205
+    },
+    {
+     "w": "grow",
+     "start": 46.205,
+     "end": 46.418
+    },
+    {
+     "w": "about",
+     "start": 46.418,
+     "end": 46.593
+    },
+    {
+     "w": "a",
+     "start": 46.593,
+     "end": 46.655
+    },
+    {
+     "w": "dozen",
+     "start": 46.655,
+     "end": 47.005
+    },
+    {
+     "w": "potatoes",
+     "start": 47.005,
+     "end": 47.393
+    },
+    {
+     "w": "a",
+     "start": 47.393,
+     "end": 47.455
+    },
+    {
+     "w": "day.",
+     "start": 47.455,
+     "end": 48.155
+    }
+   ]
+  },
+  {
+   "id": "food3",
+   "i": 12,
+   "text": "And fertilizer? Let's just say you make that yourself.",
+   "start": 48.425,
+   "end": 50.75,
+   "words": [
+    {
+     "w": "And",
+     "start": 48.425,
+     "end": 48.55
+    },
+    {
+     "w": "fertilizer?",
+     "start": 48.55,
+     "end": 49.075
+    },
+    {
+     "w": "Let's",
+     "start": 49.15,
+     "end": 49.325
+    },
+    {
+     "w": "just",
+     "start": 49.325,
+     "end": 49.488
+    },
+    {
+     "w": "say",
+     "start": 49.488,
+     "end": 49.613
+    },
+    {
+     "w": "you",
+     "start": 49.613,
+     "end": 49.688
+    },
+    {
+     "w": "make",
+     "start": 49.688,
+     "end": 49.863
+    },
+    {
+     "w": "that",
+     "start": 49.863,
+     "end": 50.013
+    },
+    {
+     "w": "yourself.",
+     "start": 50.013,
+     "end": 50.75
+    }
+   ]
+  },
+  {
+   "id": "home1",
+   "i": 13,
+   "text": "Then there's the big one: getting home. The planets only line up for a launch about once every twenty-six months, and the trip takes another seven.",
+   "start": 51.08,
+   "end": 58.255,
+   "words": [
+    {
+     "w": "Then",
+     "start": 51.08,
+     "end": 51.28
+    },
+    {
+     "w": "there's",
+     "start": 51.28,
+     "end": 51.492
+    },
+    {
+     "w": "the",
+     "start": 51.492,
+     "end": 51.58
+    },
+    {
+     "w": "big",
+     "start": 51.58,
+     "end": 51.805
+    },
+    {
+     "w": "one:",
+     "start": 51.805,
+     "end": 52.03
+    },
+    {
+     "w": "getting",
+     "start": 52.105,
+     "end": 52.405
+    },
+    {
+     "w": "home.",
+     "start": 52.405,
+     "end": 52.83
+    },
+    {
+     "w": "The",
+     "start": 52.93,
+     "end": 53.03
+    },
+    {
+     "w": "planets",
+     "start": 53.03,
+     "end": 53.43
+    },
+    {
+     "w": "only",
+     "start": 53.43,
+     "end": 53.73
+    },
+    {
+     "w": "line",
+     "start": 53.73,
+     "end": 53.917
+    },
+    {
+     "w": "up",
+     "start": 53.917,
+     "end": 54.105
+    },
+    {
+     "w": "for",
+     "start": 54.105,
+     "end": 54.23
+    },
+    {
+     "w": "a",
+     "start": 54.23,
+     "end": 54.33
+    },
+    {
+     "w": "launch",
+     "start": 54.33,
+     "end": 54.642
+    },
+    {
+     "w": "about",
+     "start": 54.642,
+     "end": 54.905
+    },
+    {
+     "w": "once",
+     "start": 54.905,
+     "end": 55.18
+    },
+    {
+     "w": "every",
+     "start": 55.18,
+     "end": 55.48
+    },
+    {
+     "w": "twenty-six",
+     "start": 55.48,
+     "end": 56.005
+    },
+    {
+     "w": "months,",
+     "start": 56.005,
+     "end": 56.305
+    },
+    {
+     "w": "and",
+     "start": 56.342,
+     "end": 56.442
+    },
+    {
+     "w": "the",
+     "start": 56.442,
+     "end": 56.53
+    },
+    {
+     "w": "trip",
+     "start": 56.53,
+     "end": 56.805
+    },
+    {
+     "w": "takes",
+     "start": 56.805,
+     "end": 57.042
+    },
+    {
+     "w": "another",
+     "start": 57.042,
+     "end": 57.417
+    },
+    {
+     "w": "seven.",
+     "start": 57.417,
+     "end": 58.255
+    }
+   ]
+  },
+  {
+   "id": "home2",
+   "i": 14,
+   "text": "That's nearly three years of waiting.",
+   "start": 58.525,
+   "end": 60.025,
+   "words": [
+    {
+     "w": "That's",
+     "start": 58.525,
+     "end": 58.687
+    },
+    {
+     "w": "nearly",
+     "start": 58.687,
+     "end": 58.95
+    },
+    {
+     "w": "three",
+     "start": 58.95,
+     "end": 59.137
+    },
+    {
+     "w": "years",
+     "start": 59.137,
+     "end": 59.337
+    },
+    {
+     "w": "of",
+     "start": 59.337,
+     "end": 59.425
+    },
+    {
+     "w": "waiting.",
+     "start": 59.425,
+     "end": 60.025
+    }
+   ]
+  },
+  {
+   "id": "verdict1",
+   "i": 15,
+   "text": "So, could you survive? With tons of supplies and no sense of smell, maybe.",
+   "start": 60.355,
+   "end": 63.88,
+   "words": [
+    {
+     "w": "So,",
+     "start": 60.355,
+     "end": 60.48
+    },
+    {
+     "w": "could",
+     "start": 60.53,
+     "end": 60.642
+    },
+    {
+     "w": "you",
+     "start": 60.642,
+     "end": 60.73
+    },
+    {
+     "w": "survive?",
+     "start": 60.73,
+     "end": 61.255
+    },
+    {
+     "w": "With",
+     "start": 61.317,
+     "end": 61.505
+    },
+    {
+     "w": "tons",
+     "start": 61.505,
+     "end": 61.767
+    },
+    {
+     "w": "of",
+     "start": 61.767,
+     "end": 61.855
+    },
+    {
+     "w": "supplies",
+     "start": 61.855,
+     "end": 62.342
+    },
+    {
+     "w": "and",
+     "start": 62.342,
+     "end": 62.455
+    },
+    {
+     "w": "no",
+     "start": 62.455,
+     "end": 62.63
+    },
+    {
+     "w": "sense",
+     "start": 62.63,
+     "end": 62.842
+    },
+    {
+     "w": "of",
+     "start": 62.842,
+     "end": 62.93
+    },
+    {
+     "w": "smell,",
+     "start": 62.93,
+     "end": 63.18
+    },
+    {
+     "w": "maybe.",
+     "start": 63.217,
+     "end": 63.88
+    }
+   ]
+  },
+  {
+   "id": "verdict2",
+   "i": 16,
+   "text": "But alone for three years? We wouldn't bet on it.",
+   "start": 64.15,
+   "end": 66.325,
+   "words": [
+    {
+     "w": "But",
+     "start": 64.15,
+     "end": 64.262
+    },
+    {
+     "w": "alone",
+     "start": 64.262,
+     "end": 64.55
+    },
+    {
+     "w": "for",
+     "start": 64.55,
+     "end": 64.675
+    },
+    {
+     "w": "three",
+     "start": 64.675,
+     "end": 64.9
+    },
+    {
+     "w": "years?",
+     "start": 64.9,
+     "end": 65.2
+    },
+    {
+     "w": "We",
+     "start": 65.237,
+     "end": 65.337
+    },
+    {
+     "w": "wouldn't",
+     "start": 65.337,
+     "end": 65.55
+    },
+    {
+     "w": "bet",
+     "start": 65.55,
+     "end": 65.712
+    },
+    {
+     "w": "on",
+     "start": 65.712,
+     "end": 65.875
+    },
+    {
+     "w": "it.",
+     "start": 65.875,
+     "end": 66.325
+    }
+   ]
+  },
+  {
+   "id": "outro",
+   "i": 17,
+   "text": "Would you take a one-way trip to Mars? Let us know in the comments!",
+   "start": 66.655,
+   "end": 69.73,
+   "words": [
+    {
+     "w": "Would",
+     "start": 66.655,
+     "end": 66.767
+    },
+    {
+     "w": "you",
+     "start": 66.767,
+     "end": 66.855
+    },
+    {
+     "w": "take",
+     "start": 66.855,
+     "end": 67.067
+    },
+    {
+     "w": "a",
+     "start": 67.067,
+     "end": 67.155
+    },
+    {
+     "w": "one-way",
+     "start": 67.155,
+     "end": 67.53
+    },
+    {
+     "w": "trip",
+     "start": 67.53,
+     "end": 67.755
+    },
+    {
+     "w": "to",
+     "start": 67.755,
+     "end": 67.855
+    },
+    {
+     "w": "Mars?",
+     "start": 67.855,
+     "end": 68.23
+    },
+    {
+     "w": "Let",
+     "start": 68.305,
+     "end": 68.442
+    },
+    {
+     "w": "us",
+     "start": 68.442,
+     "end": 68.58
+    },
+    {
+     "w": "know",
+     "start": 68.58,
+     "end": 68.742
+    },
+    {
+     "w": "in",
+     "start": 68.742,
+     "end": 68.817
+    },
+    {
+     "w": "the",
+     "start": 68.817,
+     "end": 68.905
+    },
+    {
+     "w": "comments!",
+     "start": 68.905,
+     "end": 69.73
+    }
+   ]
+  }
+ ]
+}

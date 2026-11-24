@@ -1,0 +1,21 @@
+{"voice": "am_puck", "speed": 1.28, "lead": 0.4, "tail": 2.6, "gap": 0.06,
+ "lines": [
+  {"id": "hook1", "text": "Imagine this: you wake up on Mars to a blaring alarm."},
+  {"id": "hook2", "text": "Your crew already flew home, and the last ride off the planet is a shrinking dot in the sky."},
+  {"id": "hook3", "text": "Congratulations, you're now the loneliest person in the solar system."},
+  {"id": "title", "text": "So could you survive? Let's find out, on this episode of Worst Case.", "gap": 0.12},
+  {"id": "setup", "text": "Mars looks friendly enough, but it's trying to kill you in at least four ways.", "gap": 0.12},
+  {"id": "air1", "text": "First, the air. Mars has less than one percent of Earth's air pressure, and it's mostly carbon dioxide.", "gap": 0.12},
+  {"id": "air2", "text": "Step outside without a suit and you'd pass out in about fifteen seconds."},
+  {"id": "air3", "text": "So the helmet stays on, even when your nose itches."},
+  {"id": "cold1", "text": "Problem two: the cold. It averages minus eighty degrees Fahrenheit, and your heater runs on solar power.", "gap": 0.12},
+  {"id": "cold2", "text": "Great, until a dust storm blots out the sun for weeks."},
+  {"id": "food1", "text": "Next, dinner. The water is frozen in the ground, so you'll dig up ice and melt it.", "gap": 0.12},
+  {"id": "food2", "text": "The soil is laced with toxic salts, so wash it, then grow about a dozen potatoes a day."},
+  {"id": "food3", "text": "And fertilizer? Let's just say you make that yourself."},
+  {"id": "home1", "text": "Then there's the big one: getting home. The planets only line up for a launch about once every twenty-six months, and the trip takes another seven.", "gap": 0.12},
+  {"id": "home2", "text": "That's nearly three years of waiting."},
+  {"id": "verdict1", "text": "So, could you survive? With tons of supplies and no sense of smell, maybe.", "gap": 0.12},
+  {"id": "verdict2", "text": "But alone for three years? We wouldn't bet on it."},
+  {"id": "outro", "text": "Would you take a one-way trip to Mars? Let us know in the comments!", "gap": 0.12}
+ ]}

@@ -1,0 +1,7 @@
+{"voice": "am_michael", "speed": 1.12, "lead": 0.4, "tail": 1.0,
+ "lines": [
+  {"id": "card",  "text": "Here's the picture I keep coming back to."},
+  {"id": "field", "text": "A positive charge and a negative one. The field lines leave the positive charge and end on the negative one.", "gap": 0.3},
+  {"id": "graph", "text": "Along the middle line, the field fades fast. Far away, twice the distance means about eight times weaker.", "gap": 0.4},
+  {"id": "algo",  "text": "Searching a road network works step by step too. Settle the closest junction, then the next closest, and so on.", "gap": 0.4}
+ ]}

@@ -1,0 +1,97 @@
+{
+ "voice": "am_michael",
+ "speed": 1.0,
+ "lead": 1.2,
+ "tail": 3.0,
+ "lines": [
+  {
+   "id": "title",
+   "text": "The making of money."
+  },
+  {
+   "id": "q1",
+   "text": "Where does new money come from?",
+   "gap": 1.5
+  },
+  {
+   "id": "verdict",
+   "text": "Mostly? From loans.",
+   "gap": 0.35
+  },
+  {
+   "id": "jargon",
+   "text": "You've heard the words: deposits, reserves, central banks.",
+   "gap": 0.45
+  },
+  {
+   "id": "who",
+   "text": "Who makes it? Ordinary banks.",
+   "gap": 0.5
+  },
+  {
+   "id": "how",
+   "text": "How? Here's how.",
+   "gap": 0.3
+  },
+  {
+   "id": "cast",
+   "text": "Meet the cast: a family who wants a house, a builder selling one, and their banks.",
+   "gap": 0.55
+  },
+  {
+   "id": "proxy",
+   "text": "Most money isn't cash. It's a deposit: a number in a bank's ledger.",
+   "gap": 0.45
+  },
+  {
+   "id": "ask",
+   "text": "The family asks the bank for a loan.",
+   "gap": 0.75
+  },
+  {
+   "id": "types",
+   "text": "The bank checks they can repay, then types the amount into their account.",
+   "gap": 0.35
+  },
+  {
+   "id": "fresh",
+   "text": "Nobody's savings shrink. That deposit is brand-new money.",
+   "gap": 0.4
+  },
+  {
+   "id": "pay",
+   "text": "Then the family pays the builder. The deposit moves to the builder's bank,",
+   "gap": 0.6
+  },
+  {
+   "id": "settle",
+   "text": "and the two banks settle up in reserves at the central bank.",
+   "gap": 0.15
+  },
+  {
+   "id": "stop",
+   "text": "So what stops banks lending forever?",
+   "gap": 0.55
+  },
+  {
+   "id": "limits",
+   "text": "Borrowers who can repay, capital rules, and the central bank's interest rate.",
+   "gap": 0.4
+  },
+  {
+   "id": "repay",
+   "text": "Over the years, the family repays. The loan shrinks, and that much money disappears.",
+   "gap": 0.6
+  },
+  {
+   "id": "loop",
+   "text": "Lend, spend, settle, repay. Round and round.",
+   "gap": 0.6
+  },
+  {
+   "id": "close",
+   "text": "That's the making of money.",
+   "gap": 0.45
+  }
+ ]
+}

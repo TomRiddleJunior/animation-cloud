@@ -1,0 +1,1108 @@
+{
+ "duration": 65.335,
+ "voice": "am_puck",
+ "words": 191,
+ "wpm_overall": 175.4,
+ "wpm_speech": 206.8,
+ "lines": [
+  {
+   "id": "hook_a",
+   "i": 0,
+   "text": "This is a ravine. And this is a pizza.",
+   "start": 0.46,
+   "end": 2.485,
+   "words": [
+    {
+     "w": "This",
+     "start": 0.46,
+     "end": 0.635
+    },
+    {
+     "w": "is",
+     "start": 0.635,
+     "end": 0.748
+    },
+    {
+     "w": "a",
+     "start": 0.748,
+     "end": 0.81
+    },
+    {
+     "w": "ravine.",
+     "start": 0.81,
+     "end": 1.235
+    },
+    {
+     "w": "And",
+     "start": 1.272,
+     "end": 1.397
+    },
+    {
+     "w": "this",
+     "start": 1.397,
+     "end": 1.56
+    },
+    {
+     "w": "is",
+     "start": 1.56,
+     "end": 1.673
+    },
+    {
+     "w": "a",
+     "start": 1.673,
+     "end": 1.735
+    },
+    {
+     "w": "pizza.",
+     "start": 1.735,
+     "end": 2.485
+    }
+   ]
+  },
+  {
+   "id": "hook_b",
+   "i": 1,
+   "text": "With a little physics, my robot will fly it across and land it right here.",
+   "start": 2.895,
+   "end": 6.745,
+   "words": [
+    {
+     "w": "With",
+     "start": 2.895,
+     "end": 3.007
+    },
+    {
+     "w": "a",
+     "start": 3.007,
+     "end": 3.07
+    },
+    {
+     "w": "little",
+     "start": 3.07,
+     "end": 3.307
+    },
+    {
+     "w": "physics,",
+     "start": 3.307,
+     "end": 3.72
+    },
+    {
+     "w": "my",
+     "start": 3.77,
+     "end": 3.945
+    },
+    {
+     "w": "robot",
+     "start": 3.945,
+     "end": 4.357
+    },
+    {
+     "w": "will",
+     "start": 4.357,
+     "end": 4.507
+    },
+    {
+     "w": "fly",
+     "start": 4.507,
+     "end": 4.732
+    },
+    {
+     "w": "it",
+     "start": 4.732,
+     "end": 4.807
+    },
+    {
+     "w": "across",
+     "start": 4.807,
+     "end": 5.332
+    },
+    {
+     "w": "and",
+     "start": 5.332,
+     "end": 5.47
+    },
+    {
+     "w": "land",
+     "start": 5.47,
+     "end": 5.732
+    },
+    {
+     "w": "it",
+     "start": 5.732,
+     "end": 5.82
+    },
+    {
+     "w": "right",
+     "start": 5.82,
+     "end": 6.07
+    },
+    {
+     "w": "here.",
+     "start": 6.07,
+     "end": 6.745
+    }
+   ]
+  },
+  {
+   "id": "rewind",
+   "i": 2,
+   "text": "But first, we need to rewind a bit.",
+   "start": 7.255,
+   "end": 9.005,
+   "words": [
+    {
+     "w": "But",
+     "start": 7.255,
+     "end": 7.38
+    },
+    {
+     "w": "first,",
+     "start": 7.38,
+     "end": 7.655
+    },
+    {
+     "w": "we",
+     "start": 7.692,
+     "end": 7.767
+    },
+    {
+     "w": "need",
+     "start": 7.767,
+     "end": 7.917
+    },
+    {
+     "w": "to",
+     "start": 7.917,
+     "end": 7.992
+    },
+    {
+     "w": "rewind",
+     "start": 7.992,
+     "end": 8.342
+    },
+    {
+     "w": "a",
+     "start": 8.342,
+     "end": 8.405
+    },
+    {
+     "w": "bit.",
+     "start": 8.405,
+     "end": 9.005
+    }
+   ]
+  },
+  {
+   "id": "map_a",
+   "i": 3,
+   "text": "My buddy Theo lives across that ravine.",
+   "start": 9.465,
+   "end": 11.59,
+   "words": [
+    {
+     "w": "My",
+     "start": 9.465,
+     "end": 9.59
+    },
+    {
+     "w": "buddy",
+     "start": 9.59,
+     "end": 9.815
+    },
+    {
+     "w": "Theo",
+     "start": 9.815,
+     "end": 10.09
+    },
+    {
+     "w": "lives",
+     "start": 10.09,
+     "end": 10.302
+    },
+    {
+     "w": "across",
+     "start": 10.302,
+     "end": 10.652
+    },
+    {
+     "w": "that",
+     "start": 10.652,
+     "end": 10.802
+    },
+    {
+     "w": "ravine.",
+     "start": 10.802,
+     "end": 11.59
+    }
+   ]
+  },
+  {
+   "id": "map_b",
+   "i": 4,
+   "text": "As the crow flies, a hundred and fifty meters. Driving around? Four kilometers.",
+   "start": 11.9,
+   "end": 16.55,
+   "words": [
+    {
+     "w": "As",
+     "start": 11.9,
+     "end": 12.062
+    },
+    {
+     "w": "the",
+     "start": 12.062,
+     "end": 12.15
+    },
+    {
+     "w": "crow",
+     "start": 12.15,
+     "end": 12.462
+    },
+    {
+     "w": "flies,",
+     "start": 12.462,
+     "end": 12.85
+    },
+    {
+     "w": "a",
+     "start": 12.887,
+     "end": 12.975
+    },
+    {
+     "w": "hundred",
+     "start": 12.975,
+     "end": 13.362
+    },
+    {
+     "w": "and",
+     "start": 13.362,
+     "end": 13.475
+    },
+    {
+     "w": "fifty",
+     "start": 13.475,
+     "end": 13.775
+    },
+    {
+     "w": "meters.",
+     "start": 13.775,
+     "end": 14.25
+    },
+    {
+     "w": "Driving",
+     "start": 14.325,
+     "end": 14.725
+    },
+    {
+     "w": "around?",
+     "start": 14.725,
+     "end": 15.1
+    },
+    {
+     "w": "Four",
+     "start": 15.187,
+     "end": 15.425
+    },
+    {
+     "w": "kilometers.",
+     "start": 15.425,
+     "end": 16.55
+    }
+   ]
+  },
+  {
+   "id": "plan_a",
+   "i": 5,
+   "text": "So here's the plan. We string a rope from my deck to his treehouse.",
+   "start": 17.06,
+   "end": 20.41,
+   "words": [
+    {
+     "w": "So",
+     "start": 17.06,
+     "end": 17.235
+    },
+    {
+     "w": "here's",
+     "start": 17.235,
+     "end": 17.497
+    },
+    {
+     "w": "the",
+     "start": 17.497,
+     "end": 17.585
+    },
+    {
+     "w": "plan.",
+     "start": 17.585,
+     "end": 17.985
+    },
+    {
+     "w": "We",
+     "start": 18.06,
+     "end": 18.185
+    },
+    {
+     "w": "string",
+     "start": 18.185,
+     "end": 18.422
+    },
+    {
+     "w": "a",
+     "start": 18.422,
+     "end": 18.485
+    },
+    {
+     "w": "rope",
+     "start": 18.485,
+     "end": 18.71
+    },
+    {
+     "w": "from",
+     "start": 18.71,
+     "end": 18.847
+    },
+    {
+     "w": "my",
+     "start": 18.847,
+     "end": 18.985
+    },
+    {
+     "w": "deck",
+     "start": 18.985,
+     "end": 19.235
+    },
+    {
+     "w": "to",
+     "start": 19.235,
+     "end": 19.322
+    },
+    {
+     "w": "his",
+     "start": 19.322,
+     "end": 19.485
+    },
+    {
+     "w": "treehouse.",
+     "start": 19.485,
+     "end": 20.41
+    }
+   ]
+  },
+  {
+   "id": "plan_b",
+   "i": 6,
+   "text": "The robot hooks on, and two motors drive it across at four meters per second.",
+   "start": 20.82,
+   "end": 25.245,
+   "words": [
+    {
+     "w": "The",
+     "start": 20.82,
+     "end": 20.92
+    },
+    {
+     "w": "robot",
+     "start": 20.92,
+     "end": 21.32
+    },
+    {
+     "w": "hooks",
+     "start": 21.32,
+     "end": 21.62
+    },
+    {
+     "w": "on,",
+     "start": 21.62,
+     "end": 21.895
+    },
+    {
+     "w": "and",
+     "start": 21.945,
+     "end": 22.082
+    },
+    {
+     "w": "two",
+     "start": 22.082,
+     "end": 22.295
+    },
+    {
+     "w": "motors",
+     "start": 22.295,
+     "end": 22.732
+    },
+    {
+     "w": "drive",
+     "start": 22.732,
+     "end": 23.032
+    },
+    {
+     "w": "it",
+     "start": 23.032,
+     "end": 23.107
+    },
+    {
+     "w": "across",
+     "start": 23.107,
+     "end": 23.495
+    },
+    {
+     "w": "at",
+     "start": 23.495,
+     "end": 23.632
+    },
+    {
+     "w": "four",
+     "start": 23.632,
+     "end": 23.87
+    },
+    {
+     "w": "meters",
+     "start": 23.87,
+     "end": 24.245
+    },
+    {
+     "w": "per",
+     "start": 24.245,
+     "end": 24.395
+    },
+    {
+     "w": "second.",
+     "start": 24.395,
+     "end": 25.245
+    }
+   ]
+  },
+  {
+   "id": "plan_c",
+   "i": 7,
+   "text": "Near the end, a sensor spots a reflector, it brakes, and a winch lowers the pizza onto his deck.",
+   "start": 25.655,
+   "end": 31.13,
+   "words": [
+    {
+     "w": "Near",
+     "start": 25.655,
+     "end": 25.842
+    },
+    {
+     "w": "the",
+     "start": 25.842,
+     "end": 25.98
+    },
+    {
+     "w": "end,",
+     "start": 25.98,
+     "end": 26.23
+    },
+    {
+     "w": "a",
+     "start": 26.267,
+     "end": 26.367
+    },
+    {
+     "w": "sensor",
+     "start": 26.367,
+     "end": 26.78
+    },
+    {
+     "w": "spots",
+     "start": 26.78,
+     "end": 27.117
+    },
+    {
+     "w": "a",
+     "start": 27.117,
+     "end": 27.18
+    },
+    {
+     "w": "reflector,",
+     "start": 27.18,
+     "end": 27.73
+    },
+    {
+     "w": "it",
+     "start": 27.78,
+     "end": 27.905
+    },
+    {
+     "w": "brakes,",
+     "start": 27.905,
+     "end": 28.38
+    },
+    {
+     "w": "and",
+     "start": 28.455,
+     "end": 28.567
+    },
+    {
+     "w": "a",
+     "start": 28.567,
+     "end": 28.667
+    },
+    {
+     "w": "winch",
+     "start": 28.667,
+     "end": 29.017
+    },
+    {
+     "w": "lowers",
+     "start": 29.017,
+     "end": 29.43
+    },
+    {
+     "w": "the",
+     "start": 29.43,
+     "end": 29.53
+    },
+    {
+     "w": "pizza",
+     "start": 29.53,
+     "end": 29.905
+    },
+    {
+     "w": "onto",
+     "start": 29.905,
+     "end": 30.142
+    },
+    {
+     "w": "his",
+     "start": 30.142,
+     "end": 30.305
+    },
+    {
+     "w": "deck.",
+     "start": 30.305,
+     "end": 31.13
+    }
+   ]
+  },
+  {
+   "id": "plan_d",
+   "i": 8,
+   "text": "Then it zips home for the next order.",
+   "start": 31.59,
+   "end": 33.44,
+   "words": [
+    {
+     "w": "Then",
+     "start": 31.59,
+     "end": 31.702
+    },
+    {
+     "w": "it",
+     "start": 31.702,
+     "end": 31.79
+    },
+    {
+     "w": "zips",
+     "start": 31.79,
+     "end": 32.015
+    },
+    {
+     "w": "home",
+     "start": 32.015,
+     "end": 32.265
+    },
+    {
+     "w": "for",
+     "start": 32.265,
+     "end": 32.377
+    },
+    {
+     "w": "the",
+     "start": 32.377,
+     "end": 32.452
+    },
+    {
+     "w": "next",
+     "start": 32.452,
+     "end": 32.74
+    },
+    {
+     "w": "order.",
+     "start": 32.74,
+     "end": 33.44
+    }
+   ]
+  },
+  {
+   "id": "cad",
+   "i": 9,
+   "text": "I designed it in CAD, sensor angled to catch the reflector ten meters out.",
+   "start": 34.05,
+   "end": 38.45,
+   "words": [
+    {
+     "w": "I",
+     "start": 34.05,
+     "end": 34.175
+    },
+    {
+     "w": "designed",
+     "start": 34.175,
+     "end": 34.562
+    },
+    {
+     "w": "it",
+     "start": 34.562,
+     "end": 34.65
+    },
+    {
+     "w": "in",
+     "start": 34.65,
+     "end": 34.812
+    },
+    {
+     "w": "CAD,",
+     "start": 34.812,
+     "end": 35.25
+    },
+    {
+     "w": "sensor",
+     "start": 35.337,
+     "end": 35.762
+    },
+    {
+     "w": "angled",
+     "start": 35.762,
+     "end": 36.15
+    },
+    {
+     "w": "to",
+     "start": 36.15,
+     "end": 36.275
+    },
+    {
+     "w": "catch",
+     "start": 36.275,
+     "end": 36.525
+    },
+    {
+     "w": "the",
+     "start": 36.525,
+     "end": 36.612
+    },
+    {
+     "w": "reflector",
+     "start": 36.612,
+     "end": 37.137
+    },
+    {
+     "w": "ten",
+     "start": 37.137,
+     "end": 37.4
+    },
+    {
+     "w": "meters",
+     "start": 37.4,
+     "end": 37.775
+    },
+    {
+     "w": "out.",
+     "start": 37.775,
+     "end": 38.45
+    }
+   ]
+  },
+  {
+   "id": "phys_a",
+   "i": 10,
+   "text": "But here's what almost wrecked everything.",
+   "start": 38.96,
+   "end": 40.91,
+   "words": [
+    {
+     "w": "But",
+     "start": 38.96,
+     "end": 39.072
+    },
+    {
+     "w": "here's",
+     "start": 39.072,
+     "end": 39.297
+    },
+    {
+     "w": "what",
+     "start": 39.297,
+     "end": 39.422
+    },
+    {
+     "w": "almost",
+     "start": 39.422,
+     "end": 39.735
+    },
+    {
+     "w": "wrecked",
+     "start": 39.735,
+     "end": 40.01
+    },
+    {
+     "w": "everything.",
+     "start": 40.01,
+     "end": 40.91
+    }
+   ]
+  },
+  {
+   "id": "phys_b",
+   "i": 11,
+   "text": "Robot plus pizza is about ten kilograms. That's ninety-eight newtons pulling down.",
+   "start": 41.37,
+   "end": 46.245,
+   "words": [
+    {
+     "w": "Robot",
+     "start": 41.37,
+     "end": 41.72
+    },
+    {
+     "w": "plus",
+     "start": 41.72,
+     "end": 41.995
+    },
+    {
+     "w": "pizza",
+     "start": 41.995,
+     "end": 42.42
+    },
+    {
+     "w": "is",
+     "start": 42.42,
+     "end": 42.532
+    },
+    {
+     "w": "about",
+     "start": 42.532,
+     "end": 42.845
+    },
+    {
+     "w": "ten",
+     "start": 42.845,
+     "end": 43.095
+    },
+    {
+     "w": "kilograms.",
+     "start": 43.095,
+     "end": 43.82
+    },
+    {
+     "w": "That's",
+     "start": 43.895,
+     "end": 44.195
+    },
+    {
+     "w": "ninety-eight",
+     "start": 44.195,
+     "end": 44.67
+    },
+    {
+     "w": "newtons",
+     "start": 44.67,
+     "end": 45.12
+    },
+    {
+     "w": "pulling",
+     "start": 45.12,
+     "end": 45.42
+    },
+    {
+     "w": "down.",
+     "start": 45.42,
+     "end": 46.245
+    }
+   ]
+  },
+  {
+   "id": "phys_c",
+   "i": 12,
+   "text": "But the rope only sags three meters, and a rope that flat has to pull way harder to hold it up.",
+   "start": 46.655,
+   "end": 51.93,
+   "words": [
+    {
+     "w": "But",
+     "start": 46.655,
+     "end": 46.767
+    },
+    {
+     "w": "the",
+     "start": 46.767,
+     "end": 46.855
+    },
+    {
+     "w": "rope",
+     "start": 46.855,
+     "end": 47.155
+    },
+    {
+     "w": "only",
+     "start": 47.155,
+     "end": 47.467
+    },
+    {
+     "w": "sags",
+     "start": 47.467,
+     "end": 47.892
+    },
+    {
+     "w": "three",
+     "start": 47.892,
+     "end": 48.13
+    },
+    {
+     "w": "meters,",
+     "start": 48.13,
+     "end": 48.63
+    },
+    {
+     "w": "and",
+     "start": 48.705,
+     "end": 48.817
+    },
+    {
+     "w": "a",
+     "start": 48.817,
+     "end": 48.88
+    },
+    {
+     "w": "rope",
+     "start": 48.88,
+     "end": 49.155
+    },
+    {
+     "w": "that",
+     "start": 49.155,
+     "end": 49.367
+    },
+    {
+     "w": "flat",
+     "start": 49.367,
+     "end": 49.705
+    },
+    {
+     "w": "has",
+     "start": 49.705,
+     "end": 49.905
+    },
+    {
+     "w": "to",
+     "start": 49.905,
+     "end": 50.005
+    },
+    {
+     "w": "pull",
+     "start": 50.005,
+     "end": 50.255
+    },
+    {
+     "w": "way",
+     "start": 50.255,
+     "end": 50.48
+    },
+    {
+     "w": "harder",
+     "start": 50.48,
+     "end": 50.855
+    },
+    {
+     "w": "to",
+     "start": 50.855,
+     "end": 50.955
+    },
+    {
+     "w": "hold",
+     "start": 50.955,
+     "end": 51.167
+    },
+    {
+     "w": "it",
+     "start": 51.167,
+     "end": 51.242
+    },
+    {
+     "w": "up.",
+     "start": 51.242,
+     "end": 51.93
+    }
+   ]
+  },
+  {
+   "id": "phys_d",
+   "i": 13,
+   "text": "Each end gets yanked with over twelve hundred newtons. Like two adults hanging off it!",
+   "start": 52.34,
+   "end": 57.14,
+   "words": [
+    {
+     "w": "Each",
+     "start": 52.34,
+     "end": 52.627
+    },
+    {
+     "w": "end",
+     "start": 52.627,
+     "end": 52.915
+    },
+    {
+     "w": "gets",
+     "start": 52.915,
+     "end": 53.177
+    },
+    {
+     "w": "yanked",
+     "start": 53.177,
+     "end": 53.552
+    },
+    {
+     "w": "with",
+     "start": 53.552,
+     "end": 53.677
+    },
+    {
+     "w": "over",
+     "start": 53.677,
+     "end": 53.915
+    },
+    {
+     "w": "twelve",
+     "start": 53.915,
+     "end": 54.227
+    },
+    {
+     "w": "hundred",
+     "start": 54.227,
+     "end": 54.565
+    },
+    {
+     "w": "newtons.",
+     "start": 54.565,
+     "end": 55.09
+    },
+    {
+     "w": "Like",
+     "start": 55.165,
+     "end": 55.402
+    },
+    {
+     "w": "two",
+     "start": 55.402,
+     "end": 55.615
+    },
+    {
+     "w": "adults",
+     "start": 55.615,
+     "end": 56.015
+    },
+    {
+     "w": "hanging",
+     "start": 56.015,
+     "end": 56.315
+    },
+    {
+     "w": "off",
+     "start": 56.315,
+     "end": 56.54
+    },
+    {
+     "w": "it!",
+     "start": 56.54,
+     "end": 57.14
+    }
+   ]
+  },
+  {
+   "id": "end_a",
+   "i": 14,
+   "text": "Which explains why attempt one ended up in the creek.",
+   "start": 57.65,
+   "end": 60.45,
+   "words": [
+    {
+     "w": "Which",
+     "start": 57.65,
+     "end": 57.812
+    },
+    {
+     "w": "explains",
+     "start": 57.812,
+     "end": 58.375
+    },
+    {
+     "w": "why",
+     "start": 58.375,
+     "end": 58.55
+    },
+    {
+     "w": "attempt",
+     "start": 58.55,
+     "end": 58.9
+    },
+    {
+     "w": "one",
+     "start": 58.9,
+     "end": 59.125
+    },
+    {
+     "w": "ended",
+     "start": 59.125,
+     "end": 59.387
+    },
+    {
+     "w": "up",
+     "start": 59.387,
+     "end": 59.537
+    },
+    {
+     "w": "in",
+     "start": 59.537,
+     "end": 59.612
+    },
+    {
+     "w": "the",
+     "start": 59.612,
+     "end": 59.7
+    },
+    {
+     "w": "creek.",
+     "start": 59.7,
+     "end": 60.45
+    }
+   ]
+  },
+  {
+   "id": "end_b",
+   "i": 15,
+   "text": "Attempt two? Hot pizza, delivered.",
+   "start": 61.26,
+   "end": 63.085,
+   "words": [
+    {
+     "w": "Attempt",
+     "start": 61.26,
+     "end": 61.535
+    },
+    {
+     "w": "two?",
+     "start": 61.535,
+     "end": 61.685
+    },
+    {
+     "w": "Hot",
+     "start": 61.735,
+     "end": 61.935
+    },
+    {
+     "w": "pizza,",
+     "start": 61.935,
+     "end": 62.26
+    },
+    {
+     "w": "delivered.",
+     "start": 62.297,
+     "end": 63.085
+    }
+   ]
+  }
+ ]
+}

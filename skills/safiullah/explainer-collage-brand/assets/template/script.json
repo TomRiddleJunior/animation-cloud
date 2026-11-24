@@ -1,0 +1,7 @@
+{"voice": "af_heart", "speed": 0.86, "lead": 0.8, "tail": 2.2, "gap": 0.45,
+ "lines": [
+  {"id": "old", "text": "For years, the real work stayed grey and out of sight."},
+  {"id": "turn", "text": "Then we started showing it.", "gap": 0.6},
+  {"id": "lock", "text": "Introducing Your Product.", "gap": 0.7},
+  {"id": "quote", "text": "Show the work, not the meeting.", "gap": 0.8}
+ ]}

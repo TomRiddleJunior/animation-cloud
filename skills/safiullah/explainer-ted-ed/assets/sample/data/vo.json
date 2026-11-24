@@ -1,0 +1,838 @@
+{
+ "duration": 73.11,
+ "voice": "af_heart",
+ "words": 146,
+ "wpm_overall": 119.8,
+ "wpm_speech": 170.3,
+ "lines": [
+  {
+   "id": "a1",
+   "i": 0,
+   "text": "In September, nineteen twenty-eight, Alexander Fleming came back from holiday to a cluttered lab bench.",
+   "start": 7.06,
+   "end": 13.46,
+   "words": [
+    {
+     "w": "In",
+     "start": 7.06,
+     "end": 7.185
+    },
+    {
+     "w": "September,",
+     "start": 7.185,
+     "end": 7.785
+    },
+    {
+     "w": "nineteen",
+     "start": 7.86,
+     "end": 8.26
+    },
+    {
+     "w": "twenty-eight,",
+     "start": 8.26,
+     "end": 9.16
+    },
+    {
+     "w": "Alexander",
+     "start": 9.297,
+     "end": 9.947
+    },
+    {
+     "w": "Fleming",
+     "start": 9.947,
+     "end": 10.385
+    },
+    {
+     "w": "came",
+     "start": 10.385,
+     "end": 10.66
+    },
+    {
+     "w": "back",
+     "start": 10.66,
+     "end": 10.935
+    },
+    {
+     "w": "from",
+     "start": 10.935,
+     "end": 11.085
+    },
+    {
+     "w": "holiday",
+     "start": 11.085,
+     "end": 11.81
+    },
+    {
+     "w": "to",
+     "start": 11.81,
+     "end": 11.985
+    },
+    {
+     "w": "a",
+     "start": 11.985,
+     "end": 12.085
+    },
+    {
+     "w": "cluttered",
+     "start": 12.085,
+     "end": 12.51
+    },
+    {
+     "w": "lab",
+     "start": 12.51,
+     "end": 12.81
+    },
+    {
+     "w": "bench.",
+     "start": 12.81,
+     "end": 13.46
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "i": 1,
+   "text": "On one forgotten dish, a mold had grown, and all around it, the bacteria had vanished.",
+   "start": 14.07,
+   "end": 19.12,
+   "words": [
+    {
+     "w": "On",
+     "start": 14.07,
+     "end": 14.245
+    },
+    {
+     "w": "one",
+     "start": 14.245,
+     "end": 14.47
+    },
+    {
+     "w": "forgotten",
+     "start": 14.47,
+     "end": 14.87
+    },
+    {
+     "w": "dish,",
+     "start": 14.87,
+     "end": 15.395
+    },
+    {
+     "w": "a",
+     "start": 15.495,
+     "end": 15.595
+    },
+    {
+     "w": "mold",
+     "start": 15.595,
+     "end": 15.933
+    },
+    {
+     "w": "had",
+     "start": 15.933,
+     "end": 16.045
+    },
+    {
+     "w": "grown,",
+     "start": 16.045,
+     "end": 16.52
+    },
+    {
+     "w": "and",
+     "start": 16.595,
+     "end": 16.732
+    },
+    {
+     "w": "all",
+     "start": 16.732,
+     "end": 16.945
+    },
+    {
+     "w": "around",
+     "start": 16.945,
+     "end": 17.32
+    },
+    {
+     "w": "it,",
+     "start": 17.32,
+     "end": 17.47
+    },
+    {
+     "w": "the",
+     "start": 17.508,
+     "end": 17.595
+    },
+    {
+     "w": "bacteria",
+     "start": 17.595,
+     "end": 18.232
+    },
+    {
+     "w": "had",
+     "start": 18.232,
+     "end": 18.345
+    },
+    {
+     "w": "vanished.",
+     "start": 18.345,
+     "end": 19.12
+    }
+   ]
+  },
+  {
+   "id": "reveal",
+   "i": 2,
+   "text": "That mold was leaking a substance that would save millions of lives. Its name? Penicillin.",
+   "start": 19.78,
+   "end": 25.53,
+   "words": [
+    {
+     "w": "That",
+     "start": 19.78,
+     "end": 20.03
+    },
+    {
+     "w": "mold",
+     "start": 20.03,
+     "end": 20.442
+    },
+    {
+     "w": "was",
+     "start": 20.442,
+     "end": 20.605
+    },
+    {
+     "w": "leaking",
+     "start": 20.605,
+     "end": 20.893
+    },
+    {
+     "w": "a",
+     "start": 20.893,
+     "end": 20.992
+    },
+    {
+     "w": "substance",
+     "start": 20.992,
+     "end": 21.555
+    },
+    {
+     "w": "that",
+     "start": 21.555,
+     "end": 21.692
+    },
+    {
+     "w": "would",
+     "start": 21.692,
+     "end": 21.83
+    },
+    {
+     "w": "save",
+     "start": 21.83,
+     "end": 22.18
+    },
+    {
+     "w": "millions",
+     "start": 22.18,
+     "end": 22.593
+    },
+    {
+     "w": "of",
+     "start": 22.593,
+     "end": 22.68
+    },
+    {
+     "w": "lives.",
+     "start": 22.68,
+     "end": 23.505
+    },
+    {
+     "w": "Its",
+     "start": 23.63,
+     "end": 23.88
+    },
+    {
+     "w": "name?",
+     "start": 23.88,
+     "end": 24.43
+    },
+    {
+     "w": "Penicillin.",
+     "start": 24.555,
+     "end": 25.53
+    }
+   ]
+  },
+  {
+   "id": "pivot",
+   "i": 3,
+   "text": "So how does it kill germs, but leave us unharmed?",
+   "start": 26.29,
+   "end": 29.115,
+   "words": [
+    {
+     "w": "So",
+     "start": 26.29,
+     "end": 26.465
+    },
+    {
+     "w": "how",
+     "start": 26.465,
+     "end": 26.603
+    },
+    {
+     "w": "does",
+     "start": 26.603,
+     "end": 26.728
+    },
+    {
+     "w": "it",
+     "start": 26.728,
+     "end": 26.815
+    },
+    {
+     "w": "kill",
+     "start": 26.815,
+     "end": 27.078
+    },
+    {
+     "w": "germs,",
+     "start": 27.078,
+     "end": 27.665
+    },
+    {
+     "w": "but",
+     "start": 27.74,
+     "end": 27.89
+    },
+    {
+     "w": "leave",
+     "start": 27.89,
+     "end": 28.078
+    },
+    {
+     "w": "us",
+     "start": 28.078,
+     "end": 28.24
+    },
+    {
+     "w": "unharmed?",
+     "start": 28.24,
+     "end": 29.115
+    }
+   ]
+  },
+  {
+   "id": "wall",
+   "i": 4,
+   "text": "Zoom in on a bacterium. Its tough wall is a mesh of sugar chains, stitched together by tiny links.",
+   "start": 29.875,
+   "end": 36.125,
+   "words": [
+    {
+     "w": "Zoom",
+     "start": 29.875,
+     "end": 30.137
+    },
+    {
+     "w": "in",
+     "start": 30.137,
+     "end": 30.312
+    },
+    {
+     "w": "on",
+     "start": 30.312,
+     "end": 30.413
+    },
+    {
+     "w": "a",
+     "start": 30.413,
+     "end": 30.475
+    },
+    {
+     "w": "bacterium.",
+     "start": 30.475,
+     "end": 31.55
+    },
+    {
+     "w": "Its",
+     "start": 31.675,
+     "end": 31.925
+    },
+    {
+     "w": "tough",
+     "start": 31.925,
+     "end": 32.175
+    },
+    {
+     "w": "wall",
+     "start": 32.175,
+     "end": 32.5
+    },
+    {
+     "w": "is",
+     "start": 32.5,
+     "end": 32.613
+    },
+    {
+     "w": "a",
+     "start": 32.613,
+     "end": 32.7
+    },
+    {
+     "w": "mesh",
+     "start": 32.7,
+     "end": 32.963
+    },
+    {
+     "w": "of",
+     "start": 32.963,
+     "end": 33.088
+    },
+    {
+     "w": "sugar",
+     "start": 33.088,
+     "end": 33.45
+    },
+    {
+     "w": "chains,",
+     "start": 33.45,
+     "end": 34.05
+    },
+    {
+     "w": "stitched",
+     "start": 34.163,
+     "end": 34.525
+    },
+    {
+     "w": "together",
+     "start": 34.525,
+     "end": 34.95
+    },
+    {
+     "w": "by",
+     "start": 34.95,
+     "end": 35.138
+    },
+    {
+     "w": "tiny",
+     "start": 35.138,
+     "end": 35.5
+    },
+    {
+     "w": "links.",
+     "start": 35.5,
+     "end": 36.125
+    }
+   ]
+  },
+  {
+   "id": "grow",
+   "i": 5,
+   "text": "To grow, the cell keeps loosening that mesh, while enzymes stitch in fresh links.",
+   "start": 36.735,
+   "end": 41.485,
+   "words": [
+    {
+     "w": "To",
+     "start": 36.735,
+     "end": 36.835
+    },
+    {
+     "w": "grow,",
+     "start": 36.835,
+     "end": 37.26
+    },
+    {
+     "w": "the",
+     "start": 37.335,
+     "end": 37.472
+    },
+    {
+     "w": "cell",
+     "start": 37.472,
+     "end": 37.735
+    },
+    {
+     "w": "keeps",
+     "start": 37.735,
+     "end": 38.01
+    },
+    {
+     "w": "loosening",
+     "start": 38.01,
+     "end": 38.422
+    },
+    {
+     "w": "that",
+     "start": 38.422,
+     "end": 38.61
+    },
+    {
+     "w": "mesh,",
+     "start": 38.61,
+     "end": 39.16
+    },
+    {
+     "w": "while",
+     "start": 39.26,
+     "end": 39.497
+    },
+    {
+     "w": "enzymes",
+     "start": 39.497,
+     "end": 40.06
+    },
+    {
+     "w": "stitch",
+     "start": 40.06,
+     "end": 40.36
+    },
+    {
+     "w": "in",
+     "start": 40.36,
+     "end": 40.51
+    },
+    {
+     "w": "fresh",
+     "start": 40.51,
+     "end": 40.835
+    },
+    {
+     "w": "links.",
+     "start": 40.835,
+     "end": 41.485
+    }
+   ]
+  },
+  {
+   "id": "mimic",
+   "i": 6,
+   "text": "Penicillin mimics the end of those links. The enzymes grab it, and jam.",
+   "start": 42.145,
+   "end": 46.72,
+   "words": [
+    {
+     "w": "Penicillin",
+     "start": 42.145,
+     "end": 42.77
+    },
+    {
+     "w": "mimics",
+     "start": 42.77,
+     "end": 43.12
+    },
+    {
+     "w": "the",
+     "start": 43.12,
+     "end": 43.27
+    },
+    {
+     "w": "end",
+     "start": 43.27,
+     "end": 43.457
+    },
+    {
+     "w": "of",
+     "start": 43.457,
+     "end": 43.532
+    },
+    {
+     "w": "those",
+     "start": 43.532,
+     "end": 43.77
+    },
+    {
+     "w": "links.",
+     "start": 43.77,
+     "end": 44.445
+    },
+    {
+     "w": "The",
+     "start": 44.545,
+     "end": 44.695
+    },
+    {
+     "w": "enzymes",
+     "start": 44.695,
+     "end": 45.27
+    },
+    {
+     "w": "grab",
+     "start": 45.27,
+     "end": 45.595
+    },
+    {
+     "w": "it,",
+     "start": 45.595,
+     "end": 45.795
+    },
+    {
+     "w": "and",
+     "start": 45.87,
+     "end": 46.032
+    },
+    {
+     "w": "jam.",
+     "start": 46.032,
+     "end": 46.72
+    }
+   ]
+  },
+  {
+   "id": "burst",
+   "i": 7,
+   "text": "The cell keeps growing, but its wall can't keep up, until it bursts.",
+   "start": 47.38,
+   "end": 51.255,
+   "words": [
+    {
+     "w": "The",
+     "start": 47.38,
+     "end": 47.493
+    },
+    {
+     "w": "cell",
+     "start": 47.493,
+     "end": 47.755
+    },
+    {
+     "w": "keeps",
+     "start": 47.755,
+     "end": 48.03
+    },
+    {
+     "w": "growing,",
+     "start": 48.03,
+     "end": 48.705
+    },
+    {
+     "w": "but",
+     "start": 48.805,
+     "end": 48.943
+    },
+    {
+     "w": "its",
+     "start": 48.943,
+     "end": 49.093
+    },
+    {
+     "w": "wall",
+     "start": 49.093,
+     "end": 49.418
+    },
+    {
+     "w": "can't",
+     "start": 49.418,
+     "end": 49.655
+    },
+    {
+     "w": "keep",
+     "start": 49.655,
+     "end": 49.918
+    },
+    {
+     "w": "up,",
+     "start": 49.918,
+     "end": 50.105
+    },
+    {
+     "w": "until",
+     "start": 50.143,
+     "end": 50.418
+    },
+    {
+     "w": "it",
+     "start": 50.418,
+     "end": 50.505
+    },
+    {
+     "w": "bursts.",
+     "start": 50.505,
+     "end": 51.255
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "i": 8,
+   "text": "Human cells have no such wall, so the drug's target simply isn't there.",
+   "start": 52.015,
+   "end": 56.315,
+   "words": [
+    {
+     "w": "Human",
+     "start": 52.015,
+     "end": 52.353
+    },
+    {
+     "w": "cells",
+     "start": 52.353,
+     "end": 52.765
+    },
+    {
+     "w": "have",
+     "start": 52.765,
+     "end": 52.99
+    },
+    {
+     "w": "no",
+     "start": 52.99,
+     "end": 53.165
+    },
+    {
+     "w": "such",
+     "start": 53.165,
+     "end": 53.39
+    },
+    {
+     "w": "wall,",
+     "start": 53.39,
+     "end": 53.94
+    },
+    {
+     "w": "so",
+     "start": 54.065,
+     "end": 54.228
+    },
+    {
+     "w": "the",
+     "start": 54.228,
+     "end": 54.315
+    },
+    {
+     "w": "drug's",
+     "start": 54.315,
+     "end": 54.69
+    },
+    {
+     "w": "target",
+     "start": 54.69,
+     "end": 55.128
+    },
+    {
+     "w": "simply",
+     "start": 55.128,
+     "end": 55.49
+    },
+    {
+     "w": "isn't",
+     "start": 55.49,
+     "end": 55.765
+    },
+    {
+     "w": "there.",
+     "start": 55.765,
+     "end": 56.315
+    }
+   ]
+  },
+  {
+   "id": "wider",
+   "i": 9,
+   "text": "By the nineteen-forties, it was mass-produced, turning deadly infections into routine cures.",
+   "start": 56.975,
+   "end": 62.75,
+   "words": [
+    {
+     "w": "By",
+     "start": 56.975,
+     "end": 57.138
+    },
+    {
+     "w": "the",
+     "start": 57.138,
+     "end": 57.225
+    },
+    {
+     "w": "nineteen-forties,",
+     "start": 57.225,
+     "end": 58.35
+    },
+    {
+     "w": "it",
+     "start": 58.45,
+     "end": 58.538
+    },
+    {
+     "w": "was",
+     "start": 58.538,
+     "end": 58.7
+    },
+    {
+     "w": "mass-produced,",
+     "start": 58.7,
+     "end": 59.725
+    },
+    {
+     "w": "turning",
+     "start": 59.85,
+     "end": 60.238
+    },
+    {
+     "w": "deadly",
+     "start": 60.238,
+     "end": 60.625
+    },
+    {
+     "w": "infections",
+     "start": 60.625,
+     "end": 61.312
+    },
+    {
+     "w": "into",
+     "start": 61.312,
+     "end": 61.55
+    },
+    {
+     "w": "routine",
+     "start": 61.55,
+     "end": 62.0
+    },
+    {
+     "w": "cures.",
+     "start": 62.0,
+     "end": 62.75
+    }
+   ]
+  },
+  {
+   "id": "callback",
+   "i": 10,
+   "text": "Not bad, for one messy bench.",
+   "start": 63.56,
+   "end": 65.46,
+   "words": [
+    {
+     "w": "Not",
+     "start": 63.56,
+     "end": 63.785
+    },
+    {
+     "w": "bad,",
+     "start": 63.785,
+     "end": 64.135
+    },
+    {
+     "w": "for",
+     "start": 64.185,
+     "end": 64.31
+    },
+    {
+     "w": "one",
+     "start": 64.31,
+     "end": 64.51
+    },
+    {
+     "w": "messy",
+     "start": 64.51,
+     "end": 64.81
+    },
+    {
+     "w": "bench.",
+     "start": 64.81,
+     "end": 65.46
+    }
+   ]
+  }
+ ]
+}

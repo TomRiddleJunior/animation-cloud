@@ -1,0 +1,40 @@
+{
+ "key": "world",
+ "name": "the-state-of-the-world-oct-2026",
+ "master": "state-of-the-world/out/the-state-of-the-world-oct-2026.mp4",
+ "lines": "state-of-the-world/data/lyrics.json",
+ "fonts": "state-of-the-world/app/public/fonts",
+ "title": [
+  "The State",
+  "of the World"
+ ],
+ "title_font": "Newsreader",
+ "title_bold": true,
+ "title_size": 110,
+ "sub": "OCTOBER 2026 · EVERY NUMBER SOURCED",
+ "note": "MUSIC: MINIMAX-MUSIC3 (AI-GENERATED)",
+ "sub_font": "IBM Plex Mono Medium",
+ "cap_font": "Inter Tight",
+ "cap_bold": true,
+ "cap_size": 78,
+ "accent": "#E4572E",
+ "end_note": "Every number is sourced on screen.",
+ "cuts": {
+  "shorts": [
+   [
+    0.0,
+    104.027
+   ],
+   [
+    150.992,
+    222.4
+   ]
+  ],
+  "full": [
+   [
+    0.0,
+    222.4
+   ]
+  ]
+ }
+}

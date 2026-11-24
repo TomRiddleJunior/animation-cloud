@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.key
+*.mp4
+*.mov
+dist/
+out/

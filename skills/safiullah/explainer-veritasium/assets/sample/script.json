@@ -1,0 +1,82 @@
+{
+ "voice": "am_michael",
+ "speed": 1.13,
+ "lead": 0.4,
+ "tail": 1.0,
+ "lines": [
+  {
+   "id": "card1",
+   "text": "Here's an experiment that still messes with my head."
+  },
+  {
+   "id": "one",
+   "text": "Shine light through one narrow slit, and the wall behind it lights up.",
+   "gap": 0.25
+  },
+  {
+   "id": "two",
+   "text": "Open a second slit next to it, and parts of the wall get darker.",
+   "gap": 0.3
+  },
+  {
+   "id": "how",
+   "text": "More light, less brightness. How?",
+   "gap": 0.25
+  },
+  {
+   "id": "wave",
+   "text": "Let's model light as a wave: crests in red, troughs in blue, spreading out from the slit.",
+   "gap": 0.45
+  },
+  {
+   "id": "add",
+   "text": "Add the second slit, and the two sets of ripples overlap.",
+   "gap": 0.35
+  },
+  {
+   "id": "lines",
+   "text": "But look at these grey lines. Along them, the wave barely moves.",
+   "gap": 0.35
+  },
+  {
+   "id": "freeze",
+   "text": "Freeze time and pick a point on one. It's exactly half a wavelength farther from one slit than the other.",
+   "gap": 0.35
+  },
+  {
+   "id": "cancel",
+   "text": "So a crest from one always meets a trough from the other, and they cancel.",
+   "gap": 0.25
+  },
+  {
+   "id": "double",
+   "text": "Here, the difference is one whole wavelength. Crest meets crest, and the wave is twice as tall.",
+   "gap": 0.35
+  },
+  {
+   "id": "avg",
+   "text": "Average over time, and you get bands. Bright, dark, bright.",
+   "gap": 0.35
+  },
+  {
+   "id": "plot",
+   "text": "Plot the brightness on the wall: the dark spots are dimmer than one slit alone.",
+   "gap": 0.3
+  },
+  {
+   "id": "twist",
+   "text": "Now the twist. Send light through one photon at a time, and each lands at a single point.",
+   "gap": 0.4
+  },
+  {
+   "id": "build",
+   "text": "Yet after thousands of them, the same dark bands appear.",
+   "gap": 0.3
+  },
+  {
+   "id": "card2",
+   "text": "So even one photon's landing spot depends on both slits being open.",
+   "gap": 0.45
+  }
+ ]
+}

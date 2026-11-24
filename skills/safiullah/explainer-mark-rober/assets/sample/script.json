@@ -1,0 +1,19 @@
+{"voice": "am_puck", "speed": 1.1, "lead": 0.4, "tail": 2.1,
+ "lines": [
+  {"id": "hook_a", "text": "This is a ravine. And this is a pizza."},
+  {"id": "hook_b", "text": "With a little physics, my robot will fly it across and land it right here.", "gap": 0.2},
+  {"id": "rewind", "text": "But first, we need to rewind a bit.", "gap": 0.3},
+  {"id": "map_a", "text": "My buddy Theo lives across that ravine.", "gap": 0.25},
+  {"id": "map_b", "text": "As the crow flies, a hundred and fifty meters. Driving around? Four kilometers.", "gap": 0.1},
+  {"id": "plan_a", "text": "So here's the plan. We string a rope from my deck to his treehouse.", "gap": 0.3},
+  {"id": "plan_b", "text": "The robot hooks on, and two motors drive it across at four meters per second.", "gap": 0.2},
+  {"id": "plan_c", "text": "Near the end, a sensor spots a reflector, it brakes, and a winch lowers the pizza onto his deck.", "gap": 0.2},
+  {"id": "plan_d", "text": "Then it zips home for the next order.", "gap": 0.25},
+  {"id": "cad", "text": "I designed it in CAD, sensor angled to catch the reflector ten meters out.", "gap": 0.4},
+  {"id": "phys_a", "text": "But here's what almost wrecked everything.", "gap": 0.3},
+  {"id": "phys_b", "text": "Robot plus pizza is about ten kilograms. That's ninety-eight newtons pulling down.", "gap": 0.25},
+  {"id": "phys_c", "text": "But the rope only sags three meters, and a rope that flat has to pull way harder to hold it up.", "gap": 0.2},
+  {"id": "phys_d", "text": "Each end gets yanked with over twelve hundred newtons. Like two adults hanging off it!", "gap": 0.2},
+  {"id": "end_a", "text": "Which explains why attempt one ended up in the creek.", "gap": 0.3},
+  {"id": "end_b", "text": "Attempt two? Hot pizza, delivered.", "gap": 0.6}
+ ]}

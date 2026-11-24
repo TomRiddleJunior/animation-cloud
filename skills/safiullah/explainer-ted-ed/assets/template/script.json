@@ -1,0 +1,7 @@
+{"voice": "af_heart", "speed": 0.95, "lead": 7.0, "tail": 7.5,
+ "lines": [
+  {"id": "a1", "at": 7.0, "text": "Every morning, bakers pull soft loaves out of the oven. By the next day, those same loaves have turned stale."},
+  {"id": "pivot", "gap": 0.55, "text": "So what changes inside the bread?"},
+  {"id": "step1", "gap": 0.55, "text": "Zoom in on the starch. As it cools, its long molecules slowly pack back into tight crystals, squeezing water out."},
+  {"id": "callback", "gap": 0.6, "text": "Which is why yesterday's loaf softens again in a hot oven."}
+ ]}

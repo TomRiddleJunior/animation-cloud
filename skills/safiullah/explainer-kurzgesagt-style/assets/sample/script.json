@@ -1,0 +1,22 @@
+{"voice": "am_michael", "speed": 1.32, "lead": 0.7, "tail": 2.4,
+ "lines": [
+  {"id": "hand", "text": "Hold out your hand."},
+  {"id": "older", "text": "Nearly every atom in it is older than the Earth. Older than the Sun, even.", "gap": 0.4},
+  {"id": "but", "text": "But its carbon, its oxygen, its calcium, didn't exist when the universe began.", "gap": 0.45},
+  {"id": "where", "text": "So where did it come from?", "gap": 0.35},
+  {"id": "young", "text": "The young universe made almost nothing but hydrogen and helium.", "gap": 0.7},
+  {"id": "dark", "text": "Just thin, dark gas.", "gap": 0.35},
+  {"id": "gravity", "text": "Until gravity squeezed it into clumps so hot their cores ignited.", "gap": 0.45},
+  {"id": "first", "text": "The first stars.", "gap": 0.2},
+  {"id": "fusion", "text": "Inside, hydrogen fuses into helium, and that makes light.", "gap": 0.6},
+  {"id": "further", "text": "Big stars go further. Helium becomes carbon and oxygen, then neon, silicon, and finally, iron.", "gap": 0.45},
+  {"id": "deadend", "text": "But iron is a dead end. Fusing it costs energy instead of releasing it.", "gap": 0.55},
+  {"id": "collapse", "text": "The core collapses in less than a second,", "gap": 0.4},
+  {"id": "explodes", "text": "and the star explodes.", "gap": 0.15},
+  {"id": "nova", "text": "A supernova, flinging fresh elements into space.", "gap": 0.7},
+  {"id": "mixes", "text": "The dust mixes with fresh gas and gathers into new stars and planets.", "gap": 0.45},
+  {"id": "sun", "text": "Four and a half billion years ago, one such cloud became the Sun, the Earth, and eventually, you.", "gap": 0.45},
+  {"id": "list", "text": "The calcium in your bones, the iron in your blood, the oxygen you breathe, all forged in stars that died before the Sun was born.", "gap": 0.6},
+  {"id": "madeof", "text": "You don't just live in the universe. You're made of it.", "gap": 0.85},
+  {"id": "close", "text": "Old stardust, wondering where it came from.", "gap": 0.75}
+ ]}

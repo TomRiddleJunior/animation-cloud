@@ -1,0 +1,14 @@
+{"voice": "af_heart", "speed": 0.95, "lead": 7.0, "tail": 7.5,
+ "lines": [
+  {"id": "a1", "at": 7.0, "text": "In September, nineteen twenty-eight, Alexander Fleming came back from holiday to a cluttered lab bench."},
+  {"id": "a2", "gap": 0.4, "text": "On one forgotten dish, a mold had grown, and all around it, the bacteria had vanished."},
+  {"id": "reveal", "gap": 0.45, "text": "That mold was leaking a substance that would save millions of lives. Its name? Penicillin."},
+  {"id": "pivot", "gap": 0.55, "text": "So how does it kill germs, but leave us unharmed?"},
+  {"id": "wall", "gap": 0.55, "text": "Zoom in on a bacterium. Its tough wall is a mesh of sugar chains, stitched together by tiny links."},
+  {"id": "grow", "gap": 0.4, "text": "To grow, the cell keeps loosening that mesh, while enzymes stitch in fresh links."},
+  {"id": "mimic", "gap": 0.45, "text": "Penicillin mimics the end of those links. The enzymes grab it, and jam."},
+  {"id": "burst", "gap": 0.45, "text": "The cell keeps growing, but its wall can't keep up, until it bursts."},
+  {"id": "us", "gap": 0.55, "text": "Human cells have no such wall, so the drug's target simply isn't there."},
+  {"id": "wider", "gap": 0.45, "text": "By the nineteen-forties, it was mass-produced, turning deadly infections into routine cures."},
+  {"id": "callback", "gap": 0.6, "text": "Not bad, for one messy bench."}
+ ]}

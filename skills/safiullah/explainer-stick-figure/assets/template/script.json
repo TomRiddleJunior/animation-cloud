@@ -1,0 +1,8 @@
+{"voice": "bm_george", "speed": 1.36, "lead": 1.0, "tail": 2.0,
+ "lines": [
+  {"id": "title", "text": "Backups are spare keys. That's the whole idea."},
+  {"id": "one",   "text": "You've got one key.", "gap": 0.4},
+  {"id": "lose",  "text": "You lose it. Now you're sleeping in the garden.", "gap": 0.2},
+  {"id": "spare", "text": "So don't keep your only key in one place. Keep a spare somewhere else.", "gap": 0.7},
+  {"id": "tag",   "text": "And no, under the doormat does not count.", "gap": 0.8}
+ ]}

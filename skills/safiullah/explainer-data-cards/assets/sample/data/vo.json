@@ -1,0 +1,782 @@
+{
+ "duration": 70.395,
+ "voice": "am_michael",
+ "words": 133,
+ "wpm_overall": 113.4,
+ "wpm_speech": 143.7,
+ "lines": [
+  {
+   "id": "hook",
+   "i": 0,
+   "text": "One treaty has phased out nearly 99 percent of the ozone-destroying chemicals it banned.",
+   "start": 0.41,
+   "end": 6.46,
+   "words": [
+    {
+     "w": "One",
+     "start": 0.41,
+     "end": 0.647
+    },
+    {
+     "w": "treaty",
+     "start": 0.647,
+     "end": 1.035
+    },
+    {
+     "w": "has",
+     "start": 1.035,
+     "end": 1.223
+    },
+    {
+     "w": "phased",
+     "start": 1.223,
+     "end": 1.573
+    },
+    {
+     "w": "out",
+     "start": 1.573,
+     "end": 1.797
+    },
+    {
+     "w": "nearly",
+     "start": 1.797,
+     "end": 2.335
+    },
+    {
+     "w": "99",
+     "start": 2.335,
+     "end": 3.11
+    },
+    {
+     "w": "percent",
+     "start": 3.11,
+     "end": 3.847
+    },
+    {
+     "w": "of",
+     "start": 3.847,
+     "end": 3.948
+    },
+    {
+     "w": "the",
+     "start": 3.948,
+     "end": 4.072
+    },
+    {
+     "w": "ozone-destroying",
+     "start": 4.072,
+     "end": 5.047
+    },
+    {
+     "w": "chemicals",
+     "start": 5.047,
+     "end": 5.56
+    },
+    {
+     "w": "it",
+     "start": 5.56,
+     "end": 5.71
+    },
+    {
+     "w": "banned.",
+     "start": 5.71,
+     "end": 6.46
+    }
+   ]
+  },
+  {
+   "id": "twist",
+   "i": 1,
+   "text": "And not a single country stayed out.",
+   "start": 7.27,
+   "end": 9.32,
+   "words": [
+    {
+     "w": "And",
+     "start": 7.27,
+     "end": 7.382
+    },
+    {
+     "w": "not",
+     "start": 7.382,
+     "end": 7.557
+    },
+    {
+     "w": "a",
+     "start": 7.557,
+     "end": 7.67
+    },
+    {
+     "w": "single",
+     "start": 7.67,
+     "end": 8.045
+    },
+    {
+     "w": "country",
+     "start": 8.045,
+     "end": 8.445
+    },
+    {
+     "w": "stayed",
+     "start": 8.445,
+     "end": 8.77
+    },
+    {
+     "w": "out.",
+     "start": 8.77,
+     "end": 9.32
+    }
+   ]
+  },
+  {
+   "id": "signed",
+   "i": 2,
+   "text": "The Montreal Protocol was signed on September 16th, 1987.",
+   "start": 10.33,
+   "end": 15.38,
+   "words": [
+    {
+     "w": "The",
+     "start": 10.33,
+     "end": 10.405
+    },
+    {
+     "w": "Montreal",
+     "start": 10.405,
+     "end": 11.08
+    },
+    {
+     "w": "Protocol",
+     "start": 11.08,
+     "end": 11.705
+    },
+    {
+     "w": "was",
+     "start": 11.705,
+     "end": 11.842
+    },
+    {
+     "w": "signed",
+     "start": 11.842,
+     "end": 12.167
+    },
+    {
+     "w": "on",
+     "start": 12.167,
+     "end": 12.33
+    },
+    {
+     "w": "September",
+     "start": 12.33,
+     "end": 12.867
+    },
+    {
+     "w": "16th,",
+     "start": 12.867,
+     "end": 13.68
+    },
+    {
+     "w": "1987.",
+     "start": 13.817,
+     "end": 15.38
+    }
+   ]
+  },
+  {
+   "id": "target",
+   "i": 3,
+   "text": "Its main target: CFCs, from fridges and spray cans.",
+   "start": 16.39,
+   "end": 20.39,
+   "words": [
+    {
+     "w": "Its",
+     "start": 16.39,
+     "end": 16.615
+    },
+    {
+     "w": "main",
+     "start": 16.615,
+     "end": 16.915
+    },
+    {
+     "w": "target:",
+     "start": 16.915,
+     "end": 17.54
+    },
+    {
+     "w": "CFCs,",
+     "start": 17.652,
+     "end": 18.39
+    },
+    {
+     "w": "from",
+     "start": 18.44,
+     "end": 18.652
+    },
+    {
+     "w": "fridges",
+     "start": 18.652,
+     "end": 19.09
+    },
+    {
+     "w": "and",
+     "start": 19.09,
+     "end": 19.215
+    },
+    {
+     "w": "spray",
+     "start": 19.215,
+     "end": 19.578
+    },
+    {
+     "w": "cans.",
+     "start": 19.578,
+     "end": 20.39
+    }
+   ]
+  },
+  {
+   "id": "how",
+   "i": 4,
+   "text": "In the stratosphere, sunlight splits them, and their chlorine destroys ozone, again and again.",
+   "start": 21.5,
+   "end": 27.225,
+   "words": [
+    {
+     "w": "In",
+     "start": 21.5,
+     "end": 21.587
+    },
+    {
+     "w": "the",
+     "start": 21.587,
+     "end": 21.675
+    },
+    {
+     "w": "stratosphere,",
+     "start": 21.675,
+     "end": 22.45
+    },
+    {
+     "w": "sunlight",
+     "start": 22.537,
+     "end": 23.025
+    },
+    {
+     "w": "splits",
+     "start": 23.025,
+     "end": 23.425
+    },
+    {
+     "w": "them,",
+     "start": 23.425,
+     "end": 23.9
+    },
+    {
+     "w": "and",
+     "start": 24.0,
+     "end": 24.112
+    },
+    {
+     "w": "their",
+     "start": 24.112,
+     "end": 24.262
+    },
+    {
+     "w": "chlorine",
+     "start": 24.262,
+     "end": 24.75
+    },
+    {
+     "w": "destroys",
+     "start": 24.75,
+     "end": 25.312
+    },
+    {
+     "w": "ozone,",
+     "start": 25.312,
+     "end": 25.9
+    },
+    {
+     "w": "again",
+     "start": 25.975,
+     "end": 26.375
+    },
+    {
+     "w": "and",
+     "start": 26.375,
+     "end": 26.487
+    },
+    {
+     "w": "again.",
+     "start": 26.487,
+     "end": 27.225
+    }
+   ]
+  },
+  {
+   "id": "universal",
+   "i": 5,
+   "text": "In 2009 it became the first UN treaty ratified by every country.",
+   "start": 28.335,
+   "end": 33.585,
+   "words": [
+    {
+     "w": "In",
+     "start": 28.335,
+     "end": 28.46
+    },
+    {
+     "w": "2009",
+     "start": 28.46,
+     "end": 29.785
+    },
+    {
+     "w": "it",
+     "start": 29.785,
+     "end": 29.898
+    },
+    {
+     "w": "became",
+     "start": 29.898,
+     "end": 30.248
+    },
+    {
+     "w": "the",
+     "start": 30.248,
+     "end": 30.385
+    },
+    {
+     "w": "first",
+     "start": 30.385,
+     "end": 30.773
+    },
+    {
+     "w": "UN",
+     "start": 30.773,
+     "end": 31.198
+    },
+    {
+     "w": "treaty",
+     "start": 31.198,
+     "end": 31.585
+    },
+    {
+     "w": "ratified",
+     "start": 31.585,
+     "end": 32.21
+    },
+    {
+     "w": "by",
+     "start": 32.21,
+     "end": 32.423
+    },
+    {
+     "w": "every",
+     "start": 32.423,
+     "end": 32.76
+    },
+    {
+     "w": "country.",
+     "start": 32.76,
+     "end": 33.585
+    }
+   ]
+  },
+  {
+   "id": "recover",
+   "i": 6,
+   "text": "Ozone is on track to recover to 1980 levels around 2040 for most of the world, 2045 over the Arctic, and 2066 over Antarctica.",
+   "start": 34.595,
+   "end": 45.845,
+   "words": [
+    {
+     "w": "Ozone",
+     "start": 34.595,
+     "end": 35.145
+    },
+    {
+     "w": "is",
+     "start": 35.145,
+     "end": 35.27
+    },
+    {
+     "w": "on",
+     "start": 35.27,
+     "end": 35.483
+    },
+    {
+     "w": "track",
+     "start": 35.483,
+     "end": 35.895
+    },
+    {
+     "w": "to",
+     "start": 35.895,
+     "end": 36.02
+    },
+    {
+     "w": "recover",
+     "start": 36.02,
+     "end": 36.495
+    },
+    {
+     "w": "to",
+     "start": 36.495,
+     "end": 36.633
+    },
+    {
+     "w": "1980",
+     "start": 36.633,
+     "end": 37.645
+    },
+    {
+     "w": "levels",
+     "start": 37.645,
+     "end": 38.045
+    },
+    {
+     "w": "around",
+     "start": 38.045,
+     "end": 38.433
+    },
+    {
+     "w": "2040",
+     "start": 38.433,
+     "end": 39.245
+    },
+    {
+     "w": "for",
+     "start": 39.245,
+     "end": 39.395
+    },
+    {
+     "w": "most",
+     "start": 39.395,
+     "end": 39.683
+    },
+    {
+     "w": "of",
+     "start": 39.683,
+     "end": 39.758
+    },
+    {
+     "w": "the",
+     "start": 39.758,
+     "end": 39.858
+    },
+    {
+     "w": "world,",
+     "start": 39.858,
+     "end": 40.545
+    },
+    {
+     "w": "2045",
+     "start": 40.683,
+     "end": 41.795
+    },
+    {
+     "w": "over",
+     "start": 41.795,
+     "end": 42.008
+    },
+    {
+     "w": "the",
+     "start": 42.008,
+     "end": 42.158
+    },
+    {
+     "w": "Arctic,",
+     "start": 42.158,
+     "end": 42.945
+    },
+    {
+     "w": "and",
+     "start": 43.058,
+     "end": 43.208
+    },
+    {
+     "w": "2066",
+     "start": 43.208,
+     "end": 44.483
+    },
+    {
+     "w": "over",
+     "start": 44.483,
+     "end": 44.72
+    },
+    {
+     "w": "Antarctica.",
+     "start": 44.72,
+     "end": 45.845
+    }
+   ]
+  },
+  {
+   "id": "hfc",
+   "i": 7,
+   "text": "Their substitutes, HFCs, spare the ozone but heat the planet.",
+   "start": 46.955,
+   "end": 51.38,
+   "words": [
+    {
+     "w": "Their",
+     "start": 46.955,
+     "end": 47.118
+    },
+    {
+     "w": "substitutes,",
+     "start": 47.118,
+     "end": 47.855
+    },
+    {
+     "w": "HFCs,",
+     "start": 47.93,
+     "end": 48.98
+    },
+    {
+     "w": "spare",
+     "start": 49.118,
+     "end": 49.443
+    },
+    {
+     "w": "the",
+     "start": 49.443,
+     "end": 49.593
+    },
+    {
+     "w": "ozone",
+     "start": 49.593,
+     "end": 50.105
+    },
+    {
+     "w": "but",
+     "start": 50.105,
+     "end": 50.268
+    },
+    {
+     "w": "heat",
+     "start": 50.268,
+     "end": 50.505
+    },
+    {
+     "w": "the",
+     "start": 50.505,
+     "end": 50.605
+    },
+    {
+     "w": "planet.",
+     "start": 50.605,
+     "end": 51.38
+    }
+   ]
+  },
+  {
+   "id": "kigali",
+   "i": 8,
+   "text": "So in 2016 the Kigali Amendment set out to phase them down.",
+   "start": 52.09,
+   "end": 56.49,
+   "words": [
+    {
+     "w": "So",
+     "start": 52.09,
+     "end": 52.265
+    },
+    {
+     "w": "in",
+     "start": 52.265,
+     "end": 52.39
+    },
+    {
+     "w": "2016",
+     "start": 52.39,
+     "end": 53.54
+    },
+    {
+     "w": "the",
+     "start": 53.54,
+     "end": 53.64
+    },
+    {
+     "w": "Kigali",
+     "start": 53.64,
+     "end": 54.165
+    },
+    {
+     "w": "Amendment",
+     "start": 54.165,
+     "end": 54.703
+    },
+    {
+     "w": "set",
+     "start": 54.703,
+     "end": 54.903
+    },
+    {
+     "w": "out",
+     "start": 54.903,
+     "end": 55.115
+    },
+    {
+     "w": "to",
+     "start": 55.115,
+     "end": 55.253
+    },
+    {
+     "w": "phase",
+     "start": 55.253,
+     "end": 55.578
+    },
+    {
+     "w": "them",
+     "start": 55.578,
+     "end": 55.765
+    },
+    {
+     "w": "down.",
+     "start": 55.765,
+     "end": 56.49
+    }
+   ]
+  },
+  {
+   "id": "hole",
+   "i": 9,
+   "text": "But the Antarctic hole still opens every spring.",
+   "start": 57.6,
+   "end": 60.6,
+   "words": [
+    {
+     "w": "But",
+     "start": 57.6,
+     "end": 57.713
+    },
+    {
+     "w": "the",
+     "start": 57.713,
+     "end": 57.825
+    },
+    {
+     "w": "Antarctic",
+     "start": 57.825,
+     "end": 58.4
+    },
+    {
+     "w": "hole",
+     "start": 58.4,
+     "end": 58.738
+    },
+    {
+     "w": "still",
+     "start": 58.738,
+     "end": 59.038
+    },
+    {
+     "w": "opens",
+     "start": 59.038,
+     "end": 59.488
+    },
+    {
+     "w": "every",
+     "start": 59.488,
+     "end": 59.838
+    },
+    {
+     "w": "spring.",
+     "start": 59.838,
+     "end": 60.6
+    }
+   ]
+  },
+  {
+   "id": "q1",
+   "i": 10,
+   "text": "So, was the ozone layer a one-off?",
+   "start": 61.71,
+   "end": 63.885,
+   "words": [
+    {
+     "w": "So,",
+     "start": 61.71,
+     "end": 61.835
+    },
+    {
+     "w": "was",
+     "start": 61.873,
+     "end": 61.998
+    },
+    {
+     "w": "the",
+     "start": 61.998,
+     "end": 62.148
+    },
+    {
+     "w": "ozone",
+     "start": 62.148,
+     "end": 62.61
+    },
+    {
+     "w": "layer",
+     "start": 62.61,
+     "end": 62.985
+    },
+    {
+     "w": "a",
+     "start": 62.985,
+     "end": 63.085
+    },
+    {
+     "w": "one-off?",
+     "start": 63.085,
+     "end": 63.885
+    }
+   ]
+  },
+  {
+   "id": "q2",
+   "i": 11,
+   "text": "Or proof the world can act, again?",
+   "start": 64.695,
+   "end": 66.845,
+   "words": [
+    {
+     "w": "Or",
+     "start": 64.695,
+     "end": 64.858
+    },
+    {
+     "w": "proof",
+     "start": 64.858,
+     "end": 65.145
+    },
+    {
+     "w": "the",
+     "start": 65.145,
+     "end": 65.245
+    },
+    {
+     "w": "world",
+     "start": 65.245,
+     "end": 65.57
+    },
+    {
+     "w": "can",
+     "start": 65.57,
+     "end": 65.77
+    },
+    {
+     "w": "act,",
+     "start": 65.77,
+     "end": 66.07
+    },
+    {
+     "w": "again?",
+     "start": 66.12,
+     "end": 66.845
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+{"voice": "bm_george", "speed": 1.04, "lead": 2.6, "tail": 3.0,
+ "lines": [
+  {"id": "hook", "text": "Most of us carry a small worry that nobody else can see."},
+  {"id": "c1",   "text": "One. The weight.", "gap": 0.9},
+  {"id": "grip", "text": "We hold on to it, as if letting go would make us careless.", "gap": 0.8}
+ ]}

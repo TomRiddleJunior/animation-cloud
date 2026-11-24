@@ -1,0 +1,67 @@
+{
+ "voice": "af_heart",
+ "speed": 1.0,
+ "lead": 0.5,
+ "tail": 3.1,
+ "lines": [
+  {
+   "id": "hook",
+   "text": "Your team's work is everywhere."
+  },
+  {
+   "id": "tools",
+   "text": "Chats in one app. Docs in another. Tasks, somewhere in between.",
+   "gap": 0.35
+  },
+  {
+   "id": "pain",
+   "text": "Every switch costs focus, and the important things slip through the cracks.",
+   "gap": 0.4
+  },
+  {
+   "id": "reveal",
+   "text": "Meet Kitewise. One calm workspace, with an AI that keeps it all connected.",
+   "gap": 0.8
+  },
+  {
+   "id": "f1",
+   "text": "Kitewise plugs into the tools you already use, so every message, file and task lands in a single feed.",
+   "gap": 0.7
+  },
+  {
+   "id": "f1b",
+   "text": "No more hunting. Just open it, and you're caught up.",
+   "gap": 0.35
+  },
+  {
+   "id": "f2",
+   "text": "Need the short version? Ask Kite.",
+   "gap": 0.8
+  },
+  {
+   "id": "f2b",
+   "text": "It reads the whole thread and hands you a summary, with the decisions and next steps pulled out.",
+   "gap": 0.4
+  },
+  {
+   "id": "f3",
+   "text": "Then turn those next steps into tasks, with one click.",
+   "gap": 0.7
+  },
+  {
+   "id": "f3b",
+   "text": "Kitewise assigns owners, sets due dates, and keeps the board in sync on its own.",
+   "gap": 0.35
+  },
+  {
+   "id": "outcome",
+   "text": "Less switching. More finished work. And a team that always knows what's next.",
+   "gap": 0.8
+  },
+  {
+   "id": "cta",
+   "text": "Kitewise. Your work, in one view. Try it free at kitewise dot app.",
+   "gap": 0.8
+  }
+ ]
+}

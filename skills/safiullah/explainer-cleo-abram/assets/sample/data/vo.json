@@ -1,0 +1,1101 @@
+{
+ "duration": 68.405,
+ "voice": "af_heart",
+ "words": 195,
+ "wpm_overall": 171.0,
+ "wpm_speech": 201.5,
+ "lines": [
+  {
+   "id": "hook1",
+   "i": 0,
+   "text": "Imagine a spaceship with no engine and no fuel, that never stops speeding up.",
+   "start": 3.31,
+   "end": 7.46,
+   "words": [
+    {
+     "w": "Imagine",
+     "start": 3.31,
+     "end": 3.647
+    },
+    {
+     "w": "a",
+     "start": 3.647,
+     "end": 3.71
+    },
+    {
+     "w": "spaceship",
+     "start": 3.71,
+     "end": 4.247
+    },
+    {
+     "w": "with",
+     "start": 4.247,
+     "end": 4.41
+    },
+    {
+     "w": "no",
+     "start": 4.41,
+     "end": 4.585
+    },
+    {
+     "w": "engine",
+     "start": 4.585,
+     "end": 4.985
+    },
+    {
+     "w": "and",
+     "start": 4.985,
+     "end": 5.11
+    },
+    {
+     "w": "no",
+     "start": 5.11,
+     "end": 5.297
+    },
+    {
+     "w": "fuel,",
+     "start": 5.297,
+     "end": 5.835
+    },
+    {
+     "w": "that",
+     "start": 5.91,
+     "end": 6.085
+    },
+    {
+     "w": "never",
+     "start": 6.085,
+     "end": 6.385
+    },
+    {
+     "w": "stops",
+     "start": 6.385,
+     "end": 6.71
+    },
+    {
+     "w": "speeding",
+     "start": 6.71,
+     "end": 7.047
+    },
+    {
+     "w": "up.",
+     "start": 7.047,
+     "end": 7.46
+    }
+   ]
+  },
+  {
+   "id": "hook2",
+   "i": 1,
+   "text": "You and I are going to fly one, powered by nothing but sunlight.",
+   "start": 7.87,
+   "end": 10.995,
+   "words": [
+    {
+     "w": "You",
+     "start": 7.87,
+     "end": 8.045
+    },
+    {
+     "w": "and",
+     "start": 8.045,
+     "end": 8.158
+    },
+    {
+     "w": "I",
+     "start": 8.158,
+     "end": 8.308
+    },
+    {
+     "w": "are",
+     "start": 8.308,
+     "end": 8.383
+    },
+    {
+     "w": "going",
+     "start": 8.383,
+     "end": 8.558
+    },
+    {
+     "w": "to",
+     "start": 8.558,
+     "end": 8.645
+    },
+    {
+     "w": "fly",
+     "start": 8.645,
+     "end": 8.87
+    },
+    {
+     "w": "one,",
+     "start": 8.87,
+     "end": 9.27
+    },
+    {
+     "w": "powered",
+     "start": 9.37,
+     "end": 9.708
+    },
+    {
+     "w": "by",
+     "start": 9.708,
+     "end": 9.845
+    },
+    {
+     "w": "nothing",
+     "start": 9.845,
+     "end": 10.195
+    },
+    {
+     "w": "but",
+     "start": 10.195,
+     "end": 10.345
+    },
+    {
+     "w": "sunlight.",
+     "start": 10.345,
+     "end": 10.995
+    }
+   ]
+  },
+  {
+   "id": "weird",
+   "i": 2,
+   "text": "Here's the weird part: light has no mass, but it still carries momentum.",
+   "start": 11.405,
+   "end": 15.23,
+   "words": [
+    {
+     "w": "Here's",
+     "start": 11.405,
+     "end": 11.668
+    },
+    {
+     "w": "the",
+     "start": 11.668,
+     "end": 11.755
+    },
+    {
+     "w": "weird",
+     "start": 11.755,
+     "end": 12.03
+    },
+    {
+     "w": "part:",
+     "start": 12.03,
+     "end": 12.53
+    },
+    {
+     "w": "light",
+     "start": 12.643,
+     "end": 12.905
+    },
+    {
+     "w": "has",
+     "start": 12.905,
+     "end": 13.105
+    },
+    {
+     "w": "no",
+     "start": 13.105,
+     "end": 13.28
+    },
+    {
+     "w": "mass,",
+     "start": 13.28,
+     "end": 13.655
+    },
+    {
+     "w": "but",
+     "start": 13.692,
+     "end": 13.817
+    },
+    {
+     "w": "it",
+     "start": 13.817,
+     "end": 13.905
+    },
+    {
+     "w": "still",
+     "start": 13.905,
+     "end": 14.155
+    },
+    {
+     "w": "carries",
+     "start": 14.155,
+     "end": 14.505
+    },
+    {
+     "w": "momentum.",
+     "start": 14.505,
+     "end": 15.23
+    }
+   ]
+  },
+  {
+   "id": "bounce",
+   "i": 3,
+   "text": "When a photon hits a mirror, it bounces off and gives it a tiny shove.",
+   "start": 15.64,
+   "end": 19.265,
+   "words": [
+    {
+     "w": "When",
+     "start": 15.64,
+     "end": 15.752
+    },
+    {
+     "w": "a",
+     "start": 15.752,
+     "end": 15.815
+    },
+    {
+     "w": "photon",
+     "start": 15.815,
+     "end": 16.265
+    },
+    {
+     "w": "hits",
+     "start": 16.265,
+     "end": 16.477
+    },
+    {
+     "w": "a",
+     "start": 16.477,
+     "end": 16.54
+    },
+    {
+     "w": "mirror,",
+     "start": 16.54,
+     "end": 17.04
+    },
+    {
+     "w": "it",
+     "start": 17.14,
+     "end": 17.24
+    },
+    {
+     "w": "bounces",
+     "start": 17.24,
+     "end": 17.615
+    },
+    {
+     "w": "off",
+     "start": 17.615,
+     "end": 17.915
+    },
+    {
+     "w": "and",
+     "start": 17.915,
+     "end": 18.04
+    },
+    {
+     "w": "gives",
+     "start": 18.04,
+     "end": 18.227
+    },
+    {
+     "w": "it",
+     "start": 18.227,
+     "end": 18.302
+    },
+    {
+     "w": "a",
+     "start": 18.302,
+     "end": 18.365
+    },
+    {
+     "w": "tiny",
+     "start": 18.365,
+     "end": 18.702
+    },
+    {
+     "w": "shove.",
+     "start": 18.702,
+     "end": 19.265
+    }
+   ]
+  },
+  {
+   "id": "double",
+   "i": 4,
+   "text": "Bounce it straight back? Double the kick!",
+   "start": 19.675,
+   "end": 21.6,
+   "words": [
+    {
+     "w": "Bounce",
+     "start": 19.675,
+     "end": 19.938
+    },
+    {
+     "w": "it",
+     "start": 19.938,
+     "end": 20.012
+    },
+    {
+     "w": "straight",
+     "start": 20.012,
+     "end": 20.275
+    },
+    {
+     "w": "back?",
+     "start": 20.275,
+     "end": 20.65
+    },
+    {
+     "w": "Double",
+     "start": 20.75,
+     "end": 21.037
+    },
+    {
+     "w": "the",
+     "start": 21.037,
+     "end": 21.125
+    },
+    {
+     "w": "kick!",
+     "start": 21.125,
+     "end": 21.6
+    }
+   ]
+  },
+  {
+   "id": "tiny",
+   "i": 5,
+   "text": "On real sails, that push is less than the weight of a paperclip.",
+   "start": 22.01,
+   "end": 25.235,
+   "words": [
+    {
+     "w": "On",
+     "start": 22.01,
+     "end": 22.16
+    },
+    {
+     "w": "real",
+     "start": 22.16,
+     "end": 22.447
+    },
+    {
+     "w": "sails,",
+     "start": 22.447,
+     "end": 22.985
+    },
+    {
+     "w": "that",
+     "start": 23.06,
+     "end": 23.235
+    },
+    {
+     "w": "push",
+     "start": 23.235,
+     "end": 23.535
+    },
+    {
+     "w": "is",
+     "start": 23.535,
+     "end": 23.685
+    },
+    {
+     "w": "less",
+     "start": 23.685,
+     "end": 23.91
+    },
+    {
+     "w": "than",
+     "start": 23.91,
+     "end": 24.022
+    },
+    {
+     "w": "the",
+     "start": 24.022,
+     "end": 24.11
+    },
+    {
+     "w": "weight",
+     "start": 24.11,
+     "end": 24.347
+    },
+    {
+     "w": "of",
+     "start": 24.347,
+     "end": 24.422
+    },
+    {
+     "w": "a",
+     "start": 24.422,
+     "end": 24.485
+    },
+    {
+     "w": "paperclip.",
+     "start": 24.485,
+     "end": 25.235
+    }
+   ]
+  },
+  {
+   "id": "build",
+   "i": 6,
+   "text": "But space has no friction, and the Sun never switches off, so your speed just keeps building.",
+   "start": 25.645,
+   "end": 30.445,
+   "words": [
+    {
+     "w": "But",
+     "start": 25.645,
+     "end": 25.77
+    },
+    {
+     "w": "space",
+     "start": 25.77,
+     "end": 26.12
+    },
+    {
+     "w": "has",
+     "start": 26.12,
+     "end": 26.32
+    },
+    {
+     "w": "no",
+     "start": 26.32,
+     "end": 26.495
+    },
+    {
+     "w": "friction,",
+     "start": 26.495,
+     "end": 27.07
+    },
+    {
+     "w": "and",
+     "start": 27.145,
+     "end": 27.257
+    },
+    {
+     "w": "the",
+     "start": 27.257,
+     "end": 27.357
+    },
+    {
+     "w": "Sun",
+     "start": 27.357,
+     "end": 27.62
+    },
+    {
+     "w": "never",
+     "start": 27.62,
+     "end": 27.845
+    },
+    {
+     "w": "switches",
+     "start": 27.845,
+     "end": 28.195
+    },
+    {
+     "w": "off,",
+     "start": 28.195,
+     "end": 28.62
+    },
+    {
+     "w": "so",
+     "start": 28.72,
+     "end": 28.87
+    },
+    {
+     "w": "your",
+     "start": 28.87,
+     "end": 29.02
+    },
+    {
+     "w": "speed",
+     "start": 29.02,
+     "end": 29.32
+    },
+    {
+     "w": "just",
+     "start": 29.32,
+     "end": 29.52
+    },
+    {
+     "w": "keeps",
+     "start": 29.52,
+     "end": 29.795
+    },
+    {
+     "w": "building.",
+     "start": 29.795,
+     "end": 30.445
+    }
+   ]
+  },
+  {
+   "id": "old",
+   "i": 7,
+   "text": "And this idea is old! Four centuries ago, Kepler saw comet tails point away from the Sun, and guessed sunlight was pushing them.",
+   "start": 31.055,
+   "end": 37.93,
+   "words": [
+    {
+     "w": "And",
+     "start": 31.055,
+     "end": 31.192
+    },
+    {
+     "w": "this",
+     "start": 31.192,
+     "end": 31.367
+    },
+    {
+     "w": "idea",
+     "start": 31.367,
+     "end": 31.73
+    },
+    {
+     "w": "is",
+     "start": 31.73,
+     "end": 31.88
+    },
+    {
+     "w": "old!",
+     "start": 31.88,
+     "end": 32.455
+    },
+    {
+     "w": "Four",
+     "start": 32.592,
+     "end": 32.83
+    },
+    {
+     "w": "centuries",
+     "start": 32.83,
+     "end": 33.217
+    },
+    {
+     "w": "ago,",
+     "start": 33.217,
+     "end": 33.605
+    },
+    {
+     "w": "Kepler",
+     "start": 33.705,
+     "end": 34.08
+    },
+    {
+     "w": "saw",
+     "start": 34.08,
+     "end": 34.255
+    },
+    {
+     "w": "comet",
+     "start": 34.255,
+     "end": 34.605
+    },
+    {
+     "w": "tails",
+     "start": 34.605,
+     "end": 34.955
+    },
+    {
+     "w": "point",
+     "start": 34.955,
+     "end": 35.192
+    },
+    {
+     "w": "away",
+     "start": 35.192,
+     "end": 35.43
+    },
+    {
+     "w": "from",
+     "start": 35.43,
+     "end": 35.567
+    },
+    {
+     "w": "the",
+     "start": 35.567,
+     "end": 35.655
+    },
+    {
+     "w": "Sun,",
+     "start": 35.655,
+     "end": 36.08
+    },
+    {
+     "w": "and",
+     "start": 36.155,
+     "end": 36.292
+    },
+    {
+     "w": "guessed",
+     "start": 36.292,
+     "end": 36.617
+    },
+    {
+     "w": "sunlight",
+     "start": 36.617,
+     "end": 37.017
+    },
+    {
+     "w": "was",
+     "start": 37.017,
+     "end": 37.155
+    },
+    {
+     "w": "pushing",
+     "start": 37.155,
+     "end": 37.517
+    },
+    {
+     "w": "them.",
+     "start": 37.517,
+     "end": 37.93
+    }
+   ]
+  },
+  {
+   "id": "maxwell",
+   "i": 8,
+   "text": "In the 1870s, Maxwell predicted light really does push, and around 1900, physicists measured it.",
+   "start": 38.34,
+   "end": 44.865,
+   "words": [
+    {
+     "w": "In",
+     "start": 38.34,
+     "end": 38.402
+    },
+    {
+     "w": "the",
+     "start": 38.402,
+     "end": 38.515
+    },
+    {
+     "w": "1870s,",
+     "start": 38.515,
+     "end": 39.59
+    },
+    {
+     "w": "Maxwell",
+     "start": 39.69,
+     "end": 40.165
+    },
+    {
+     "w": "predicted",
+     "start": 40.165,
+     "end": 40.59
+    },
+    {
+     "w": "light",
+     "start": 40.59,
+     "end": 40.877
+    },
+    {
+     "w": "really",
+     "start": 40.877,
+     "end": 41.19
+    },
+    {
+     "w": "does",
+     "start": 41.19,
+     "end": 41.415
+    },
+    {
+     "w": "push,",
+     "start": 41.415,
+     "end": 42.04
+    },
+    {
+     "w": "and",
+     "start": 42.14,
+     "end": 42.252
+    },
+    {
+     "w": "around",
+     "start": 42.252,
+     "end": 42.565
+    },
+    {
+     "w": "1900,",
+     "start": 42.565,
+     "end": 43.465
+    },
+    {
+     "w": "physicists",
+     "start": 43.565,
+     "end": 44.115
+    },
+    {
+     "w": "measured",
+     "start": 44.115,
+     "end": 44.49
+    },
+    {
+     "w": "it.",
+     "start": 44.49,
+     "end": 44.865
+    }
+   ]
+  },
+  {
+   "id": "ikaros",
+   "i": 9,
+   "text": "In 2010, a Japanese probe called Ikaros unfurled a sail on its way to Venus, and flew on sunlight.",
+   "start": 45.375,
+   "end": 51.475,
+   "words": [
+    {
+     "w": "In",
+     "start": 45.375,
+     "end": 45.475
+    },
+    {
+     "w": "2010,",
+     "start": 45.475,
+     "end": 46.25
+    },
+    {
+     "w": "a",
+     "start": 46.35,
+     "end": 46.45
+    },
+    {
+     "w": "Japanese",
+     "start": 46.45,
+     "end": 47.0
+    },
+    {
+     "w": "probe",
+     "start": 47.0,
+     "end": 47.35
+    },
+    {
+     "w": "called",
+     "start": 47.35,
+     "end": 47.6
+    },
+    {
+     "w": "Ikaros",
+     "start": 47.6,
+     "end": 48.15
+    },
+    {
+     "w": "unfurled",
+     "start": 48.15,
+     "end": 48.562
+    },
+    {
+     "w": "a",
+     "start": 48.562,
+     "end": 48.637
+    },
+    {
+     "w": "sail",
+     "start": 48.637,
+     "end": 48.962
+    },
+    {
+     "w": "on",
+     "start": 48.962,
+     "end": 49.062
+    },
+    {
+     "w": "its",
+     "start": 49.062,
+     "end": 49.162
+    },
+    {
+     "w": "way",
+     "start": 49.162,
+     "end": 49.325
+    },
+    {
+     "w": "to",
+     "start": 49.325,
+     "end": 49.425
+    },
+    {
+     "w": "Venus,",
+     "start": 49.425,
+     "end": 50.1
+    },
+    {
+     "w": "and",
+     "start": 50.2,
+     "end": 50.337
+    },
+    {
+     "w": "flew",
+     "start": 50.337,
+     "end": 50.625
+    },
+    {
+     "w": "on",
+     "start": 50.625,
+     "end": 50.825
+    },
+    {
+     "w": "sunlight.",
+     "start": 50.825,
+     "end": 51.475
+    }
+   ]
+  },
+  {
+   "id": "laser",
+   "i": 10,
+   "text": "Now scientists have proposed tiny probes on sails, pushed by giant lasers,",
+   "start": 51.885,
+   "end": 55.96,
+   "words": [
+    {
+     "w": "Now",
+     "start": 51.885,
+     "end": 52.085
+    },
+    {
+     "w": "scientists",
+     "start": 52.085,
+     "end": 52.572
+    },
+    {
+     "w": "have",
+     "start": 52.572,
+     "end": 52.685
+    },
+    {
+     "w": "proposed",
+     "start": 52.685,
+     "end": 53.11
+    },
+    {
+     "w": "tiny",
+     "start": 53.11,
+     "end": 53.41
+    },
+    {
+     "w": "probes",
+     "start": 53.41,
+     "end": 53.697
+    },
+    {
+     "w": "on",
+     "start": 53.697,
+     "end": 53.86
+    },
+    {
+     "w": "sails,",
+     "start": 53.86,
+     "end": 54.435
+    },
+    {
+     "w": "pushed",
+     "start": 54.535,
+     "end": 54.835
+    },
+    {
+     "w": "by",
+     "start": 54.835,
+     "end": 55.022
+    },
+    {
+     "w": "giant",
+     "start": 55.022,
+     "end": 55.322
+    },
+    {
+     "w": "lasers,",
+     "start": 55.322,
+     "end": 55.96
+    }
+   ]
+  },
+  {
+   "id": "stars",
+   "i": 11,
+   "text": "fast enough to reach the nearest stars in about twenty years. At Voyager's speed? Tens of thousands.",
+   "start": 56.27,
+   "end": 61.62,
+   "words": [
+    {
+     "w": "fast",
+     "start": 56.27,
+     "end": 56.532
+    },
+    {
+     "w": "enough",
+     "start": 56.532,
+     "end": 56.795
+    },
+    {
+     "w": "to",
+     "start": 56.795,
+     "end": 56.895
+    },
+    {
+     "w": "reach",
+     "start": 56.895,
+     "end": 57.145
+    },
+    {
+     "w": "the",
+     "start": 57.145,
+     "end": 57.245
+    },
+    {
+     "w": "nearest",
+     "start": 57.245,
+     "end": 57.57
+    },
+    {
+     "w": "stars",
+     "start": 57.57,
+     "end": 57.957
+    },
+    {
+     "w": "in",
+     "start": 57.957,
+     "end": 58.032
+    },
+    {
+     "w": "about",
+     "start": 58.032,
+     "end": 58.27
+    },
+    {
+     "w": "twenty",
+     "start": 58.27,
+     "end": 58.57
+    },
+    {
+     "w": "years.",
+     "start": 58.57,
+     "end": 59.17
+    },
+    {
+     "w": "At",
+     "start": 59.245,
+     "end": 59.395
+    },
+    {
+     "w": "Voyager's",
+     "start": 59.395,
+     "end": 59.87
+    },
+    {
+     "w": "speed?",
+     "start": 59.87,
+     "end": 60.37
+    },
+    {
+     "w": "Tens",
+     "start": 60.47,
+     "end": 60.782
+    },
+    {
+     "w": "of",
+     "start": 60.782,
+     "end": 60.87
+    },
+    {
+     "w": "thousands.",
+     "start": 60.87,
+     "end": 61.62
+    }
+   ]
+  },
+  {
+   "id": "end",
+   "i": 12,
+   "text": "Light, the same stuff warming your face right now, could one day carry us to another star.",
+   "start": 62.28,
+   "end": 66.755,
+   "words": [
+    {
+     "w": "Light,",
+     "start": 62.28,
+     "end": 62.555
+    },
+    {
+     "w": "the",
+     "start": 62.592,
+     "end": 62.717
+    },
+    {
+     "w": "same",
+     "start": 62.717,
+     "end": 63.005
+    },
+    {
+     "w": "stuff",
+     "start": 63.005,
+     "end": 63.28
+    },
+    {
+     "w": "warming",
+     "start": 63.28,
+     "end": 63.592
+    },
+    {
+     "w": "your",
+     "start": 63.592,
+     "end": 63.705
+    },
+    {
+     "w": "face",
+     "start": 63.705,
+     "end": 63.955
+    },
+    {
+     "w": "right",
+     "start": 63.955,
+     "end": 64.142
+    },
+    {
+     "w": "now,",
+     "start": 64.142,
+     "end": 64.58
+    },
+    {
+     "w": "could",
+     "start": 64.68,
+     "end": 64.88
+    },
+    {
+     "w": "one",
+     "start": 64.88,
+     "end": 65.105
+    },
+    {
+     "w": "day",
+     "start": 65.105,
+     "end": 65.305
+    },
+    {
+     "w": "carry",
+     "start": 65.305,
+     "end": 65.592
+    },
+    {
+     "w": "us",
+     "start": 65.592,
+     "end": 65.755
+    },
+    {
+     "w": "to",
+     "start": 65.755,
+     "end": 65.88
+    },
+    {
+     "w": "another",
+     "start": 65.88,
+     "end": 66.18
+    },
+    {
+     "w": "star.",
+     "start": 66.18,
+     "end": 66.755
+    }
+   ]
+  }
+ ]
+}

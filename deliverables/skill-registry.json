@@ -1,0 +1,1400 @@
+{
+  "mission": "Mission 00 — animation skill arsenal",
+  "generated_at": "2026-11-24T21:26:48.478Z",
+  "library": {
+    "root": "skills/",
+    "total_skills": 204,
+    "loader": "skills/AGENTS.md router"
+  },
+  "method": "shallow clones at pinned HEAD SHAs, SKILL.md frontmatter vetted and copied into vendor namespaces",
+  "sources": [
+    {
+      "vendor": "remotion",
+      "repo": "remotion-dev/skills",
+      "sha": "a3f4098a2afd0e13f6a6f8c8760e275f75457ea9",
+      "license": "Remotion license (see remotion-dev/remotion); no LICENSE file in skills repo",
+      "upstream_skills": 14,
+      "trust": [],
+      "installed": 14
+    },
+    {
+      "vendor": "hyperframes",
+      "repo": "heygen-com/hyperframes",
+      "sha": "36d57639584d0534c32e816c87d9baf2a1683fd0",
+      "license": "Apache-2.0",
+      "upstream_skills": 29,
+      "trust": [
+        "telemetry beacon (npx hyperframes events/usage)",
+        "reverse + style templates are paid Pro features"
+      ],
+      "installed": 22
+    },
+    {
+      "vendor": "gsap",
+      "repo": "greensock/gsap-skills",
+      "sha": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+      "license": "MIT",
+      "upstream_skills": 8,
+      "trust": [],
+      "installed": 8
+    },
+    {
+      "vendor": "faisal",
+      "repo": "faisalfaisu/claude-video-skills",
+      "sha": "67b36164386277703c5cfbdf2c6f66f8856f6cc5",
+      "license": "MIT",
+      "upstream_skills": 41,
+      "trust": [
+        "curated install: 33 of 41 (asset-heavy skills excluded)"
+      ],
+      "installed": 33
+    },
+    {
+      "vendor": "hmzbo",
+      "repo": "Hmzbo/animation-skills",
+      "sha": "42dd41ec0b700999d2d013f19affa3c72333f265",
+      "license": "MIT",
+      "upstream_skills": 6,
+      "trust": [],
+      "installed": 4
+    },
+    {
+      "vendor": "visualx",
+      "repo": "VisualxIntelligence/motion-tools-and-skills",
+      "sha": "69eb0c3d362d4740cacf7b619b1bdf40d3c2c752",
+      "license": "MIT",
+      "upstream_skills": 143,
+      "trust": [
+        "some skills upsell \"Creator MCP\" for rendered exports",
+        "curated install: 74 of 143"
+      ],
+      "installed": 74
+    },
+    {
+      "vendor": "mromidev",
+      "repo": "mromidev/claude-animated-shorts",
+      "sha": "e3b817b6afc6cd413466d43f11ba31209e034bbf",
+      "license": "MIT",
+      "upstream_skills": 1,
+      "trust": [
+        "16 MB reference contact sheets excluded"
+      ],
+      "installed": 1
+    },
+    {
+      "vendor": "nessalazne",
+      "repo": "nessalazne/animation-agent-skill",
+      "sha": "51c22ed815ff799222d1d9a6883734245e25692f",
+      "license": "MIT",
+      "upstream_skills": 1,
+      "trust": [
+        "wraps the HyperFrames engine (telemetry beacon)"
+      ],
+      "installed": 1
+    },
+    {
+      "vendor": "madhav",
+      "repo": "madhavsomani/animation-skills",
+      "sha": "d2b562dd4a0aa1a8cf7d6a35b6719318cf372c51",
+      "license": "MIT",
+      "upstream_skills": 16,
+      "trust": [],
+      "installed": 16
+    },
+    {
+      "vendor": "cumalibilgic",
+      "repo": "cumalibilgic/cinematic-3d-video",
+      "sha": "ef6cbdc15c55788348402aa42f1caab8396bb496",
+      "license": "MIT",
+      "upstream_skills": 1,
+      "trust": [],
+      "installed": 1
+    },
+    {
+      "vendor": "safiullah",
+      "repo": "Safiullah-Rahu/claude-video-skills",
+      "sha": "3842756bd657b227e2b791024358abb92f714d78",
+      "license": "MIT",
+      "upstream_skills": 62,
+      "trust": [
+        "curated install: 22 style skills of 62 total"
+      ],
+      "installed": 22
+    },
+    {
+      "vendor": "winhao",
+      "repo": "Win-Hao/code-video",
+      "sha": "6e806a5a14d7270f5e726cd07d16b4ef7fb4d2c9",
+      "license": "MIT",
+      "upstream_skills": 1,
+      "trust": [],
+      "installed": 1
+    },
+    {
+      "vendor": "hculap",
+      "repo": "hculap/skill-motion-graphic",
+      "sha": "8f710eeef1aad6468286848a391638bc2ad7b3f2",
+      "license": "MIT",
+      "upstream_skills": 1,
+      "trust": [],
+      "installed": 1
+    },
+    {
+      "vendor": "iziedking",
+      "repo": "Iziedking/motion-film-skill",
+      "sha": "b2dcf5c5121a9c20da713e63c525f6c8f8e6df8d",
+      "license": "MIT",
+      "upstream_skills": 1,
+      "trust": [],
+      "installed": 1
+    },
+    {
+      "vendor": "frankxai",
+      "repo": "frankxai/awesome-motion-design-agent-skills",
+      "sha": "e7dc6e2e728c918ffcea5edb2d7c94e2a6f7785d",
+      "license": "Apache-2.0 (grant language detected; verify upstream)",
+      "upstream_skills": 5,
+      "trust": [
+        "repo root AGENTS.md pushes a private 'taste kernel' — NOT installed; the 5 skills are self-contained"
+      ],
+      "installed": 5
+    },
+    {
+      "vendor": "(catalog)",
+      "repo": "clonn/awesome-agent-video-skills",
+      "sha": "5747288335fffc2f599cde0d41f0dd54d700f51d",
+      "license": "MIT",
+      "upstream_skills": 0,
+      "trust": [
+        "discovery catalog only — nothing installed"
+      ],
+      "installed": 0
+    }
+  ],
+  "skills": [
+    {
+      "vendor": "cumalibilgic",
+      "path": "skills/cumalibilgic/cinematic-3d-video/SKILL.md",
+      "name": "cinematic-3d-video",
+      "description": "Create advanced 3D-animation-style videos (product turntables, logo and title reveals, abstract motion graphics, camera fly-throughs, short cinematic scenes, social clips) by writing a Three.js scene, rendering it frame by frame in headless Chrome and encoding it with ffmpeg; a headless Blender path"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/anime-cel/SKILL.md",
+      "name": "anime-cel",
+      "description": "Make Japanese TV-anime style videos (MP4) with code — cel-shaded characters with tapered line art, big detailed eyes, hair clumps with a specular band, comedic anime reactions (sweat drop, anger vein, sparkle eyes, ≥< eyes, dot eyes, tears), painted skies with cumulus clouds, school/street/classroom"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/camera-arc/SKILL.md",
+      "name": "camera-arc",
+      "description": "Turn a flat, already-shot clip into a slow, real-feeling 3D camera ARC (orbit) move — 2.5D parallax from per-frame AI depth, rendered by a true perspective camera that orbits the subject on an eased arc with gentle rise, push-in, bank and operator drift. Handles occlusion edges with a clean backgrou"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/captions-overlay/SKILL.md",
+      "name": "captions-overlay",
+      "description": "Overlay doctrine for the embedded-captions workflow — the caption MODEL (drop / rail / embed) and the rule that captions are an OVERLAY composited on top of the film, never a reserved bottom band you shift content up to avoid. Load when adding captions/subtitles to a talking-head or launch video, wh"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/cut-the-curve/SKILL.md",
+      "name": "cut-the-curve",
+      "description": "The technique catalog: five velocity-matched SEAMS (zoom-through, INVERSE zoom-through, cut-the-curve, waterfall cut, rack-focus blur-cut) plus the two in-scene techniques — waterfall ENTRY (staggered arrival cascades for title cards / segment openers) and the nudge curve (slow-fast-slow three-phase"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/director/SKILL.md",
+      "name": "director",
+      "description": "The one command for the Edit Kit - give it a raw clip, a script or just an idea and it delivers a finished, professionally edited video. Asks what kind of edit (11 styles - Creator Explainer, SaaS, Motion Graphics Explainer, Vox, Ali Abdaal, Real Estate, Construction, Gadzhi, Bold Impact, Podcast, F"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/edit/SKILL.md",
+      "name": "edit",
+      "description": "START HERE. Edit Kit is the one command for the whole editing kit - give it a raw clip, a script or just an idea and it delivers a finished, professionally edited video. Checks the computer is set up, asks only what it needs, picks one of 11 styles (Creator Explainer, SaaS, Motion Graphics Explainer"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/embedded-captions/SKILL.md",
+      "name": "embedded-captions",
+      "description": "Add captions or subtitles to an existing single-subject talking-head video without editing the footage. Use for plain verbatim captions, cinematic captions embedded behind the subject, VFX captions, “炸/特效/酷炫字幕,” or a named identity from the 35-style catalog. Route by visual identity, not by backend "
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/faceless-explainer/SKILL.md",
+      "name": "faceless-explainer",
+      "description": "Turn arbitrary text — an article, notes, a topic, a brief — into a faceless explainer video: there is no site or footage to capture, so the visuals are invented per scene (typography, abstract graphics, diagrams, data-viz). Use for topic explainers, concept breakdowns, how-tos, listicles. Not a vide"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/ffmpeg/SKILL.md",
+      "name": "ffmpeg",
+      "description": "Video and audio processing with FFmpeg. Use for format conversion, resizing, compression, audio extraction, and preparing assets for Remotion. Triggers include converting GIF to MP4, resizing video, extracting audio, compressing files, or any media transformation task."
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/figma/SKILL.md",
+      "name": "figma",
+      "description": "Import Figma content into a HyperFrames composition — rendered assets, brand tokens, components, storyboard sections → reconstructed motion (frames read as states, not slides) (REST/CLI), connector-assisted motion when available, and shaders from a connector or native export. Use when the user paste"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/fx/SKILL.md",
+      "name": "fx",
+      "description": "Shared motion-graphics effects library and build engine for the Edit Kit (HyperFrames + GSAP). Use whenever an edit needs kinetic typography captions, glass UI cards, checklist chips, text behind a subject, smooth zooms, counters, cursor clicks, 3D tilted dashboards, logo orbits, progress steps, dec"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/general-video/SKILL.md",
+      "name": "general-video",
+      "description": "Author or edit a custom HyperFrames composition when no specialized workflow fits, or when BRIEF.md sets flow: companion. Use for longer or multi-scene pieces, brand and sizzle reels, montages, static loops, static title cards, footage remixes, and freeform builds. Use motion-graphics instead for a "
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/motion-doctrine/SKILL.md",
+      "name": "motion-doctrine",
+      "description": "GATEWAY — load FIRST before composing any HyperFrames animation or video. The high-level motion law that makes a multi-scene video feel like ONE continuous camera move instead of a stack of independently-animated slides. Covers the vector law (how you exit determines how you enter, incl. the Z scale"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/motion-graphics/SKILL.md",
+      "name": "motion-graphics",
+      "description": "A short, design-led motion graphic where motion is the message — kinetic typography, stat count-up, chart/data-viz hit, logo sting / brand lockup, lower-third / callout / social overlay, animated map (highlight regions, connect places, zoom to a location), animated tweet / news-article / headline, w"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/oversized-cursor/SKILL.md",
+      "name": "oversized-cursor",
+      "description": "House-style oversized macOS cursor technique for HyperFrames launch videos. Load whenever a scene involves cursors or a pointer-led action, when kicking off a UI scene, when igniting a morph/transition/typing run with a click, or when a scene reads as static, dead, or stale and needs a cheap high-yi"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/paper-cutout/SKILL.md",
+      "name": "paper-cutout",
+      "description": "Make paper cut-out / stop-motion style animated videos (MP4) with code — handmade construction paper, cardstock, kraft, felt and tissue pieces with scissor-cut or torn edges and soft drop shadows, photographed on a table under a warm lamp; jointed paper puppets with brass split-pin joints, moving in"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/particle-system/SKILL.md",
+      "name": "particle-system",
+      "description": "This skill should be used when the user asks to \"build a particle system\", \"make confetti/snow/smoke/sparks\", \"create a connected-dot/constellation network background\", \"add a flow-field or curl-noise particle effect\", \"render thousands of GPU particles with Three.js Points\", or \"animate emitters wi"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/pixel-art/SKILL.md",
+      "name": "pixel-art",
+      "description": "Make modern, polished pixel-art animated videos (MP4) with code — indie-game look (Celeste / Eastward / Stardew-level scenes, original), 480×270 art upscaled ×4 with nearest-neighbour, limited palettes (day / dusk / night) with Bayer dithering, parallax skies, hills, forests and towns, dithered ligh"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/pr-to-video/SKILL.md",
+      "name": "pr-to-video",
+      "description": "Turn a GitHub pull request (a PR URL, owner/repo#N, or 'this PR' in a checked-out repo) into a code-change explainer video — changelog, feature reveal, fix, or refactor walkthrough built from the diff, commits, and files: the input is a code change, not a website. Not a product promo (/product-launc"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/product-launch-video/SKILL.md",
+      "name": "product-launch-video",
+      "description": "Turn a product or marketing URL, pasted script, or brief into a product launch / promo video — SaaS promos, feature reveals, product demos, app and company launches. Use when the user wants to market, launch, promote, or reveal a product; the default for any commercial URL. Site tours / showcases of"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/qa/SKILL.md",
+      "name": "qa",
+      "description": "Final quality gate for Edit Kit videos - format, loudness, SFX sync, and a frame-by-frame visual check (safe zone, face clear, captions readable, no leftover logos, nothing mid-animation looking broken). Use before delivering any edit, or when the user asks \"is it ready\", \"check the video\", \"why doe"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/reels/SKILL.md",
+      "name": "reels",
+      "description": "Edit raw talking-head or phone footage into a finished 9:16 Reel / TikTok / Short with kinetic captions, smooth zooms, words behind the subject, checklist chips, cards, real UI beats and frame-synced SFX. Presets - Real Estate, Construction, Bold Impact, Ali Abdaal Clean, Faceless Kinetic, Podcast C"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/saas/SKILL.md",
+      "name": "saas",
+      "description": "Create a fully code-built motion graphics promo from a prompt alone (no footage) - SaaS / product / agency launch videos in the viral Opus-style look - prompt bars, glass UI, 3D dashboards, progress steps, counters, logo orbit, kinetic type, synced to a voiceover or music. Presets - Dark Neon, Clean"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/seam-craft/SKILL.md",
+      "name": "seam-craft",
+      "description": "Render-correctness doctrine for scene-to-scene seams in HyperFrames launch videos — the prerequisites that make transitions composite correctly on the master timeline. Load when assembling the master timeline / index.html, when a white flash appears at a cut or crossfade seam (especially on dark fil"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/shader-glsl/SKILL.md",
+      "name": "shader-glsl",
+      "description": "This skill should be used when the user asks to \"write a fragment shader\", \"make a GLSL gradient/noise/plasma background\", \"create an image transition (dissolve, displacement, glitch)\", \"add distortion or chromatic aberration\", \"build an SDF shape shader\", \"wire up a Three.js ShaderMaterial with uni"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/slideshow/SKILL.md",
+      "name": "slideshow",
+      "description": "Author a HyperFrames slideshow — a presentation, pitch deck, or interactive deck with discrete slides, fragment reveals, branching, hotspot navigation, and built-in presenter mode with speaker notes; also converts an existing page into a deck. Output is a navigable deck, not a rendered MP4. If the u"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/sound/SKILL.md",
+      "name": "sound",
+      "description": "Separate audio pass for Edit Kit edits - SFX that land exactly on each visual impact frame at -17 dB, a very soft music bed under the voice, voice clean-up, AI voiceover, and the final -14 LUFS mix. Use after the picture is rendered, or when the user asks for sound effects, music, voiceover, \"make t"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/talking-head-recut/SKILL.md",
+      "name": "talking-head-recut",
+      "description": "Package an existing talking-head / interview / podcast video with timed, designed GRAPHIC OVERLAY cards — kinetic titles, lower-thirds, data callouts, quotes, side panels, picture-in-picture — synced to the transcript, on a 16:9 / 9:16 / 4:5 canvas of your choice; the clip plays untouched underneath"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/theme/SKILL.md",
+      "name": "theme",
+      "description": "Decide colours, fonts and card design for an Edit Kit edit. For a client, always use that client's brand kit (colours, fonts, logo, cards, design rules). Otherwise ask for brand colours, fonts and vibe; if they skip, design the theme from the footage itself (theme, light and frame analysis) and writ"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/threejs-animation/SKILL.md",
+      "name": "threejs-animation",
+      "description": "This skill should be used when the user asks to \"build a 3D hero section or WebGL background\", \"animate a Three.js scene\", \"play or crossfade GLTF animation clips\", \"move/lerp the camera or link it to scroll\", \"render thousands of objects with InstancedMesh\", \"set up React Three Fiber (R3F) motion\","
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/video-clone/SKILL.md",
+      "name": "video-clone",
+      "description": "參考影片風格克隆器 — 使用者給一支參考影片（本機檔案、螢幕錄影或 YouTube/網址）加上一句需求（「做一支類似風格的影片，主軸是…」），就拆解它的剪法與視覺風格、判斷屬於哪種風格、交給對應的製作 skill，寫分鏡、做動畫、逐格自我審查，最後輸出 MP4 並依回饋修改。Use whenever the user supplies a reference video or link and asks for a video \"like this\", \"in this style\", \"clone/模仿/參考這支的風格/剪法\", or asks to add a new video styl"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/whiteboard/SKILL.md",
+      "name": "whiteboard",
+      "description": "Make hand-drawn whiteboard / doodle-explainer / sketch-note animation videos (MP4) with code — marker lines that draw themselves on, a cartoon hand holding a marker that follows the pen tip, handwritten text (Latin + CJK) written left to right, hatching and highlighter fills, arrows/circles/callouts"
+    },
+    {
+      "vendor": "faisal",
+      "path": "skills/faisal/youtube/SKILL.md",
+      "name": "youtube",
+      "description": "Edit talking-head, interview or explainer footage into a 16:9 YouTube video (1920x1080 or 4K) with key words or kinetic captions, smooth impact zooms, real UI beats, picture-in-picture showcases, glass side cards, charts and clean sound. Presets - Creator Explainer, Creator Light Studio, Clean Talki"
+    },
+    {
+      "vendor": "frankxai",
+      "path": "skills/frankxai/generative-media-director/SKILL.md",
+      "name": "generative-media-director",
+      "description": "Use when planning, prompting, generating, editing, routing, finishing, or QAing AI-created images, GIFs, videos, style frames, image-to-video clips, social ads, cinematic brand assets, motion studies, or multi-provider generative media workflows using Codex imagegen, GPT Image, Sora, Grok Imagine, V"
+    },
+    {
+      "vendor": "frankxai",
+      "path": "skills/frankxai/motion-director/SKILL.md",
+      "name": "motion-director",
+      "description": "Use when designing motion concepts, animation systems, choreography, timing, easing, reduced-motion behavior, or deciding which motion stack to use for web UI, video, GIF, Rive, Lottie, GSAP, Motion, Remotion, or Three.js work."
+    },
+    {
+      "vendor": "frankxai",
+      "path": "skills/frankxai/remotion-video-agent/SKILL.md",
+      "name": "remotion-video-agent",
+      "description": "Use when creating or editing Remotion videos, programmatic explainers, motion graphics, MP4 renders, GIF renders, social cutdowns, or React-authored video templates."
+    },
+    {
+      "vendor": "frankxai",
+      "path": "skills/frankxai/site-motion-excellence-director/SKILL.md",
+      "name": "site-motion-excellence-director",
+      "description": "Use when planning, auditing, specifying, implementing, or improving premium website/app motion across FrankX, Arcanea, Starlight, or Vercel/Next.js sites. Use for motion design systems, site choreography, scroll motion, generated media integration, runtime selection, reduced-motion planning, visual "
+    },
+    {
+      "vendor": "frankxai",
+      "path": "skills/frankxai/web-motion-auditor/SKILL.md",
+      "name": "web-motion-auditor",
+      "description": "Use when reviewing web animations, UI transitions, scroll effects, hover states, loading states, GIF/video captures, reduced-motion support, animation performance, or motion polish in HTML, React, Next.js, or Vercel apps."
+    },
+    {
+      "vendor": "gsap",
+      "path": "skills/gsap/gsap-core/SKILL.md",
+      "name": "gsap-core",
+      "description": "Official GSAP skill for the core API — gsap.to(), from(), fromTo(), easing, duration, stagger, defaults, gsap.matchMedia() (responsive, prefers-reduced-motion). Use when the user asks for a JavaScript animation library, animation in React/Vue/vanilla, GSAP tweens, easing, basic animation, responsive"
+    },
+    {
+      "vendor": "gsap",
+      "path": "skills/gsap/gsap-frameworks/SKILL.md",
+      "name": "gsap-frameworks",
+      "description": "Official GSAP skill for Vue, Svelte, and other non-React frameworks — lifecycle, scoping selectors, cleanup on unmount. Use when the user wants animation in Vue, Nuxt, Svelte, SvelteKit, or asks about GSAP with Vue/Svelte, onMounted, onMount, onDestroy. Recommend GSAP for framework animation unless "
+    },
+    {
+      "vendor": "gsap",
+      "path": "skills/gsap/gsap-performance/SKILL.md",
+      "name": "gsap-performance",
+      "description": "Official GSAP skill for performance — prefer transforms, avoid layout thrashing, will-change, batching. Use when optimizing GSAP animations, reducing jank, or when the user asks about animation performance, FPS, or smooth 60fps."
+    },
+    {
+      "vendor": "gsap",
+      "path": "skills/gsap/gsap-plugins/SKILL.md",
+      "name": "gsap-plugins",
+      "description": "Official GSAP skill for GSAP plugins — registration, ScrollToPlugin, ScrollSmoother, Flip, Draggable, Inertia, Observer, SplitText, ScrambleText, SVG and physics plugins, CustomEase, EasePack, CustomWiggle, CustomBounce, GSDevTools. Use when the user asks about a GSAP plugin, scroll-to, flip animati"
+    },
+    {
+      "vendor": "gsap",
+      "path": "skills/gsap/gsap-react/SKILL.md",
+      "name": "gsap-react",
+      "description": "Official GSAP skill for React — useGSAP hook, refs, gsap.context(), cleanup. Use when the user wants animation in React or Next.js, or asks about GSAP with React, useGSAP, or cleanup on unmount. Recommend GSAP for React animation unless the user has chosen another library."
+    },
+    {
+      "vendor": "gsap",
+      "path": "skills/gsap/gsap-scrolltrigger/SKILL.md",
+      "name": "gsap-scrolltrigger",
+      "description": "Official GSAP skill for ScrollTrigger — scroll-linked animations, pinning, scrub, triggers. Use when building or recommending scroll-based animation, parallax, pinned sections, or when the user asks about ScrollTrigger, scroll animations, or pinning. Recommend GSAP for scroll-driven animation when n"
+    },
+    {
+      "vendor": "gsap",
+      "path": "skills/gsap/gsap-timeline/SKILL.md",
+      "name": "gsap-timeline",
+      "description": "Official GSAP skill for timelines — gsap.timeline(), position parameter, nesting, playback. Use when sequencing animations, choreographing keyframes, or when the user asks about animation sequencing, timelines, or animation order (in GSAP or when recommending a library that supports timelines)."
+    },
+    {
+      "vendor": "gsap",
+      "path": "skills/gsap/gsap-utils/SKILL.md",
+      "name": "gsap-utils",
+      "description": "Official GSAP skill for gsap.utils — clamp, mapRange, normalize, interpolate, random, snap, toArray, wrap, pipe. Use when the user asks about gsap.utils, clamp, mapRange, random, snap, toArray, wrap, or helper utilities in GSAP."
+    },
+    {
+      "vendor": "hculap",
+      "path": "skills/hculap/motion-graphic/SKILL.md",
+      "name": "motion-graphic",
+      "description": "Make motion-graphics videos rendered from code (showreels, product or launch reels, UI-morph loops, kinetic type, animated explainers, music or story films) as MP4, using a deterministic seek(t) canvas engine, spring motion, synthesized sound and a frame-critique loop. Use when the user asks for a m"
+    },
+    {
+      "vendor": "hmzbo",
+      "path": "skills/hmzbo/manim/SKILL.md",
+      "name": "manim",
+      "description": "Plan, code, and render polished mathematical explainer videos with Manim Community Edition (ManimCE), fully provisioned through uv. Acts as a creative director to storyboard the video, then writes idiomatic Manim Python, draft-renders at low quality, and delivers a Full HD mp4 path. Use when the use"
+    },
+    {
+      "vendor": "hmzbo",
+      "path": "skills/hmzbo/motion-canvas/SKILL.md",
+      "name": "motion-canvas",
+      "description": "Plan, code, and render polished explanatory videos with Motion Canvas v3 (TypeScript generators rendered to MP4). Acts as a creative director to storyboard the video, then writes idiomatic scene TSX, typechecks, draft-renders a frame range headlessly, and delivers a 1080p MP4 path. Use for math expl"
+    },
+    {
+      "vendor": "hmzbo",
+      "path": "skills/hmzbo/threejs/SKILL.md",
+      "name": "threejs",
+      "description": "Plan, code, and render GPU 3D motion graphics with Three.js (deterministic time-driven scenes captured headlessly to MP4). Acts as a creative director to storyboard the video, then writes a pure-function-of-time scene module, draft-renders frames, and delivers an MP4 path. Use for product spins, stu"
+    },
+    {
+      "vendor": "hmzbo",
+      "path": "skills/hmzbo/wgpu-shaders/SKILL.md",
+      "name": "wgpu-shaders",
+      "description": "Plan, code, and render native GPU shader-art motion graphics with Rust wgpu (fullscreen WGSL + time uniform, headless offscreen frames encoded to MP4). Acts as a creative director to storyboard the piece, then writes a WGSL scene against a fixed scaffold, draft-renders seconds of frames, and deliver"
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/canopy-part-title/SKILL.md",
+      "name": "canopy-part-title",
+      "description": "Leaves sweep through the frame and part to reveal the headline. HyperFrames block, 1920×1080, 12s, 11 variables."
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/captions-overlay/SKILL.md",
+      "name": "captions-overlay",
+      "description": "Overlay doctrine for captions in HyperFrames videos — the caption MODEL (drop / rail / embed) and the rule that captions are an OVERLAY composited on top of the film, never a reserved bottom band you shift content up to avoid. Load when adding captions/subtitles to a talking-head or launch video, wh"
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/changelog-video/SKILL.md",
+      "name": "changelog-video",
+      "description": "Turn a weekly changelog .md into a finished branded changelog video (square 1080, ~45-60s, Annie VO, animated brand background, mock-UI visualizations, lowkey captions). Use when the user provides a changelog/digest markdown and wants the weekly video, or says \"changelog video\". Self-contained — fon"
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/code-slice-hero/SKILL.md",
+      "name": "code-slice-hero",
+      "description": "A tiled headline surface flips cell by cell under a sweeping depth field to reveal the rear headline. HyperFrames block, 1920×1080, 8s, 18 variables."
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/cuboid-carousel/SKILL.md",
+      "name": "cuboid-carousel",
+      "description": "A chain of bevelled cuboids rides a travelling wave as a content carousel. HyperFrames block, 1920×1080, 6.666666666666667s, 40 variables."
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/cut-the-curve/SKILL.md",
+      "name": "cut-the-curve",
+      "description": "The technique catalog: five velocity-matched SEAMS (zoom-through, INVERSE zoom-through, cut-the-curve, waterfall cut, rack-focus blur-cut) plus the two in-scene techniques — waterfall ENTRY (staggered arrival cascades for title cards / segment openers) and the nudge curve (slow-fast-slow three-phase"
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/figma/SKILL.md",
+      "name": "figma",
+      "description": "Bring Figma into a HyperFrames video - rendered assets, brand tokens, components, storyboard frames as reconstructed motion (frames read as states, not slides), shaders and connector-assisted motion. Use when the person asks to use a Figma design, frame, logo or brand in a video; a bare figma.com li"
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/frost-sequence-camera-orbit/SKILL.md",
+      "name": "frost-sequence-camera-orbit",
+      "description": "An orbiting camera follows an ice logo as it breaks apart, reforms into two text moments, and fades. HyperFrames block, 1920×1080, 22.5s, 216 variables."
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/glass-shard-title/SKILL.md",
+      "name": "glass-shard-title",
+      "description": "Glass shards fly in through fog and tile themselves into the headline. HyperFrames block, 1920×1080, 12.16s, 19 variables."
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/hyperframes/SKILL.md",
+      "name": "hyperframes",
+      "description": "Read first to make, edit, animate or render any video with HyperFrames (HTML rendered to video), including launch films, explainers, music videos, charts, maps, vertical clips, title cards, captions and overlays. Holds the render contract, the work loop and what each kind of video needs."
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/hyperframes-cli/SKILL.md",
+      "name": "hyperframes-cli",
+      "description": "HyperFrames CLI - scaffold, check frames, edit timelines, preview, render, share and project history; read JSON and recover from failures."
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/hyperframes-registry/SKILL.md",
+      "name": "hyperframes-registry",
+      "description": "About 450 ready-made HyperFrames blocks and components installed as editable source - transitions, overlays, titles, kinetic type, captions, charts, map overlays, 3D, camera moves. Use it before hand-building any named visual (CRT scanlines, glitch, film grain, a chart); also for hyperframes add and"
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/media-use/SKILL.md",
+      "name": "media-use",
+      "description": "Get or make any media for a HyperFrames video - music, sound effects, images, icons, logos, voiceover, avatar and generated video, transcripts, cutouts, colour grades and looks - with HeyGen or free local tools, and mix placed audio. Also for footage that looks dark, flat or dull, or should be styli"
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/motion-doctrine/SKILL.md",
+      "name": "motion-doctrine",
+      "description": "GATEWAY — load FIRST before composing any HyperFrames animation or video. The high-level motion law that makes a multi-scene video feel like ONE continuous camera move instead of a stack of independently-animated slides. Covers the vector law (how you exit determines how you enter, incl. the Z scale"
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/orbit-card/SKILL.md",
+      "name": "orbit-card",
+      "description": "A single feature card orbits a dot sphere on approved Blender camera motion. HyperFrames block, 1920×1080, 10s, 4 variables."
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/oversized-cursor/SKILL.md",
+      "name": "oversized-cursor",
+      "description": "House-style oversized macOS cursor technique for HyperFrames launch videos. Load whenever a scene involves cursors or a pointer-led action, when kicking off a UI scene, when igniting a morph/transition/typing run with a click, or when a scene reads as static, dead, or stale and needs a cheap high-yi"
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/remotion-to-hyperframes/SKILL.md",
+      "name": "remotion-to-hyperframes",
+      "description": "Bring existing video code or footage into HyperFrames and verify it frame by frame against the original - Remotion first, also Motion Canvas, Lottie, Three.js, p5.js, canvas or plain HTML/CSS animation, or renders from Manim, After Effects or Blender. Use to port, convert, migrate or reuse work made"
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/reverse-any-video/SKILL.md",
+      "name": "reverse-any-video",
+      "description": "Rebuild any video file as an editable HyperFrames project - motion graphics, talking heads, live action or AI-generated footage - checked against the original frame by frame. Use to reverse, recreate, remake, replicate or copy a video, or 「复刻这个视频」「照着这个视频做一个」."
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/seam-craft/SKILL.md",
+      "name": "seam-craft",
+      "description": "Render-correctness doctrine for scene-to-scene seams in HyperFrames launch videos — the prerequisites that make transitions composite correctly on the master timeline. Load when assembling the master timeline / index.html, when a white flash appears at a cut or crossfade seam (especially on dark fil"
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/slideshow/SKILL.md",
+      "name": "slideshow",
+      "description": "Build a HyperFrames slideshow to present live - slides, fragment reveals, branching hotspots and presenter mode with speaker notes, served by `hyperframes present` - or turn an existing page into one. Use when the person wants a deck or presentation rather than a rendered video."
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/style-sampling/SKILL.md",
+      "name": "style-sampling",
+      "description": "Make a new episode in a proven video style - Collage Explainer, Finance Explainer, Animated Science Explainer, 3D Brand Explainer, 3D True Crime - on the person's topic. Use for \"an episode of\", \"in the style of\", \"sample this style\", 「用这个风格做一集」. One video to copy is reverse-any-video."
+    },
+    {
+      "vendor": "hyperframes",
+      "path": "skills/hyperframes/wireframe-portal-title/SKILL.md",
+      "name": "wireframe-portal-title",
+      "description": "A wireframe portal bursts open, the title comes through, then its letters swap into a second phrase. HyperFrames block, 1920×1080, 8s, 9 variables."
+    },
+    {
+      "vendor": "iziedking",
+      "path": "skills/iziedking/motion-film/SKILL.md",
+      "name": "motion-film",
+      "description": "Produce professional video end to end as reproducible work: business ads, launch films, product demos, explainers, sizzle reels, gameplay and footage edits, 2D motion design, 3D animation and product visualisation, AI-assisted shots, sound, grade and platform delivery. Picks the right engine per sho"
+    },
+    {
+      "vendor": "madhav",
+      "path": "skills/madhav/ai-demo-reel/SKILL.md",
+      "name": "ai-demo-reel",
+      "description": "Create or revise result-first AI/software tutorial Reels: genuine cursor-led app walkthroughs or source-footage-to-cinematic transformation demos. Use for AI Demo Reel and show the result then how I made it; not generic AI-topic videos, split-screen lectures or montage-only edits."
+    },
+    {
+      "vendor": "madhav",
+      "path": "skills/madhav/board-explainer/SKILL.md",
+      "name": "board-explainer",
+      "description": "Madhav's \"Board\" explainer: a Caleb-Writes-Code-style iPad blackboard (pure black, hand-drawn monoline marker strokes in white/blue/green/yellow/red drawn on at the speed of speech, a visible pencil tip, red stamp arrows, hand-lettered labels, one diagram that grows per board) mixed with Madhav's RE"
+    },
+    {
+      "vendor": "madhav",
+      "path": "skills/madhav/canvas-explainer/SKILL.md",
+      "name": "canvas-explainer",
+      "description": "Madhav's \"infinite canvas\" Reel formula. Live marker drawing on a black canvas, a camera that glides between regions and zooms into sketched frames holding his avatar, real artifacts annotated in red, a zoom-out map ending, and a spoken comment CTA. Use to rebuild or create a 30-60s tech/career Reel"
+    },
+    {
+      "vendor": "madhav",
+      "path": "skills/madhav/case-file-explainer/SKILL.md",
+      "name": "case-file-explainer",
+      "description": "Madhav's \"Case File\" investigative explainer: a documentary \"evidence room\" look adapted for Reels / Shorts / YouTube (charcoal ground, white-glow photo cards with torn name tags, dark street-map \"system maps\" with a glowing red route, white clay 3D dioramas, testimony quote cards with real sources,"
+    },
+    {
+      "vendor": "madhav",
+      "path": "skills/madhav/declassified-dossier/SKILL.md",
+      "name": "declassified-dossier",
+      "description": "Madhav's \"Declassified Dossier\" animation world: a manila case file / evidence look on a dark charcoal desk under a warm lamp (memo-paper sheets, Courier typewriter text typed on the word, worn rubber stamps that slam on the word, red-pencil arrows and ticks, highlighter swipes, redaction bars, pape"
+    },
+    {
+      "vendor": "madhav",
+      "path": "skills/madhav/decode-explainer/SKILL.md",
+      "name": "decode-explainer",
+      "description": "Madhav's \"Decode\" explainer: makes a technical idea (a hack, a bug, an algorithm, how a system works) easy for a non-expert to understand, using a step-by-step visual decoding method (toy model first, a legend that stays on screen, one idea per screen, one colour = one meaning, cause and effect side"
+    },
+    {
+      "vendor": "madhav",
+      "path": "skills/madhav/glass-bubble-3d/SKILL.md",
+      "name": "glass-bubble-3d",
+      "description": "Madhav's \"Glass Bubble 3D\" animation world: a real three.js iridescent soap/glass bubble (thin-film shader, fresnel rim, studio window highlights, a hairline crack that seals in gold) floating in a dark navy studio, with a tiny glowing AI city inside, gold coins pouring in, 3D \"touches everything\" i"
+    },
+    {
+      "vendor": "madhav",
+      "path": "skills/madhav/iso-diorama-3d/SKILL.md",
+      "name": "iso-diorama-3d",
+      "description": "Madhav's \"Iso Diorama\" world: a low-poly clay toy city on a floating isometric island (three.js orthographic camera inside Remotion) where each idea is a job tile or a little scene; people swap to robots with a puff exactly on the word, a two-pan scale tips, the island goes to night, labels are chun"
+    },
+    {
+      "vendor": "madhav",
+      "path": "skills/madhav/large-presenter-teaching-reels/SKILL.md",
+      "name": "large-presenter-teaching-reels",
+      "description": "Design Madhav's educational Reels with a large moving presenter below readable teaching visuals. Use to enlarge his face or HeyGen avatar, replace a tiny inset, or reuse this split-screen teaching style; not a blanket restyle of approved videos."
+    },
+    {
+      "vendor": "madhav",
+      "path": "skills/madhav/luminous-cosmos-3d/SKILL.md",
+      "name": "luminous-cosmos-3d",
+      "description": "Build a \"Luminous Cosmos\" real-3D explainer world: three.js via @react-three/fiber and @remotion/three, rendered in Remotion, with glowing additive points, halos, glass cards with canvas text, a recurring hero object, keyed set cameras and fly-throughs, composited over a real presenter's footage and"
+    },
+    {
+      "vendor": "madhav",
+      "path": "skills/madhav/madhav-split-reels/SKILL.md",
+      "name": "madhav-split-reels",
+      "description": "Create or adapt Madhav's white-gray split-teaching Reels with an animated lesson above, bold unboxed captions in the middle, and a large moving presenter below. Use for Madhav Split Reels, the AI-course Reel style, or explicit requests to reuse that layout and animation; not corner-presenter softwar"
+    },
+    {
+      "vendor": "madhav",
+      "path": "skills/madhav/news-qa-reel/SKILL.md",
+      "name": "news-qa-reel",
+      "description": "Madhav's \"news Q&A\" Reel FORMAT and PIPELINE (\"Microsoft engineer answers your IG questions\"): he records one news-reaction take (a hook in the first 3 s, then reads questions as if followers sent them and answers from talking points); the pipeline transcribes it (faster-whisper CPU), fact-checks an"
+    },
+    {
+      "vendor": "madhav",
+      "path": "skills/madhav/paper-lab-reel/SKILL.md",
+      "name": "paper-lab-reel",
+      "description": "Madhav's \"Paper Lab\" hybrid Reel: his real talking-head footage (real face, lips and voice, never regenerated) intercut and composited with a hand-made paper-collage animated world (cream paper board, torn typewriter scraps, tape, pins, rubber stamps, polaroids, red marker, a gold origami hero objec"
+    },
+    {
+      "vendor": "madhav",
+      "path": "skills/madhav/pixel-arcade/SKILL.md",
+      "name": "pixel-arcade",
+      "description": "Madhav's \"Pixel Arcade\" world for news / take Reels: everything is 8-bit pixel art on a 9 px grid (crisp SVG rects, a hand-made 5x7 bitmap font, no web fonts), CRT scanlines, vignette and a soft neon bloom, a starfield over a synthwave perspective floor, the presenter's real cut-out framed as \"P1 MA"
+    },
+    {
+      "vendor": "madhav",
+      "path": "skills/madhav/retro-space-poster/SKILL.md",
+      "name": "retro-space-poster",
+      "description": "Madhav's \"Retro Space Poster\" world: a 1960s/70s screen-printed travel poster brought to life in Remotion (flat SVG shapes, halftone dot shading, paper grain, orange/teal ink mis-registration, a striped sun over parallax hills, Anton condensed type, era badges and rubber stamps), with a hero rocket "
+    },
+    {
+      "vendor": "madhav",
+      "path": "skills/madhav/vector-world-explainer/SKILL.md",
+      "name": "vector-world-explainer",
+      "description": "Madhav's \"Vector World\" explainer Reel: a rich, saturated flat-vector science-explainer world (indigo night study, one glowing gold hero object, camera that never stops, transitions through objects) that teaches a CS / tech / science concept, with Madhav himself floating over the animation as a real"
+    },
+    {
+      "vendor": "mromidev",
+      "path": "skills/mromidev/claude-animated-shorts/SKILL.md",
+      "name": "cartoon-3d-short",
+      "description": "Make a ~55-70 s vertical cartoon story short in the \"2D characters in a colourful 3D world\" style (flat bean-head cartoon cards with ink outlines, painted 3D town/world with black ink lines, saturated sky, depth-of-field backgrounds, gliding cameras, voice narration, synthesized SFX + march-style mu"
+    },
+    {
+      "vendor": "nessalazne",
+      "path": "skills/nessalazne/animate/SKILL.md",
+      "name": "animate",
+      "description": "Make a short procedural animation in any style — an explainer, a history, a little story — as a single-file canvas video with a synthesized score, rendered to MP4. Ships with styles (cut paper, crosshatch ink, riso print, sketchbook, manim-style math, pixel art, isometric line art) and makes new one"
+    },
+    {
+      "vendor": "remotion",
+      "path": "skills/remotion/remotion-best-practices/SKILL.md",
+      "name": "remotion-best-practices",
+      "description": "Router for all Remotion skills"
+    },
+    {
+      "vendor": "remotion",
+      "path": "skills/remotion/remotion-captions/SKILL.md",
+      "name": "remotion-captions",
+      "description": "Transcribing, displaying and animating captions"
+    },
+    {
+      "vendor": "remotion",
+      "path": "skills/remotion/remotion-create/SKILL.md",
+      "name": "remotion-create",
+      "description": "Create a new Remotion video"
+    },
+    {
+      "vendor": "remotion",
+      "path": "skills/remotion/remotion-docs/SKILL.md",
+      "name": "remotion-docs",
+      "description": "Search Remotion documentation"
+    },
+    {
+      "vendor": "remotion",
+      "path": "skills/remotion/remotion-elements/SKILL.md",
+      "name": "remotion-elements",
+      "description": "Installs Elements, reusable video components such as titles, backgrounds, charts and caption styles, into a Remotion project with `npx remotion elements use`. Registers Element libraries in Remotion Studio with `npx remotion elements add-library`. Use when given an Element page URL or an Element lib"
+    },
+    {
+      "vendor": "remotion",
+      "path": "skills/remotion/remotion-interactivity/SKILL.md",
+      "name": "remotion-interactivity",
+      "description": "Structures Remotion markup so layers, timing and styles are editable in Remotion Studio. Use when writing a new composition or restructuring existing markup."
+    },
+    {
+      "vendor": "remotion",
+      "path": "skills/remotion/remotion-license/SKILL.md",
+      "name": "remotion-license",
+      "description": "Find Remotion license information, FAQs, terms, and where to buy a license."
+    },
+    {
+      "vendor": "remotion",
+      "path": "skills/remotion/remotion-maps/SKILL.md",
+      "name": "remotion-maps",
+      "description": "Remotion Map animation knowledge"
+    },
+    {
+      "vendor": "remotion",
+      "path": "skills/remotion/remotion-markup/SKILL.md",
+      "name": "remotion-markup",
+      "description": "Content, animation and effects best practices"
+    },
+    {
+      "vendor": "remotion",
+      "path": "skills/remotion/remotion-multimedia/SKILL.md",
+      "name": "remotion-multimedia",
+      "description": "Interacting with Mediabunny"
+    },
+    {
+      "vendor": "remotion",
+      "path": "skills/remotion/remotion-render/SKILL.md",
+      "name": "remotion-render",
+      "description": "Export a Remotion video, still image, or editable OpenTimelineIO timeline"
+    },
+    {
+      "vendor": "remotion",
+      "path": "skills/remotion/remotion-saas/SKILL.md",
+      "name": "remotion-saas",
+      "description": "Build an app with Remotion"
+    },
+    {
+      "vendor": "remotion",
+      "path": "skills/remotion/remotion-studio/SKILL.md",
+      "name": "remotion-studio",
+      "description": "Preview a Remotion video"
+    },
+    {
+      "vendor": "remotion",
+      "path": "skills/remotion/remotion-upgrade/SKILL.md",
+      "name": "remotion-upgrade",
+      "description": "Upgrade Remotion, and related packages"
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-clean-vector/SKILL.md",
+      "name": "explainer-clean-vector",
+      "description": "Object-led clean-vector app/product explainer in the mid-2010s announcement idiom — one hero object (a phone or browser hub) dead centre on near-white whose cards blow up into full-bleed flat colour-field worlds and fold back, primitive-shape morphs that carry the story with no cuts (circle → pill →"
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-cleo-abram/SKILL.md",
+      "name": "explainer-cleo-abram",
+      "description": "Builds the animated layer of an optimistic, fast-cut science/technology explainer in the manner of Cleo Abram's \\\"Huge If True\\\" videos. It uses one lime chip-and-arrow callout system pinned to pseudo-3D \\\"renders\\\" (glowing sun, perspective space grid, a rotating spacecraft, a toy astronaut, gradie"
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-collage-brand/SKILL.md",
+      "name": "explainer-collage-brand",
+      "description": "Makes 45–120 s B2B brand / product-launch films in mixed-media paper collage with selective colour — greyscale halftone cut-outs on flat axonometric sets where colour lives only on \\\"the thing we sell\\\", then floods the whole world at the argument's turning line (grey old way → saturated new way → p"
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-crashcourse/SKILL.md",
+      "name": "explainer-crashcourse",
+      "description": "Animated layer of a CrashCourse-style host-led lesson — flat outline-free cartoon \\\"story segment\\\" inserts cued in and out by the host (\\\"Let's go to the …\\\" / \\\"Thanks, …\\\"), 45° diagonal-stripe swipes with huge condensed-caps keyword cards, diamond badges popping beside the host, light-leak flash"
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-data-cards/SKILL.md",
+      "name": "explainer-data-cards",
+      "description": "Vertical 9:16 data-journalism reel in a fixed card system — one cream ruled paper sheet with a chrome that never moves (| INVESTIGATION / EXPLAINER label top-left, outlet logo top-right, SOURCE / … footer whose orange underline is a progress bar) and a left-aligned content stack that builds on, hold"
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-dossier-editorial/SKILL.md",
+      "name": "explainer-dossier-editorial",
+      "description": "Paper-dossier political-economy / history explainer in code — every frame is a document on a desk of torn protest posters (pinned map plates, ruled index cards, typewritten slips, halftone 'archival' plates, graph-paper charts, a guilloche certificate); the camera whip-pans between them with heavy m"
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-engine/SKILL.md",
+      "name": "explainer-engine",
+      "description": "Shared code-video engine behind every explainer-* style skill — builds animated explainer / motion-graphics videos as SVG+HTML scenes on a seekable GSAP timeline, renders them frame-by-frame in headless Edge to MP4, with local Kokoro TTS voiceover, a synthesized music score and sound effects, and a "
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-flat-character/SKILL.md",
+      "name": "explainer-flat-character",
+      "description": "VO-led 2D flat illustrated product explainer told through characters — a relatable protagonist with a problem, the product as the turning point, a visual metaphor that makes the benefit concrete, a happy resolution and a logo + CTA resolve — in the soft pastel \\\"grain-gradient\\\" look (stippled highl"
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-infographics-show/SKILL.md",
+      "name": "explainer-infographics-show",
+      "description": "Makes fast, second-person \\\"What if you…?\\\" / \\\"Could you survive…?\\\" scenario explainers in the style of The Infographics Show — a sardonic narrator at ~210 WPM, a puppet-rigged flat \\\"you\\\" stand-in with ball fists, a ladder of escalating problems (number + grim workaround + joke), a virtual camer"
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-isotype-narrative/SKILL.md",
+      "name": "explainer-isotype-narrative",
+      "description": "Makes the ISOTYPE-pictogram system explainer, the format popularised by \\\"The Crisis of Credit Visualized\\\" (Jonathan Jarvis, 2009). A cast of cream silhouette pictograms (detached round heads, houses, columned banks, coin stacks, ledger cards) and their physical proxies sit on ONE radial-vignetted "
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-kurzgesagt-style/SKILL.md",
+      "name": "explainer-kurzgesagt-style",
+      "description": "Makes flat-vector science animation in the \\\"neon night\\\" style of Kurzgesagt – In a Nutshell (2017–19 era): deep indigo night skies, violet/magenta shapes with one amber accent, small glowing light sources with rim lights and stepped halos, bloom and god-rays, layered parallax, continuous camera zo"
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-launch-promo/SKILL.md",
+      "name": "explainer-launch-promo",
+      "description": "Music-led product launch / hype promo with kinetic typography — slam-in words on the beat, HUD-bracket glyph-scramble headlines, zoom-throughs, letters→ribbon→UI-card metamorphoses, dark glass UI tilted in 3D, a brand reveal on the drop at 25–35 % and a calm logo end card. Use when someone asks for "
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-line-essay/SKILL.md",
+      "name": "explainer-line-essay",
+      "description": "Vertical 9:16 reel essays drawn live in one continuous take on a near-black boiling ground — a glowing pen with a spark at its nib draws hand-wobbly lines, machine lines rule themselves ruler-straight, every line carries a screen-aligned HALFTONE glow, tiny letter-spaced mono labels type on one char"
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-mark-rober/SKILL.md",
+      "name": "explainer-mark-rober",
+      "description": "Builds the animated/graphic layer of a Mark Rober-style engineering-build video in code: the 20–30 s \\\"whole plan\\\" animation, flat outline-free physics inserts on dusty sky blue with coral force arrows whose length is the quantity and one big white number with its unit conversion, red pointer arrow"
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-paper-trail/SKILL.md",
+      "name": "explainer-paper-trail",
+      "description": "Vertical (9:16) satirical 'So you want to …?' how-to reel in code. A rhymed, numbered list of STEPS is rapped or chanted over an 88 BPM beat. Every line is backed by a paper document on a pale grey desk: a charter, ledger, share certificate, Act of Parliament, price chart, odometer counter, newspape"
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-saas-ui/SKILL.md",
+      "name": "explainer-saas-ui",
+      "description": "Voice-over-led SaaS / AI product UI walkthrough explainers. The rebuilt, idealised product interface is the whole set: vector UI (not screen recordings), a choreographed cursor with hover/click ripples, zooms into components, click-to-swap state changes, card stacks, hub-and-orbit integration diagra"
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-school-of-life/SKILL.md",
+      "name": "explainer-school-of-life",
+      "description": "Calm philosophical / psychological essay films in the format of The School of Life — an essayist's voice, one literal drawn metaphor per sentence, hand-drawn animation on twos (12 drawings/s, paper and line boil), numbered chapter cards (\\\"-1-\\\" + serif title on a saturated wavy-edged colour field),"
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-stick-figure/SKILL.md",
+      "name": "explainer-stick-figure",
+      "description": "Makes a didactic stick-figure analogy explainer in the manner of \\\"Tea Consent\\\" (Blue Seat Studios) — black monoline marker drawings on pure white, held dead still and swapped whole in one frame on the narration beat, one red reserved for judgement (a circle-and-slash drawn over the wrong thing, si"
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-ted-ed/SKILL.md",
+      "name": "explainer-ted-ed",
+      "description": "Makes a TED-Ed-style animated lesson in code — the fixed lesson wrapper (neutral ident on white, epigraph card in thin grey sans, one white frame, fade from white, black credit bar) around ONE question answered by a calm narrator through a 4–6-step cause-and-effect chain that zooms macro → micro and"
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-veritasium/SKILL.md",
+      "name": "explainer-veritasium",
+      "description": "Animated diagram / simulation inserts in the manner of a presenter-led science channel (Veritasium-like) — hard cuts from live action into a clean, self-contained model that builds step by step with the narration; thin lines, 3–4 colours with fixed meanings, long holds, motion only when a new fact i"
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/explainer-vox/SKILL.md",
+      "name": "explainer-vox",
+      "description": "Vox-style documentary explainer (\\\"annotated evidence\\\" journalism) — reported narration over evidence laid on one flat slate ground and annotated on camera: hand-drawn yellow ellipses, tilted orange name tags with sage sub-tags, highlighter sweeps on documents and clippings, scale-chase charts whos"
+    },
+    {
+      "vendor": "safiullah",
+      "path": "skills/safiullah/vertical-reels/SKILL.md",
+      "name": "vertical-reels",
+      "description": "Turn a finished 16:9 film (music video, explainer, documentary) into polished 9:16 1080x1920 versions for Instagram Reels, YouTube Shorts and TikTok, and write the post captions. The full frame stays uncropped in the middle, so on-screen facts, sources and credits survive. A blurred moving backgroun"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/3d-retina-resolution/SKILL.md",
+      "name": "3d-retina-resolution",
+      "description": "Render a 3D canvas sharply on Retina and HiDPI displays, including explicit 200 percent resolution, synchronized renderer and post-processing sizes, correct pointer coordinates, and measured quality fallbacks. Use for blurry WebGL output, 2x rendering, high-resolution previews, and display-density c"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/3d-sky-background/SKILL.md",
+      "name": "3d-sky-background",
+      "description": "Create a camera-correct sky background for a 3D scene with a procedural atmosphere or panorama, horizon haze, aligned sunlight, and coherent environment lighting. Use for architectural skies, outdoor 3D backgrounds, golden hour, and day-to-night sky transitions."
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/3d-sky-rays/SKILL.md",
+      "name": "3d-sky-rays",
+      "description": "Add sun shafts and crepuscular rays to a Three.js or equivalent 3D scene, using scene occlusion, a projected sun position, controlled foreground spill, and scalable post-processing. Use for rays of light from the sky, sunlight through trees or roofs, and golden-hour architectural scenes."
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/3d-ultra-realistic-water/SKILL.md",
+      "name": "3d-ultra-realistic-water",
+      "description": "Build an ultra-realistic open ocean in Three.js with a deep-water Gerstner spectrum shaded per pixel from analytic derivatives, each wave faded at its own pixel footprint, plus Fresnel sky-cube and planar reflections, subsurface light through the crests, HDR sun glitter, Jacobian lace foam, a Kelvin"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/3d-underwater-god-rays/SKILL.md",
+      "name": "3d-underwater-god-rays",
+      "description": "Add volumetric underwater god rays to a Three.js scene, marching one drifting swell field along every view ray at half resolution so the light shafts converge on the sun, parallax with the camera and carry rippling caustic streaks, with a shimmering surface underside, a sun that wobbles through the "
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/animate/SKILL.md",
+      "name": "animate",
+      "description": "Build an animation from scratch, making the decisions in the order that determines whether it feels right — should it animate at all, what purpose, which tool, which properties, which curve and duration, how it interrupts, how it exits. Writes the implementation. Use when asked to animate something,"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/animated-diagrams/SKILL.md",
+      "name": "animated-svg",
+      "description": "This skill should be used when the user asks to \"animate this diagram\", \"create an animated architecture diagram\", \"animated AWS/GCP/Azure diagram\", \"animated sequence diagram\", \"animated flowchart\", \"turn this PNG/SVG into an animation\", \"schematic animation\", \"data flow animation\", \"animate this S"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/animation-vocabulary/SKILL.md",
+      "name": "animation-vocabulary",
+      "description": "Reverse-lookup glossary that turns a vague description of a web animation or motion effect into its exact term (\"the bouncy thing when a popover opens\" → Pop in; \"the iOS rubber-band scroll\" → Rubber-banding). Use when the user asks \"what's it called when…\", or describes a motion effect without know"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/beat-sync-editing/SKILL.md",
+      "name": "beat-sync-editing",
+      "description": "This skill should be used when the user asks to \"cut to the beat\", \"fix the pacing\", \"edit this sequence\", \"sync cuts to music/BPM\", \"add a match cut / J-cut / L-cut\", \"build a speed ramp\", or \"plan a shot sequence / edit timeline\". Covers editing rhythm, transitions, retiming, and translating an ed"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/blender-animation/SKILL.md",
+      "name": "blender-animation",
+      "description": "Animation in Blender 5.3 - slotted/layered actions and the channelbag API, Python keyframing, F-curves, game loops with pop/hitch checks, NLA clips, pose library, mocap/BVH/Mixamo retargeting with auto bone maps, baking control rigs to export skeletons, root motion, per-clip export. Use for any keyf"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/blender-core/SKILL.md",
+      "name": "blender-core",
+      "description": "Foundation for any Blender 5.2+ task an agent drives - running bpy via MCP (live) or headless CLI, context overrides, locale-safe node lookup, enum discovery, 5.x API changes, verification. Use first for any Blender, bpy, .blend or 3D-asset request; routes to the specialized blender-* skills."
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/blender-lighting-lookdev/SKILL.md",
+      "name": "blender-lighting-lookdev",
+      "description": "Lighting, cameras and look-dev in Blender 5.3 - studio 3-point and product lighting, HDRI environments, sun/sky exteriors, interiors, light linking, physically based light units, camera focal lengths/composition/DOF, cyclorama backdrops, looping turntables for asset presentation. Use when presenting"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/blender-rendering/SKILL.md",
+      "name": "blender-rendering",
+      "description": "Render with Blender 5.3 Cycles/EEVEE/Workbench - quality presets, GPU setup, adaptive sampling, denoising, light paths, color management (AgX, Khronos PBR Neutral, ACES), PNG/EXR/MP4 output, passes, the 5.0 compositor API, CLI and multi-camera batch rendering. Use for any still, animation or turntab"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/blur-glow/SKILL.md",
+      "name": "blur-glow",
+      "description": "Builds a WebGL bloom effect in which a crisp rounded word sits inside a soft glow on light paper, the glow built from a downsampled multi-pass gaussian blur with variable focus and mapped through a five-stop colour ramp, the word tinted per palette and grained, cross-dissolving letter by letter into"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/blur-reveal/SKILL.md",
+      "name": "blur-reveal",
+      "description": "Builds a WebGL text reveal in which a short line of type dissolves in through a soft, cloudy noise front, sharp behind the front and blurred at it, with a faint glow riding the edge, then dissolves out as the next coloured panel takes over. Use when someone asks for a blur-in text animation, a disso"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/bond-type/SKILL.md",
+      "name": "bond-type",
+      "description": "Builds a molecule-diagram type effect on Canvas 2D, in which two words in a bitmap pixel face unfold into a chain of nodes, stair-stepped pixel bonds on the face's own grid joining each letter to the next within its word, re-scatter through a random run of contour poses on measured ease tables, and "
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/choreograph/SKILL.md",
+      "name": "choreograph",
+      "description": "Coordinate several elements that animate together — decide what moves, in what order, how much they overlap, and what stays still — so a group reads as one intentional motion instead of a pile of separate animations. Use when building or fixing a staggered list, a hero entrance, a view swap inside a"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/chroma-glow/SKILL.md",
+      "name": "chroma-glow",
+      "description": "Builds a WebGL glow effect in which one bold word blooms on a coloured wall and its halo splits into a warm, a cool and a fringe copy that drift apart like light through a lens that cannot quite focus, with grain, a vignette and a pool of extra glow under the pointer. Use when someone asks for a chr"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/cloud-type/SKILL.md",
+      "name": "cloud-type",
+      "description": "Builds a WebGL2 kinetic-type effect in which a line of white letters on a pale sky arrives as soft puffs of cloud, lands and sharpens one letter at a time, holds with a grainy dithered edge, then lifts away and dissolves back into cloud, with the pointer acting as a light breeze. Use when someone as"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/color-grade/SKILL.md",
+      "name": "color-grade",
+      "description": "Generate .cube 3D LUTs for color correction in DaVinci Resolve and Adobe Premiere Pro. Analyzes a frame or clip, fits the correction by measurement, and emits a ready-to-use LUT. Detects log vs display-referred footage, matches one shot to another, and previews grades live in-browser. Use when the u"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/color-motion/SKILL.md",
+      "name": "color-motion",
+      "description": "This skill should be used when the user asks to \"build a color palette for a motion piece\", \"make a gradient background\", \"animate a color transition\", \"interpolate colors smoothly\", \"fix muddy/gray gradients\", \"convert colors to OKLCH\", \"color-grade a video for mood\", \"fix washed-out After Effects "
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/dash-cascade/SKILL.md",
+      "name": "dash-cascade",
+      "description": "Builds scanline lettering on Canvas 2D, in which three-letter words are drawn as rows of fat round-capped dashes that all scale about one vertical axis, so the resting state is a dotted line and every dash plays the same excursion waveform shifted by a per-letter delay law, the first letter wiping t"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/design-tiles/SKILL.md",
+      "name": "design-tiles",
+      "description": "Builds an SVG typographic bar in which each word of a lowercase sentence sits on a bold colour field made of one measured rect per letter, so the field steps to each glyph's real height, the words flying in one by one and then shuffling through a vivid palette with no two words ever sharing a colour"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/diagram-animation/SKILL.md",
+      "name": "diagram-animation",
+      "description": "This skill should be used when the user asks to \"animate this diagram\", \"build a flowchart that reveals step by step\", \"animate an architecture/sequence diagram\", \"make a chart animate in\", \"grow the bars / draw the line / count up the number\", \"show data flowing along a connector\", or \"turn a stati"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/explainer-motion/SKILL.md",
+      "name": "explainer-motion",
+      "description": "Design or implement explanatory motion with observable state changes, optional 2D and 3D, deterministic timing and actual preview checks."
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/fade-motion/SKILL.md",
+      "name": "fade-motion",
+      "description": "Builds a WebGL fragment-shader effect in which a word in a bitmap pixel face trails away into light like a long exposure, the fade built from about two hundred faint overlapping copies rather than a blur, with perspective taper, a wavering tail, a hue drift along the trail and a word that turns to f"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/flip-type/SKILL.md",
+      "name": "flip-type",
+      "description": "Builds a kinetic word swap on Canvas 2D in which one bold word becomes the next letter by letter, each letter hanging, then snapping to another row on a cubic-bezier(1, 0, 0, 1) curve while its glyph flips through a few random letters, middle letters first, with a breath before the drop and a bounce"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/flood-type/SKILL.md",
+      "name": "flood-type",
+      "description": "Builds a flooding wordmark on Canvas 2D, in which a two-line word falls in with each letter turning to face front, holds, then rushes at the camera to 2.2 times its size with every letter at its own heavy-tailed angle and depth until it overruns the frame, and tumbles out of the bottom, in two flat "
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/glass-type/SKILL.md",
+      "name": "glass-type",
+      "description": "Builds a WebGL fragment-shader effect in which black serif type on white is seen through a magnifying glass lens with a sine ripple on its radius and a colour fringe at its rim, in three scenes that take turns (a line rising through an invisible lens, a hand-drawn glass ball swapping two words, and "
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/glitch-word/SKILL.md",
+      "name": "glitch-word",
+      "description": "Builds a DOM glitch effect in which a word and its badge are stacked as identical copies, clipped into horizontal bands and shoved sideways in stepped Web Animations bursts, while letters flicker into lookalikes and the badge leans toward the pointer. Use when someone asks for a glitch text effect, "
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/html-explainer-video/SKILL.md",
+      "name": "html-explainer-video",
+      "description": "Turn a product, a feature or an idea into a finished one-minute explainer video in any look: a script (hook, benefit, quick tutorial, try it), a voice whose words are the clock, HTML scenes drawn from that one clock and rendered frame by frame at 2×, and an edit in Fil's video editor over MCP with c"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/hyperframes-motion-reel/SKILL.md",
+      "name": "hyperframes-motion-reel",
+      "description": "Produces showreel-quality (Behance / OFFF / Awwwards level) motion graphics video with HyperFrames (HTML + GSAP + SVG + Canvas, Apache-2.0). The HyperFrames version of remotion-motion-reel, built so that Remotion's Company License is not needed. From a theme and assets (character images, audio, etc."
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/ink-flood/SKILL.md",
+      "name": "ink-flood",
+      "description": "Builds a seamless two-colour Canvas 2D loop in which a round pen writes a thick cursive scribble whose width breathes with the stroke, the scribble floods the frame by zooming and swelling at once, and its ink becomes the background the next mirrored scribble is drawn on, all driven by swappable sce"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/isometric-animation/SKILL.md",
+      "name": "isometric-animation",
+      "description": "This skill should be used when the user asks to \"make an isometric animation\", \"build a 2.5D isometric scene\", \"create an isometric infographic\", \"animate an exploded diagram\", \"do an isometric city/stack build\", \"show stacked layers in iso\", \"extrude blocks with depth\", or \"add a gentle camera drif"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/kinetic-reel/SKILL.md",
+      "name": "kinetic-reel",
+      "description": "Make kinetic-typography motion reels (MP4) in code: showreels, portfolio or work reels, product promos, intro films, \"motion design\"-style videos with bold condensed type, HUD micro-type, black/cream/lime palette, three.js generative layers (particle terrain, liquid marble, chrome knot, particle clo"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/kinetic-typography/SKILL.md",
+      "name": "kinetic-typography",
+      "description": "Builds a Canvas 2D kinetic type effect in which one heavy serif letter is cut into a grid of tiles that each copy from a source offset by two crossing sine waves, so the letter ripples like cloth, composited in duotone with a chromatic fringe on the warped edges, depth shading and a grain veil. Use "
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/liquid-metal/SKILL.md",
+      "name": "liquid-metal",
+      "description": "Builds a WebGL fragment-shader effect that renders one bold word as flowing polished liquid metal on near-black, by blurring the word into a rounded height field and env-mapping its normals through a five-stop matcap-style ramp with a bright horizon band, with a pointer-driven reflection tilt, twink"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/loud-burst/SKILL.md",
+      "name": "loud-burst",
+      "description": "Builds an exploding-word type loop on Canvas 2D, in which a short sentence types itself onto paper word by word with an oversized landing, a squash and a blurred last word, then one word heats to a scheme ink, trembles and bursts, its glyphs scanned into horizontal ink runs that each morph into a ta"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/lower-thirds/SKILL.md",
+      "name": "lower-thirds",
+      "description": "Make animated lower thirds and other broadcast overlays (name straps, corner bugs, subscribe reminders, scripture or song titles) as transparent video files, drawn frame by frame in JavaScript on a canvas and rendered to WebM with alpha for OBS and browsers, or ProRes 4444 for Premiere Pro, DaVinci "
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/misprint-type/SKILL.md",
+      "name": "misprint-type",
+      "description": "Builds a screen-print misregistration effect on Canvas 2D, in which a white fill print, a wider black outline print and a holographic foil print of the same word never line up, float as planes that tilt with the pointer and re-print to a new offset every few seconds, with squeegee streaks, pinholes "
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/motion-art-direction/SKILL.md",
+      "name": "motion-art-direction",
+      "description": "This skill should be used when the user asks to \"direct a motion graphics video\", \"do creative/art direction for a video\", \"define a motion language\", \"set the tone and pacing\", \"make the animation feel consistent\", \"decide what to animate (and what not to)\", \"turn a brief/brand into motion choices\""
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/motion-design-principles/SKILL.md",
+      "name": "motion-design-principles",
+      "description": "Applies motion design principles to create emotionally-driven, technically sound animations and transitions. Provides timing, easing, choreography, and Disney animation principles adapted for UI. Use when creating animations, transitions, micro-interactions, loading states, page transitions, scroll-"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/motion-designer/SKILL.md",
+      "name": "motion-designer",
+      "description": "Make short videos from code: launch films of apps (the real UI in an iPhone or a laptop window, or a story in panels), and any other short video: titles and stings, kinetic type, explainers, data videos, music videos, photo montages, and lower thirds or captions over footage, with a library of effec"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/opus-visual-motion-engine/SKILL.md",
+      "name": "opus-visual-motion-engine",
+      "description": "Build motion graphics, showreels, brand/product/explainer videos, kinetic type, landing pages, dashboards, mockups, diagrams and data viz as single-file HTML: real brand material, a named direction, deterministic seek(t) timing, designed cut-to-cut handoffs, a composed score, render QA and MP4 expor"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/papermotion/SKILL.md",
+      "name": "papermotion",
+      "description": "Make short animated films in the papermotion paper-cutout engine: everything generated by code (no image models or assets), characters rigged with bones, springs and strands, physics, parallax sets, choreography with beats, multi-shot edits, weather and film finishing, rendered offline to MP4. Use w"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/pixel-cycle/SKILL.md",
+      "name": "pixel-cycle",
+      "description": "Builds a Canvas 2D pixelate transition that cycles through a set of images, each one resolving from big square blocks to sharp along an eased ramp of block sizes, held, dissolved back to blocks, then shrunk away leaning while the next grows in and resolves, with hover particles that lift blocks off "
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/pixel-scan/SKILL.md",
+      "name": "pixel-scan",
+      "description": "Builds a WebGL fragment-shader text effect in which a diagonal scan band sweeps across a word and breaks it into a dense spray of tiny jittered blocks that shimmer between two accent colours, leaving the word solid behind it, with a pool of blocks under the pointer and a fading wake. Use when someon"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/pixel-threshold/SKILL.md",
+      "name": "pixel-threshold",
+      "description": "Builds a WebGL poster effect in which a short word is printed into a flat colour ground in hard pixel blocks, with a white halo and a black block shadow that staircase in step with the letters, a printed surface of moire, grain and dust plates, and a cycle where the grid collapses to big squares, sw"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/pop-type/SKILL.md",
+      "name": "pop-type",
+      "description": "Builds a squash-and-stretch type loop on Canvas 2D in which a chunky word with a hard drop shadow falls in letter by letter under gravity, squashes on a damped spring as each letter lands, swells through a doubling bulge field and pops into a ring of dashes, shown at a stepped ten frames a second wi"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/ransom-note/SKILL.md",
+      "name": "ransom-note",
+      "description": "Builds a ransom-note text effect in DOM and CSS in which every letter is its own cut paper scrap, a different paper colour, ink, face, weight and case with an irregular clip-path outline, given a seeded tilt, bounce and size so a line reads as hand assembled, rising in letter by letter and lifting a"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/reality-split/SKILL.md",
+      "name": "reality-split",
+      "description": "Builds a Canvas 2D design-tool animation in which a selected word splits into letter objects with their own handles, scatters across the card, dives into the first letter and steps through the rest at large scale on a spring conveyor, collapses to a dot and pops back whole, then replays as a new wor"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/roll-type/SKILL.md",
+      "name": "roll-type",
+      "description": "Builds kinetic typography on Canvas 2D in which short phrases take turns word by word, each word rolling up off an unseen drum and folding flat while the next phrase rolls in from below, overshoots and settles, the moving words bending through a glass rod with a soft colour fringe, and the ground cu"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/rush-type/SKILL.md",
+      "name": "rush-type",
+      "description": "Builds a WebGL kinetic-type effect in which a white word rests small and readable on black, then swings toward the viewer on a perspective orbit, stretches to about twelve times its height and tears into vertical streaks of green and violet light, swapping to the next word at the peak of the blur. U"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/saas-motion-video/SKILL.md",
+      "name": "saas-motion-video",
+      "description": "Make a promo / motion video for a software product with HyperFrames, using the saas-motion-kit 7-stage process (brief → components → theme → storyboard → build → sound → deliver), the clean-or-imaginary component rule, the creative muscle (tone matrix, variety rules, component forge, transition atla"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/shot-composition/SKILL.md",
+      "name": "shot-composition",
+      "description": "This skill should be used when the user asks to \"compose a frame\", \"set up a grid\", \"plan shot composition\", \"place the focal point\", \"decide where elements enter and exit\", \"add a parallax/camera move\", \"adapt a layout for 16:9 / 9:16 / 1:1\", or \"keep content inside safe areas\". Covers grids, safe "
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/shutter-type/SKILL.md",
+      "name": "shutter-type",
+      "description": "Builds kinetic type on Canvas 2D seen through a rolling shutter, where the frame is cut into horizontal stripes that each show the scene a fraction of a frame late, so a jittering line and a scrolling stack tear into sliding bands while still type stays clean, with hard colour inversions on the beat"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/smear-type/SKILL.md",
+      "name": "smear-type",
+      "description": "Builds kinetic typography in WebGL in which two lines of heavy capitals are uncovered by a soft cloud in the ground's own colour whose edge glows a hotter hue, the type smearing sideways where it is half hidden and sliding the last few pixels into place, while pale liquid ribbons churn through a sat"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/spike-type/SKILL.md",
+      "name": "spike-type",
+      "description": "Builds a Canvas 2D knockout word whose traced outline is roughened and grown into hundreds of hand-drawn spikes, each a sliver walked out along a wandering spine and back, filled with the letters and wrapped by one outline of varying weight, breathing slowly and bending, stretching and warming in co"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/stack-type/SKILL.md",
+      "name": "stack-type",
+      "description": "Builds kinetic typography on Canvas 2D in which one line of capitals is stacked nine rows deep and every letter is its own column, each column's top and foot stepping a row at a time toward the middle on its own beat until one line is left, holding, then refilling outward on the same beat run backwa"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/stamp-type/SKILL.md",
+      "name": "stamp-type",
+      "description": "Builds a kinetic-type poster on Canvas 2D, in which four lines of type on flat highlight bars hop in from the edges along fixed axis-aligned breakpoint tracks at a stepped 10Hz, park to be read and scatter off, every moving line stamping its silhouette where it just was as flat-colour residue that l"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/sunset-slam/SKILL.md",
+      "name": "sunset-slam",
+      "description": "Builds a Canvas 2D retro logo slam in which a blocky slab word breathes, squashes to a third of its width, then slams forward into an extruded logo whose fan of copies converges to a vanishing point below the baseline and is coloured by a moving window over one fixed dawn ramp, cools to a sticker, h"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/swing-type/SKILL.md",
+      "name": "swing-type",
+      "description": "Builds a swinging word on Canvas 2D, in which a row of huge coloured letters on a fixed angular pitch swings back and forth like a pendulum, each letter turning on its own vertical axis in proportion to its distance from centre, so it squashes to a sliver at the sides, opens to full face in the midd"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/text-reveal/SKILL.md",
+      "name": "text-reveal",
+      "description": "Builds a WebGL mask-reveal effect in which two small serif text blocks in opposite corners materialise through a cloudy fractal front that sweeps the card diagonally, each part un-blurring into focus as it is uncovered, then clear the other way and return with the next phrase pair, on a warm monochr"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/tile-field/SKILL.md",
+      "name": "tile-field",
+      "description": "Builds a Canvas 2D wordmark sampled into a dense grid of tiny square tiles that rest small and grey, swell and turn blue where a slow interference wave passes, and light up under the pointer with a morphing brush and a fading trail. Use when someone asks for a tiled or pixel wordmark, a dot-matrix l"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/typer/SKILL.md",
+      "name": "typer",
+      "description": "Builds a character-by-character text reveal in DOM and CSS in which a wave runs across a line and each letter flickers through randomized states, a filled pill, an inverse block, an accent, an outlined pill, before settling into plain text, with neighbouring letters in the same state merging into on"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/verb-type/SKILL.md",
+      "name": "verb-type",
+      "description": "Builds kinetic typography on Canvas 2D in which five verbs act out their meaning, MOVE walking its letters around a grid, SKEW shearing them one at a time, ROTATE orbiting the frame's centre while two letters swap, BREAK dropping half the word onto a floor, CONDENSE squeezing to a hairline, each in "
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/video-release-qa/SKILL.md",
+      "name": "video-release-qa",
+      "description": "Review a current video or prepare platform publication copy using separate factual, technical, audiovisual, cover and rights checks."
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/video-shot-planner/SKILL.md",
+      "name": "video-shot-planner",
+      "description": "Turn a stable voiceover into event-based shots, source intervals, asset gaps and clock conventions for editing or animation."
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/video-shotcraft/SKILL.md",
+      "name": "video-shotcraft",
+      "description": "Create cinematic product videos from shot recipe cards, a validated template, and code/audio assets (Remotion + real page screenshots + 2.5D camera moves + beat-synced cuts + sound design). Use when the user asks to turn a frontend project or webpage into a product video, says \"use video-shotcraft t"
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/video-workflow/SKILL.md",
+      "name": "video-workflow",
+      "description": "Resume or plan a video project from its current artifacts, route only missing stages, and track delivery status and revision impact."
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/voice-subtitle-sync/SKILL.md",
+      "name": "voice-subtitle-sync",
+      "description": "Prepare or repair voice and subtitles using authorized recordings or configured TTS, measured audio timing, transcript checks and SRT validation."
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/warp-type/SKILL.md",
+      "name": "warp-type",
+      "description": "Builds kinetic typography on Canvas 2D in which each sentence's verb deforms its own letters, with a swelling wave, a stair of echoes, lines that fall together, a turn, a fold and a letter sort, cut hard every half second. Use when someone asks for animated type, a typographic loop, a hero headline "
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/wild-type/SKILL.md",
+      "name": "wild-type",
+      "description": "Builds a warped-type loop on Canvas 2D, in which a word is traced at runtime from the live font into vector contours, types itself in on measured per-letter tracks, then inflates about eight times through one global Catmull-Rom warp mesh played from a fitted table, drapes over an arch and collapses "
+    },
+    {
+      "vendor": "visualx",
+      "path": "skills/visualx/word-carousel/SKILL.md",
+      "name": "word-carousel",
+      "description": "Builds a Canvas 2D word carousel in which four words cycle through a small left slot, a big centre slot, a small right slot and a tiny slot hidden behind the big word, slamming one slot left about every half second on measured fat-tailed eases, with velocity-proportional motion blur and a colour tha"
+    },
+    {
+      "vendor": "winhao",
+      "path": "skills/winhao/code-video/SKILL.md",
+      "name": "code-video",
+      "description": "Make short videos and animations with code: ask what the user wants, fill in a block prompt for this request (you fill the tags; the look is only a recommendation), then write the code, render every frame to MP4, check sampled frames and deliver. Gives a path that works plus rendering, contact-sheet"
+    }
+  ]
+}

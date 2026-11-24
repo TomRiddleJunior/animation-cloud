@@ -1,0 +1,1134 @@
+{
+ "duration": 71.625,
+ "voice": "am_michael",
+ "words": 198,
+ "wpm_overall": 165.9,
+ "wpm_speech": 190.5,
+ "lines": [
+  {
+   "id": "card1",
+   "i": 0,
+   "text": "Here's an experiment that still messes with my head.",
+   "start": 0.46,
+   "end": 3.31,
+   "words": [
+    {
+     "w": "Here's",
+     "start": 0.46,
+     "end": 0.723
+    },
+    {
+     "w": "an",
+     "start": 0.723,
+     "end": 0.81
+    },
+    {
+     "w": "experiment",
+     "start": 0.81,
+     "end": 1.46
+    },
+    {
+     "w": "that",
+     "start": 1.46,
+     "end": 1.635
+    },
+    {
+     "w": "still",
+     "start": 1.635,
+     "end": 1.923
+    },
+    {
+     "w": "messes",
+     "start": 1.923,
+     "end": 2.348
+    },
+    {
+     "w": "with",
+     "start": 2.348,
+     "end": 2.51
+    },
+    {
+     "w": "my",
+     "start": 2.51,
+     "end": 2.685
+    },
+    {
+     "w": "head.",
+     "start": 2.685,
+     "end": 3.31
+    }
+   ]
+  },
+  {
+   "id": "one",
+   "i": 1,
+   "text": "Shine light through one narrow slit, and the wall behind it lights up.",
+   "start": 3.77,
+   "end": 7.645,
+   "words": [
+    {
+     "w": "Shine",
+     "start": 3.77,
+     "end": 4.045
+    },
+    {
+     "w": "light",
+     "start": 4.045,
+     "end": 4.27
+    },
+    {
+     "w": "through",
+     "start": 4.27,
+     "end": 4.482
+    },
+    {
+     "w": "one",
+     "start": 4.482,
+     "end": 4.745
+    },
+    {
+     "w": "narrow",
+     "start": 4.745,
+     "end": 5.107
+    },
+    {
+     "w": "slit,",
+     "start": 5.107,
+     "end": 5.67
+    },
+    {
+     "w": "and",
+     "start": 5.77,
+     "end": 5.882
+    },
+    {
+     "w": "the",
+     "start": 5.882,
+     "end": 5.982
+    },
+    {
+     "w": "wall",
+     "start": 5.982,
+     "end": 6.295
+    },
+    {
+     "w": "behind",
+     "start": 6.295,
+     "end": 6.683
+    },
+    {
+     "w": "it",
+     "start": 6.683,
+     "end": 6.82
+    },
+    {
+     "w": "lights",
+     "start": 6.82,
+     "end": 7.145
+    },
+    {
+     "w": "up.",
+     "start": 7.145,
+     "end": 7.645
+    }
+   ]
+  },
+  {
+   "id": "two",
+   "i": 2,
+   "text": "Open a second slit next to it, and parts of the wall get darker.",
+   "start": 8.155,
+   "end": 12.005,
+   "words": [
+    {
+     "w": "Open",
+     "start": 8.155,
+     "end": 8.455
+    },
+    {
+     "w": "a",
+     "start": 8.455,
+     "end": 8.568
+    },
+    {
+     "w": "second",
+     "start": 8.568,
+     "end": 8.905
+    },
+    {
+     "w": "slit",
+     "start": 8.905,
+     "end": 9.18
+    },
+    {
+     "w": "next",
+     "start": 9.18,
+     "end": 9.455
+    },
+    {
+     "w": "to",
+     "start": 9.455,
+     "end": 9.605
+    },
+    {
+     "w": "it,",
+     "start": 9.605,
+     "end": 9.93
+    },
+    {
+     "w": "and",
+     "start": 10.03,
+     "end": 10.155
+    },
+    {
+     "w": "parts",
+     "start": 10.155,
+     "end": 10.468
+    },
+    {
+     "w": "of",
+     "start": 10.468,
+     "end": 10.543
+    },
+    {
+     "w": "the",
+     "start": 10.543,
+     "end": 10.668
+    },
+    {
+     "w": "wall",
+     "start": 10.668,
+     "end": 11.005
+    },
+    {
+     "w": "get",
+     "start": 11.005,
+     "end": 11.205
+    },
+    {
+     "w": "darker.",
+     "start": 11.205,
+     "end": 12.005
+    }
+   ]
+  },
+  {
+   "id": "how",
+   "i": 3,
+   "text": "More light, less brightness. How?",
+   "start": 12.465,
+   "end": 14.215,
+   "words": [
+    {
+     "w": "More",
+     "start": 12.465,
+     "end": 12.69
+    },
+    {
+     "w": "light,",
+     "start": 12.69,
+     "end": 12.915
+    },
+    {
+     "w": "less",
+     "start": 12.953,
+     "end": 13.14
+    },
+    {
+     "w": "brightness.",
+     "start": 13.14,
+     "end": 13.615
+    },
+    {
+     "w": "How?",
+     "start": 13.715,
+     "end": 14.215
+    }
+   ]
+  },
+  {
+   "id": "wave",
+   "i": 4,
+   "text": "Let's model light as a wave: crests in red, troughs in blue, spreading out from the slit.",
+   "start": 14.875,
+   "end": 20.325,
+   "words": [
+    {
+     "w": "Let's",
+     "start": 14.875,
+     "end": 15.125
+    },
+    {
+     "w": "model",
+     "start": 15.125,
+     "end": 15.5
+    },
+    {
+     "w": "light",
+     "start": 15.5,
+     "end": 15.8
+    },
+    {
+     "w": "as",
+     "start": 15.8,
+     "end": 15.913
+    },
+    {
+     "w": "a",
+     "start": 15.913,
+     "end": 16.013
+    },
+    {
+     "w": "wave:",
+     "start": 16.013,
+     "end": 16.675
+    },
+    {
+     "w": "crests",
+     "start": 16.813,
+     "end": 17.2
+    },
+    {
+     "w": "in",
+     "start": 17.2,
+     "end": 17.363
+    },
+    {
+     "w": "red,",
+     "start": 17.363,
+     "end": 17.75
+    },
+    {
+     "w": "troughs",
+     "start": 17.825,
+     "end": 18.2
+    },
+    {
+     "w": "in",
+     "start": 18.2,
+     "end": 18.35
+    },
+    {
+     "w": "blue,",
+     "start": 18.35,
+     "end": 18.75
+    },
+    {
+     "w": "spreading",
+     "start": 18.838,
+     "end": 19.25
+    },
+    {
+     "w": "out",
+     "start": 19.25,
+     "end": 19.45
+    },
+    {
+     "w": "from",
+     "start": 19.45,
+     "end": 19.588
+    },
+    {
+     "w": "the",
+     "start": 19.588,
+     "end": 19.688
+    },
+    {
+     "w": "slit.",
+     "start": 19.688,
+     "end": 20.325
+    }
+   ]
+  },
+  {
+   "id": "add",
+   "i": 5,
+   "text": "Add the second slit, and the two sets of ripples overlap.",
+   "start": 20.885,
+   "end": 24.31,
+   "words": [
+    {
+     "w": "Add",
+     "start": 20.885,
+     "end": 21.073
+    },
+    {
+     "w": "the",
+     "start": 21.073,
+     "end": 21.198
+    },
+    {
+     "w": "second",
+     "start": 21.198,
+     "end": 21.573
+    },
+    {
+     "w": "slit,",
+     "start": 21.573,
+     "end": 22.11
+    },
+    {
+     "w": "and",
+     "start": 22.21,
+     "end": 22.323
+    },
+    {
+     "w": "the",
+     "start": 22.323,
+     "end": 22.423
+    },
+    {
+     "w": "two",
+     "start": 22.423,
+     "end": 22.648
+    },
+    {
+     "w": "sets",
+     "start": 22.648,
+     "end": 22.948
+    },
+    {
+     "w": "of",
+     "start": 22.948,
+     "end": 23.06
+    },
+    {
+     "w": "ripples",
+     "start": 23.06,
+     "end": 23.423
+    },
+    {
+     "w": "overlap.",
+     "start": 23.423,
+     "end": 24.31
+    }
+   ]
+  },
+  {
+   "id": "lines",
+   "i": 6,
+   "text": "But look at these grey lines. Along them, the wave barely moves.",
+   "start": 24.87,
+   "end": 28.595,
+   "words": [
+    {
+     "w": "But",
+     "start": 24.87,
+     "end": 24.995
+    },
+    {
+     "w": "look",
+     "start": 24.995,
+     "end": 25.158
+    },
+    {
+     "w": "at",
+     "start": 25.158,
+     "end": 25.245
+    },
+    {
+     "w": "these",
+     "start": 25.245,
+     "end": 25.47
+    },
+    {
+     "w": "grey",
+     "start": 25.47,
+     "end": 25.745
+    },
+    {
+     "w": "lines.",
+     "start": 25.745,
+     "end": 26.395
+    },
+    {
+     "w": "Along",
+     "start": 26.533,
+     "end": 26.87
+    },
+    {
+     "w": "them,",
+     "start": 26.87,
+     "end": 27.045
+    },
+    {
+     "w": "the",
+     "start": 27.083,
+     "end": 27.17
+    },
+    {
+     "w": "wave",
+     "start": 27.17,
+     "end": 27.52
+    },
+    {
+     "w": "barely",
+     "start": 27.52,
+     "end": 27.87
+    },
+    {
+     "w": "moves.",
+     "start": 27.87,
+     "end": 28.595
+    }
+   ]
+  },
+  {
+   "id": "freeze",
+   "i": 7,
+   "text": "Freeze time and pick a point on one. It's exactly half a wavelength farther from one slit than the other.",
+   "start": 29.155,
+   "end": 35.28,
+   "words": [
+    {
+     "w": "Freeze",
+     "start": 29.155,
+     "end": 29.455
+    },
+    {
+     "w": "time",
+     "start": 29.455,
+     "end": 29.905
+    },
+    {
+     "w": "and",
+     "start": 29.905,
+     "end": 30.03
+    },
+    {
+     "w": "pick",
+     "start": 30.03,
+     "end": 30.193
+    },
+    {
+     "w": "a",
+     "start": 30.193,
+     "end": 30.268
+    },
+    {
+     "w": "point",
+     "start": 30.268,
+     "end": 30.605
+    },
+    {
+     "w": "on",
+     "start": 30.605,
+     "end": 30.805
+    },
+    {
+     "w": "one.",
+     "start": 30.805,
+     "end": 31.43
+    },
+    {
+     "w": "It's",
+     "start": 31.53,
+     "end": 31.718
+    },
+    {
+     "w": "exactly",
+     "start": 31.718,
+     "end": 32.268
+    },
+    {
+     "w": "half",
+     "start": 32.268,
+     "end": 32.543
+    },
+    {
+     "w": "a",
+     "start": 32.543,
+     "end": 32.643
+    },
+    {
+     "w": "wavelength",
+     "start": 32.643,
+     "end": 33.218
+    },
+    {
+     "w": "farther",
+     "start": 33.218,
+     "end": 33.655
+    },
+    {
+     "w": "from",
+     "start": 33.655,
+     "end": 33.855
+    },
+    {
+     "w": "one",
+     "start": 33.855,
+     "end": 34.093
+    },
+    {
+     "w": "slit",
+     "start": 34.093,
+     "end": 34.405
+    },
+    {
+     "w": "than",
+     "start": 34.405,
+     "end": 34.543
+    },
+    {
+     "w": "the",
+     "start": 34.543,
+     "end": 34.68
+    },
+    {
+     "w": "other.",
+     "start": 34.68,
+     "end": 35.28
+    }
+   ]
+  },
+  {
+   "id": "cancel",
+   "i": 8,
+   "text": "So a crest from one always meets a trough from the other, and they cancel.",
+   "start": 35.74,
+   "end": 39.89,
+   "words": [
+    {
+     "w": "So",
+     "start": 35.74,
+     "end": 35.828
+    },
+    {
+     "w": "a",
+     "start": 35.828,
+     "end": 35.928
+    },
+    {
+     "w": "crest",
+     "start": 35.928,
+     "end": 36.24
+    },
+    {
+     "w": "from",
+     "start": 36.24,
+     "end": 36.44
+    },
+    {
+     "w": "one",
+     "start": 36.44,
+     "end": 36.728
+    },
+    {
+     "w": "always",
+     "start": 36.728,
+     "end": 37.215
+    },
+    {
+     "w": "meets",
+     "start": 37.215,
+     "end": 37.453
+    },
+    {
+     "w": "a",
+     "start": 37.453,
+     "end": 37.528
+    },
+    {
+     "w": "trough",
+     "start": 37.528,
+     "end": 37.915
+    },
+    {
+     "w": "from",
+     "start": 37.915,
+     "end": 38.053
+    },
+    {
+     "w": "the",
+     "start": 38.053,
+     "end": 38.19
+    },
+    {
+     "w": "other,",
+     "start": 38.19,
+     "end": 38.69
+    },
+    {
+     "w": "and",
+     "start": 38.79,
+     "end": 38.903
+    },
+    {
+     "w": "they",
+     "start": 38.903,
+     "end": 39.053
+    },
+    {
+     "w": "cancel.",
+     "start": 39.053,
+     "end": 39.89
+    }
+   ]
+  },
+  {
+   "id": "double",
+   "i": 9,
+   "text": "Here, the difference is one whole wavelength. Crest meets crest, and the wave is twice as tall.",
+   "start": 40.45,
+   "end": 46.175,
+   "words": [
+    {
+     "w": "Here,",
+     "start": 40.45,
+     "end": 40.7
+    },
+    {
+     "w": "the",
+     "start": 40.738,
+     "end": 40.825
+    },
+    {
+     "w": "difference",
+     "start": 40.825,
+     "end": 41.2
+    },
+    {
+     "w": "is",
+     "start": 41.2,
+     "end": 41.363
+    },
+    {
+     "w": "one",
+     "start": 41.363,
+     "end": 41.613
+    },
+    {
+     "w": "whole",
+     "start": 41.613,
+     "end": 41.875
+    },
+    {
+     "w": "wavelength.",
+     "start": 41.875,
+     "end": 42.75
+    },
+    {
+     "w": "Crest",
+     "start": 42.888,
+     "end": 43.225
+    },
+    {
+     "w": "meets",
+     "start": 43.225,
+     "end": 43.513
+    },
+    {
+     "w": "crest,",
+     "start": 43.513,
+     "end": 44.075
+    },
+    {
+     "w": "and",
+     "start": 44.175,
+     "end": 44.288
+    },
+    {
+     "w": "the",
+     "start": 44.288,
+     "end": 44.388
+    },
+    {
+     "w": "wave",
+     "start": 44.388,
+     "end": 44.763
+    },
+    {
+     "w": "is",
+     "start": 44.763,
+     "end": 44.913
+    },
+    {
+     "w": "twice",
+     "start": 44.913,
+     "end": 45.325
+    },
+    {
+     "w": "as",
+     "start": 45.325,
+     "end": 45.488
+    },
+    {
+     "w": "tall.",
+     "start": 45.488,
+     "end": 46.175
+    }
+   ]
+  },
+  {
+   "id": "avg",
+   "i": 10,
+   "text": "Average over time, and you get bands. Bright, dark, bright.",
+   "start": 46.735,
+   "end": 50.21,
+   "words": [
+    {
+     "w": "Average",
+     "start": 46.735,
+     "end": 47.048
+    },
+    {
+     "w": "over",
+     "start": 47.048,
+     "end": 47.235
+    },
+    {
+     "w": "time,",
+     "start": 47.235,
+     "end": 47.56
+    },
+    {
+     "w": "and",
+     "start": 47.598,
+     "end": 47.698
+    },
+    {
+     "w": "you",
+     "start": 47.698,
+     "end": 47.785
+    },
+    {
+     "w": "get",
+     "start": 47.785,
+     "end": 47.985
+    },
+    {
+     "w": "bands.",
+     "start": 47.985,
+     "end": 48.66
+    },
+    {
+     "w": "Bright,",
+     "start": 48.798,
+     "end": 49.16
+    },
+    {
+     "w": "dark,",
+     "start": 49.235,
+     "end": 49.535
+    },
+    {
+     "w": "bright.",
+     "start": 49.585,
+     "end": 50.21
+    }
+   ]
+  },
+  {
+   "id": "plot",
+   "i": 11,
+   "text": "Plot the brightness on the wall: the dark spots are dimmer than one slit alone.",
+   "start": 50.72,
+   "end": 55.27,
+   "words": [
+    {
+     "w": "Plot",
+     "start": 50.72,
+     "end": 50.958
+    },
+    {
+     "w": "the",
+     "start": 50.958,
+     "end": 51.045
+    },
+    {
+     "w": "brightness",
+     "start": 51.045,
+     "end": 51.458
+    },
+    {
+     "w": "on",
+     "start": 51.458,
+     "end": 51.558
+    },
+    {
+     "w": "the",
+     "start": 51.558,
+     "end": 51.658
+    },
+    {
+     "w": "wall:",
+     "start": 51.658,
+     "end": 52.32
+    },
+    {
+     "w": "the",
+     "start": 52.42,
+     "end": 52.52
+    },
+    {
+     "w": "dark",
+     "start": 52.52,
+     "end": 52.795
+    },
+    {
+     "w": "spots",
+     "start": 52.795,
+     "end": 53.22
+    },
+    {
+     "w": "are",
+     "start": 53.22,
+     "end": 53.383
+    },
+    {
+     "w": "dimmer",
+     "start": 53.383,
+     "end": 53.745
+    },
+    {
+     "w": "than",
+     "start": 53.745,
+     "end": 53.958
+    },
+    {
+     "w": "one",
+     "start": 53.958,
+     "end": 54.258
+    },
+    {
+     "w": "slit",
+     "start": 54.258,
+     "end": 54.52
+    },
+    {
+     "w": "alone.",
+     "start": 54.52,
+     "end": 55.27
+    }
+   ]
+  },
+  {
+   "id": "twist",
+   "i": 12,
+   "text": "Now the twist. Send light through one photon at a time, and each lands at a single point.",
+   "start": 55.88,
+   "end": 61.255,
+   "words": [
+    {
+     "w": "Now",
+     "start": 55.88,
+     "end": 56.08
+    },
+    {
+     "w": "the",
+     "start": 56.08,
+     "end": 56.193
+    },
+    {
+     "w": "twist.",
+     "start": 56.193,
+     "end": 56.93
+    },
+    {
+     "w": "Send",
+     "start": 57.068,
+     "end": 57.33
+    },
+    {
+     "w": "light",
+     "start": 57.33,
+     "end": 57.58
+    },
+    {
+     "w": "through",
+     "start": 57.58,
+     "end": 57.78
+    },
+    {
+     "w": "one",
+     "start": 57.78,
+     "end": 58.018
+    },
+    {
+     "w": "photon",
+     "start": 58.018,
+     "end": 58.493
+    },
+    {
+     "w": "at",
+     "start": 58.493,
+     "end": 58.568
+    },
+    {
+     "w": "a",
+     "start": 58.568,
+     "end": 58.643
+    },
+    {
+     "w": "time,",
+     "start": 58.643,
+     "end": 59.13
+    },
+    {
+     "w": "and",
+     "start": 59.18,
+     "end": 59.343
+    },
+    {
+     "w": "each",
+     "start": 59.343,
+     "end": 59.618
+    },
+    {
+     "w": "lands",
+     "start": 59.618,
+     "end": 60.03
+    },
+    {
+     "w": "at",
+     "start": 60.03,
+     "end": 60.118
+    },
+    {
+     "w": "a",
+     "start": 60.118,
+     "end": 60.218
+    },
+    {
+     "w": "single",
+     "start": 60.218,
+     "end": 60.605
+    },
+    {
+     "w": "point.",
+     "start": 60.605,
+     "end": 61.255
+    }
+   ]
+  },
+  {
+   "id": "build",
+   "i": 13,
+   "text": "Yet after thousands of them, the same dark bands appear.",
+   "start": 61.765,
+   "end": 65.115,
+   "words": [
+    {
+     "w": "Yet",
+     "start": 61.765,
+     "end": 61.94
+    },
+    {
+     "w": "after",
+     "start": 61.94,
+     "end": 62.253
+    },
+    {
+     "w": "thousands",
+     "start": 62.253,
+     "end": 62.703
+    },
+    {
+     "w": "of",
+     "start": 62.703,
+     "end": 62.79
+    },
+    {
+     "w": "them,",
+     "start": 62.79,
+     "end": 63.19
+    },
+    {
+     "w": "the",
+     "start": 63.29,
+     "end": 63.428
+    },
+    {
+     "w": "same",
+     "start": 63.428,
+     "end": 63.765
+    },
+    {
+     "w": "dark",
+     "start": 63.765,
+     "end": 64.065
+    },
+    {
+     "w": "bands",
+     "start": 64.065,
+     "end": 64.39
+    },
+    {
+     "w": "appear.",
+     "start": 64.39,
+     "end": 65.115
+    }
+   ]
+  },
+  {
+   "id": "card2",
+   "i": 14,
+   "text": "So even one photon's landing spot depends on both slits being open.",
+   "start": 65.775,
+   "end": 70.475,
+   "words": [
+    {
+     "w": "So",
+     "start": 65.775,
+     "end": 65.95
+    },
+    {
+     "w": "even",
+     "start": 65.95,
+     "end": 66.25
+    },
+    {
+     "w": "one",
+     "start": 66.25,
+     "end": 66.488
+    },
+    {
+     "w": "photon's",
+     "start": 66.488,
+     "end": 67.088
+    },
+    {
+     "w": "landing",
+     "start": 67.088,
+     "end": 67.525
+    },
+    {
+     "w": "spot",
+     "start": 67.525,
+     "end": 68.163
+    },
+    {
+     "w": "depends",
+     "start": 68.163,
+     "end": 68.638
+    },
+    {
+     "w": "on",
+     "start": 68.638,
+     "end": 68.825
+    },
+    {
+     "w": "both",
+     "start": 68.825,
+     "end": 69.138
+    },
+    {
+     "w": "slits",
+     "start": 69.138,
+     "end": 69.5
+    },
+    {
+     "w": "being",
+     "start": 69.5,
+     "end": 69.775
+    },
+    {
+     "w": "open.",
+     "start": 69.775,
+     "end": 70.475
+    }
+   ]
+  }
+ ]
+}

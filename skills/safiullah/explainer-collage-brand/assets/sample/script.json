@@ -1,0 +1,19 @@
+{"voice": "af_heart", "speed": 0.86, "lead": 1.2, "tail": 4.6, "gap": 0.45,
+ "lines": [
+  {"id": "hook1", "text": "For a hundred years, work looked like this,"},
+  {"id": "hook2", "text": "and this.", "gap": 0.6},
+  {"id": "rule", "text": "From the punch clock to the corner office, one rule: be in the room.", "gap": 0.8},
+  {"id": "changed", "text": "But where and how we work has changed.", "gap": 0.5},
+  {"id": "many", "text": "Instead of one office, we now have many: laptops, phones, kitchen tables, three time zones before lunch.", "gap": 0.6},
+  {"id": "longway", "text": "Work has come a long way,", "gap": 0.7},
+  {"id": "whynot", "text": "so why hasn't the meeting?", "gap": 0.3},
+  {"id": "still", "text": "We still call everyone in at nine, to say out loud what we could simply show.", "gap": 0.8},
+  {"id": "hours", "text": "Hours of status updates. Lots of talking, very little making.", "gap": 0.5},
+  {"id": "tear", "text": "So let's tear up the nine o'clock status meeting,", "gap": 0.8},
+  {"id": "start", "text": "and start showing the work instead.", "gap": 0.3},
+  {"id": "visible", "text": "Work today should be visible, not reported.", "gap": 0.7},
+  {"id": "shared", "text": "Progress should be shared the moment it happens.", "gap": 0.45},
+  {"id": "earn", "text": "And every meeting should earn its place.", "gap": 0.45},
+  {"id": "built", "text": "That's why we built Open-fold: one living page where your team's work shows itself.", "gap": 0.8},
+  {"id": "tag", "text": "Open-fold. Show the work.", "gap": 0.8}
+ ]}

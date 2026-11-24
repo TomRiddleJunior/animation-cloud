@@ -1,0 +1,988 @@
+{
+ "duration": 70.185,
+ "voice": "am_michael",
+ "words": 158,
+ "wpm_overall": 135.1,
+ "wpm_speech": 175.0,
+ "lines": [
+  {
+   "id": "premise",
+   "i": 0,
+   "text": "There's a tiny thrill in finding real mail in your mailbox.",
+   "start": 0.76,
+   "end": 4.585,
+   "words": [
+    {
+     "w": "There's",
+     "start": 0.76,
+     "end": 0.922
+    },
+    {
+     "w": "a",
+     "start": 0.922,
+     "end": 1.022
+    },
+    {
+     "w": "tiny",
+     "start": 1.022,
+     "end": 1.485
+    },
+    {
+     "w": "thrill",
+     "start": 1.485,
+     "end": 2.147
+    },
+    {
+     "w": "in",
+     "start": 2.147,
+     "end": 2.322
+    },
+    {
+     "w": "finding",
+     "start": 2.322,
+     "end": 2.76
+    },
+    {
+     "w": "real",
+     "start": 2.76,
+     "end": 3.035
+    },
+    {
+     "w": "mail",
+     "start": 3.035,
+     "end": 3.397
+    },
+    {
+     "w": "in",
+     "start": 3.397,
+     "end": 3.473
+    },
+    {
+     "w": "your",
+     "start": 3.473,
+     "end": 3.585
+    },
+    {
+     "w": "mailbox.",
+     "start": 3.585,
+     "end": 4.585
+    }
+   ]
+  },
+  {
+   "id": "nots",
+   "i": 1,
+   "text": "Not a bill. Not a flyer. Something someone picked out, just for you.",
+   "start": 4.995,
+   "end": 9.22,
+   "words": [
+    {
+     "w": "Not",
+     "start": 4.995,
+     "end": 5.133
+    },
+    {
+     "w": "a",
+     "start": 5.133,
+     "end": 5.233
+    },
+    {
+     "w": "bill.",
+     "start": 5.233,
+     "end": 5.645
+    },
+    {
+     "w": "Not",
+     "start": 5.72,
+     "end": 5.883
+    },
+    {
+     "w": "a",
+     "start": 5.883,
+     "end": 5.97
+    },
+    {
+     "w": "flyer.",
+     "start": 5.97,
+     "end": 6.72
+    },
+    {
+     "w": "Something",
+     "start": 6.87,
+     "end": 7.333
+    },
+    {
+     "w": "someone",
+     "start": 7.333,
+     "end": 7.67
+    },
+    {
+     "w": "picked",
+     "start": 7.67,
+     "end": 7.945
+    },
+    {
+     "w": "out,",
+     "start": 7.945,
+     "end": 8.17
+    },
+    {
+     "w": "just",
+     "start": 8.22,
+     "end": 8.47
+    },
+    {
+     "w": "for",
+     "start": 8.47,
+     "end": 8.658
+    },
+    {
+     "w": "you.",
+     "start": 8.658,
+     "end": 9.22
+    }
+   ]
+  },
+  {
+   "id": "name",
+   "i": 2,
+   "text": "That's the feeling behind Postpop.",
+   "start": 9.68,
+   "end": 11.78,
+   "words": [
+    {
+     "w": "That's",
+     "start": 9.68,
+     "end": 9.98
+    },
+    {
+     "w": "the",
+     "start": 9.98,
+     "end": 10.118
+    },
+    {
+     "w": "feeling",
+     "start": 10.118,
+     "end": 10.455
+    },
+    {
+     "w": "behind",
+     "start": 10.455,
+     "end": 10.855
+    },
+    {
+     "w": "Postpop.",
+     "start": 10.855,
+     "end": 11.78
+    }
+   ]
+  },
+  {
+   "id": "what",
+   "i": 3,
+   "text": "Postpop turns your phone photos into real, printed postcards.",
+   "start": 12.14,
+   "end": 16.34,
+   "words": [
+    {
+     "w": "Postpop",
+     "start": 12.14,
+     "end": 12.665
+    },
+    {
+     "w": "turns",
+     "start": 12.665,
+     "end": 12.928
+    },
+    {
+     "w": "your",
+     "start": 12.928,
+     "end": 13.078
+    },
+    {
+     "w": "phone",
+     "start": 13.078,
+     "end": 13.428
+    },
+    {
+     "w": "photos",
+     "start": 13.428,
+     "end": 13.878
+    },
+    {
+     "w": "into",
+     "start": 13.878,
+     "end": 14.165
+    },
+    {
+     "w": "real,",
+     "start": 14.165,
+     "end": 14.74
+    },
+    {
+     "w": "printed",
+     "start": 14.84,
+     "end": 15.215
+    },
+    {
+     "w": "postcards.",
+     "start": 15.215,
+     "end": 16.34
+    }
+   ]
+  },
+  {
+   "id": "beach",
+   "i": 4,
+   "text": "The beach on your last night away,",
+   "start": 16.85,
+   "end": 18.8,
+   "words": [
+    {
+     "w": "The",
+     "start": 16.85,
+     "end": 16.963
+    },
+    {
+     "w": "beach",
+     "start": 16.963,
+     "end": 17.288
+    },
+    {
+     "w": "on",
+     "start": 17.288,
+     "end": 17.413
+    },
+    {
+     "w": "your",
+     "start": 17.413,
+     "end": 17.55
+    },
+    {
+     "w": "last",
+     "start": 17.55,
+     "end": 17.875
+    },
+    {
+     "w": "night",
+     "start": 17.875,
+     "end": 18.1
+    },
+    {
+     "w": "away,",
+     "start": 18.1,
+     "end": 18.8
+    }
+   ]
+  },
+  {
+   "id": "cake",
+   "i": 5,
+   "text": "the birthday cake that almost made it,",
+   "start": 19.06,
+   "end": 21.285,
+   "words": [
+    {
+     "w": "the",
+     "start": 19.06,
+     "end": 19.135
+    },
+    {
+     "w": "birthday",
+     "start": 19.135,
+     "end": 19.61
+    },
+    {
+     "w": "cake",
+     "start": 19.61,
+     "end": 19.91
+    },
+    {
+     "w": "that",
+     "start": 19.91,
+     "end": 20.073
+    },
+    {
+     "w": "almost",
+     "start": 20.073,
+     "end": 20.56
+    },
+    {
+     "w": "made",
+     "start": 20.56,
+     "end": 20.835
+    },
+    {
+     "w": "it,",
+     "start": 20.835,
+     "end": 21.285
+    }
+   ]
+  },
+  {
+   "id": "tomato",
+   "i": 6,
+   "text": "or the first tomato from your balcony.",
+   "start": 21.545,
+   "end": 23.82,
+   "words": [
+    {
+     "w": "or",
+     "start": 21.545,
+     "end": 21.645
+    },
+    {
+     "w": "the",
+     "start": 21.645,
+     "end": 21.795
+    },
+    {
+     "w": "first",
+     "start": 21.795,
+     "end": 22.195
+    },
+    {
+     "w": "tomato",
+     "start": 22.195,
+     "end": 22.645
+    },
+    {
+     "w": "from",
+     "start": 22.645,
+     "end": 22.808
+    },
+    {
+     "w": "your",
+     "start": 22.808,
+     "end": 22.92
+    },
+    {
+     "w": "balcony.",
+     "start": 22.92,
+     "end": 23.82
+    }
+   ]
+  },
+  {
+   "id": "gag1",
+   "i": 7,
+   "text": "It's a really good tomato.",
+   "start": 24.38,
+   "end": 25.855,
+   "words": [
+    {
+     "w": "It's",
+     "start": 24.38,
+     "end": 24.543
+    },
+    {
+     "w": "a",
+     "start": 24.543,
+     "end": 24.63
+    },
+    {
+     "w": "really",
+     "start": 24.63,
+     "end": 24.905
+    },
+    {
+     "w": "good",
+     "start": 24.905,
+     "end": 25.13
+    },
+    {
+     "w": "tomato.",
+     "start": 25.13,
+     "end": 25.855
+    }
+   ]
+  },
+  {
+   "id": "gag1b",
+   "i": 8,
+   "text": "It is a very good tomato.",
+   "start": 26.215,
+   "end": 28.015,
+   "words": [
+    {
+     "w": "It",
+     "start": 26.215,
+     "end": 26.34
+    },
+    {
+     "w": "is",
+     "start": 26.34,
+     "end": 26.465
+    },
+    {
+     "w": "a",
+     "start": 26.465,
+     "end": 26.59
+    },
+    {
+     "w": "very",
+     "start": 26.59,
+     "end": 26.978
+    },
+    {
+     "w": "good",
+     "start": 26.978,
+     "end": 27.228
+    },
+    {
+     "w": "tomato.",
+     "start": 27.228,
+     "end": 28.015
+    }
+   ]
+  },
+  {
+   "id": "note",
+   "i": 9,
+   "text": "Add a note, a doodle, and tap send.",
+   "start": 28.525,
+   "end": 30.725,
+   "words": [
+    {
+     "w": "Add",
+     "start": 28.525,
+     "end": 28.688
+    },
+    {
+     "w": "a",
+     "start": 28.688,
+     "end": 28.75
+    },
+    {
+     "w": "note,",
+     "start": 28.75,
+     "end": 29.075
+    },
+    {
+     "w": "a",
+     "start": 29.15,
+     "end": 29.263
+    },
+    {
+     "w": "doodle,",
+     "start": 29.263,
+     "end": 29.6
+    },
+    {
+     "w": "and",
+     "start": 29.638,
+     "end": 29.75
+    },
+    {
+     "w": "tap",
+     "start": 29.75,
+     "end": 30.038
+    },
+    {
+     "w": "send.",
+     "start": 30.038,
+     "end": 30.725
+    }
+   ]
+  },
+  {
+   "id": "gag2",
+   "i": 10,
+   "text": "Wait, do I need a stamp?",
+   "start": 31.285,
+   "end": 32.835,
+   "words": [
+    {
+     "w": "Wait,",
+     "start": 31.285,
+     "end": 31.61
+    },
+    {
+     "w": "do",
+     "start": 31.66,
+     "end": 31.798
+    },
+    {
+     "w": "I",
+     "start": 31.798,
+     "end": 31.935
+    },
+    {
+     "w": "need",
+     "start": 31.935,
+     "end": 32.148
+    },
+    {
+     "w": "a",
+     "start": 32.148,
+     "end": 32.248
+    },
+    {
+     "w": "stamp?",
+     "start": 32.248,
+     "end": 32.835
+    }
+   ]
+  },
+  {
+   "id": "nope",
+   "i": 11,
+   "text": "Nope.",
+   "start": 33.245,
+   "end": 33.77,
+   "words": [
+    {
+     "w": "Nope.",
+     "start": 33.245,
+     "end": 33.77
+    }
+   ]
+  },
+  {
+   "id": "post",
+   "i": 12,
+   "text": "We print it, stamp it, and post it for you.",
+   "start": 34.18,
+   "end": 36.68,
+   "words": [
+    {
+     "w": "We",
+     "start": 34.18,
+     "end": 34.318
+    },
+    {
+     "w": "print",
+     "start": 34.318,
+     "end": 34.605
+    },
+    {
+     "w": "it,",
+     "start": 34.605,
+     "end": 34.805
+    },
+    {
+     "w": "stamp",
+     "start": 34.893,
+     "end": 35.28
+    },
+    {
+     "w": "it,",
+     "start": 35.28,
+     "end": 35.38
+    },
+    {
+     "w": "and",
+     "start": 35.418,
+     "end": 35.53
+    },
+    {
+     "w": "post",
+     "start": 35.53,
+     "end": 35.843
+    },
+    {
+     "w": "it",
+     "start": 35.843,
+     "end": 35.93
+    },
+    {
+     "w": "for",
+     "start": 35.93,
+     "end": 36.118
+    },
+    {
+     "w": "you.",
+     "start": 36.118,
+     "end": 36.68
+    }
+   ]
+  },
+  {
+   "id": "family",
+   "i": 13,
+   "text": "Send one, or send it to the whole family.",
+   "start": 37.09,
+   "end": 39.64,
+   "words": [
+    {
+     "w": "Send",
+     "start": 37.09,
+     "end": 37.39
+    },
+    {
+     "w": "one,",
+     "start": 37.39,
+     "end": 37.74
+    },
+    {
+     "w": "or",
+     "start": 37.815,
+     "end": 38.015
+    },
+    {
+     "w": "send",
+     "start": 38.015,
+     "end": 38.278
+    },
+    {
+     "w": "it",
+     "start": 38.278,
+     "end": 38.365
+    },
+    {
+     "w": "to",
+     "start": 38.365,
+     "end": 38.453
+    },
+    {
+     "w": "the",
+     "start": 38.453,
+     "end": 38.54
+    },
+    {
+     "w": "whole",
+     "start": 38.54,
+     "end": 38.803
+    },
+    {
+     "w": "family.",
+     "start": 38.803,
+     "end": 39.64
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "i": 14,
+   "text": "Follow it on a map, and get a ping when it lands.",
+   "start": 40.05,
+   "end": 42.975,
+   "words": [
+    {
+     "w": "Follow",
+     "start": 40.05,
+     "end": 40.363
+    },
+    {
+     "w": "it",
+     "start": 40.363,
+     "end": 40.438
+    },
+    {
+     "w": "on",
+     "start": 40.438,
+     "end": 40.538
+    },
+    {
+     "w": "a",
+     "start": 40.538,
+     "end": 40.6
+    },
+    {
+     "w": "map,",
+     "start": 40.6,
+     "end": 41.15
+    },
+    {
+     "w": "and",
+     "start": 41.25,
+     "end": 41.375
+    },
+    {
+     "w": "get",
+     "start": 41.375,
+     "end": 41.513
+    },
+    {
+     "w": "a",
+     "start": 41.513,
+     "end": 41.613
+    },
+    {
+     "w": "ping",
+     "start": 41.613,
+     "end": 41.938
+    },
+    {
+     "w": "when",
+     "start": 41.938,
+     "end": 42.063
+    },
+    {
+     "w": "it",
+     "start": 42.063,
+     "end": 42.15
+    },
+    {
+     "w": "lands.",
+     "start": 42.15,
+     "end": 42.975
+    }
+   ]
+  },
+  {
+   "id": "night",
+   "i": 15,
+   "text": "Last-minute person? Schedule cards weeks ahead.",
+   "start": 43.435,
+   "end": 46.71,
+   "words": [
+    {
+     "w": "Last-minute",
+     "start": 43.435,
+     "end": 44.06
+    },
+    {
+     "w": "person?",
+     "start": 44.06,
+     "end": 44.71
+    },
+    {
+     "w": "Schedule",
+     "start": 44.848,
+     "end": 45.298
+    },
+    {
+     "w": "cards",
+     "start": 45.298,
+     "end": 45.71
+    },
+    {
+     "w": "weeks",
+     "start": 45.71,
+     "end": 45.985
+    },
+    {
+     "w": "ahead.",
+     "start": 45.985,
+     "end": 46.71
+    }
+   ]
+  },
+  {
+   "id": "list",
+   "i": 16,
+   "text": "Birthdays. Thank yous. Grandparents. Long-distance friends. Or just because.",
+   "start": 47.22,
+   "end": 52.095,
+   "words": [
+    {
+     "w": "Birthdays.",
+     "start": 47.22,
+     "end": 47.82
+    },
+    {
+     "w": "Thank",
+     "start": 47.883,
+     "end": 48.17
+    },
+    {
+     "w": "yous.",
+     "start": 48.17,
+     "end": 48.42
+    },
+    {
+     "w": "Grandparents.",
+     "start": 48.508,
+     "end": 49.445
+    },
+    {
+     "w": "Long-distance",
+     "start": 49.558,
+     "end": 50.358
+    },
+    {
+     "w": "friends.",
+     "start": 50.358,
+     "end": 50.82
+    },
+    {
+     "w": "Or",
+     "start": 50.858,
+     "end": 50.995
+    },
+    {
+     "w": "just",
+     "start": 50.995,
+     "end": 51.22
+    },
+    {
+     "w": "because.",
+     "start": 51.22,
+     "end": 52.095
+    }
+   ]
+  },
+  {
+   "id": "gag3",
+   "i": 17,
+   "text": "Can I send one to myself?",
+   "start": 52.655,
+   "end": 54.655,
+   "words": [
+    {
+     "w": "Can",
+     "start": 52.655,
+     "end": 52.793
+    },
+    {
+     "w": "I",
+     "start": 52.793,
+     "end": 52.943
+    },
+    {
+     "w": "send",
+     "start": 52.943,
+     "end": 53.28
+    },
+    {
+     "w": "one",
+     "start": 53.28,
+     "end": 53.505
+    },
+    {
+     "w": "to",
+     "start": 53.505,
+     "end": 53.605
+    },
+    {
+     "w": "myself?",
+     "start": 53.605,
+     "end": 54.655
+    }
+   ]
+  },
+  {
+   "id": "judge",
+   "i": 18,
+   "text": "We won't judge.",
+   "start": 55.065,
+   "end": 56.19,
+   "words": [
+    {
+     "w": "We",
+     "start": 55.065,
+     "end": 55.24
+    },
+    {
+     "w": "won't",
+     "start": 55.24,
+     "end": 55.503
+    },
+    {
+     "w": "judge.",
+     "start": 55.503,
+     "end": 56.19
+    }
+   ]
+  },
+  {
+   "id": "finale",
+   "i": 19,
+   "text": "So go on. Make someone's mailbox the best part of their day.",
+   "start": 56.7,
+   "end": 60.75,
+   "words": [
+    {
+     "w": "So",
+     "start": 56.7,
+     "end": 56.875
+    },
+    {
+     "w": "go",
+     "start": 56.875,
+     "end": 57.125
+    },
+    {
+     "w": "on.",
+     "start": 57.125,
+     "end": 57.7
+    },
+    {
+     "w": "Make",
+     "start": 57.838,
+     "end": 58.088
+    },
+    {
+     "w": "someone's",
+     "start": 58.088,
+     "end": 58.538
+    },
+    {
+     "w": "mailbox",
+     "start": 58.538,
+     "end": 59.15
+    },
+    {
+     "w": "the",
+     "start": 59.15,
+     "end": 59.288
+    },
+    {
+     "w": "best",
+     "start": 59.288,
+     "end": 59.6
+    },
+    {
+     "w": "part",
+     "start": 59.6,
+     "end": 59.813
+    },
+    {
+     "w": "of",
+     "start": 59.813,
+     "end": 59.888
+    },
+    {
+     "w": "their",
+     "start": 59.888,
+     "end": 60.075
+    },
+    {
+     "w": "day.",
+     "start": 60.075,
+     "end": 60.75
+    }
+   ]
+  },
+  {
+   "id": "logo",
+   "i": 20,
+   "text": "Postpop. Real mail, from your phone.",
+   "start": 61.31,
+   "end": 63.835,
+   "words": [
+    {
+     "w": "Postpop.",
+     "start": 61.31,
+     "end": 61.985
+    },
+    {
+     "w": "Real",
+     "start": 62.073,
+     "end": 62.385
+    },
+    {
+     "w": "mail,",
+     "start": 62.385,
+     "end": 62.735
+    },
+    {
+     "w": "from",
+     "start": 62.785,
+     "end": 62.923
+    },
+    {
+     "w": "your",
+     "start": 62.923,
+     "end": 63.073
+    },
+    {
+     "w": "phone.",
+     "start": 63.073,
+     "end": 63.835
+    }
+   ]
+  }
+ ]
+}

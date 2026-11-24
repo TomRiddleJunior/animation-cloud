@@ -1,0 +1,7 @@
+{"voice": "af_heart", "speed": 1.0, "lead": 0.5, "tail": 3.0,
+ "lines": [
+  {"id": "hook", "text": "Your work is scattered across a dozen tools."},
+  {"id": "name", "text": "Fieldnote brings it into one calm feed.", "gap": 0.7},
+  {"id": "demo", "text": "Open it, click once, and you're caught up.", "gap": 0.6},
+  {"id": "cta",  "text": "Fieldnote. Try it free at fieldnote dot app.", "gap": 0.8}
+ ]}

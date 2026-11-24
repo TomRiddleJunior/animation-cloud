@@ -1,0 +1,3 @@
+{"preset": "lofi-piano", "bpm": 66, "key": 0,
+ "sections": [{"t": 0, "energy": 1}, {"t": 14.5, "energy": 0}],
+ "music_under_voice_db": -22, "duck_db": 6, "sfx_db": -8, "lufs": -21, "end_hit": true, "reverb": 0.4}

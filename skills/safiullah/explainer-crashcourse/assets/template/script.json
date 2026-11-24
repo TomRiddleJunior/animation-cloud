@@ -1,0 +1,8 @@
+{"voice": "am_michael", "speed": 1.38, "lead": 0.5, "tail": 1.2,
+ "lines": [
+  {"id": "intro", "text": "Octopuses have three hearts. Three! Let me explain."},
+  {"id": "cue", "text": "Let's go to the Daydream!", "gap": 0.15},
+  {"id": "story", "text": "Two hearts push blood through the gills, and the third pumps it around the rest of the body.", "gap": 2.3},
+  {"id": "signoff", "text": "Thanks, Daydream!", "gap": 0.2},
+  {"id": "outro", "text": "So yes, an octopus can literally have a change of heart.", "gap": 0.5}
+ ]}

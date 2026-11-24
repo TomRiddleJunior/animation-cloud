@@ -1,0 +1,25 @@
+{
+  "title": "my-film",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "output": "output",
+  "picture": "output/assembled.mov",
+  "audio": "output/mix.wav",
+  "grade": {
+    "contrast": 1.04,
+    "saturation": 1.04,
+    "curves": "0/0 0.25/0.23 0.75/0.78 1/1",
+    "colorbalance": "rs=-0.02:bs=0.03:rh=0.02:bh=-0.02",
+    "look": ""
+  },
+  "grain": 5,
+  "vignette": false,
+  "loudness": { "integrated": -14, "truePeak": -1 },
+  "deliveries": [
+    { "name": "16x9_1080p", "codec": "h264" },
+    { "name": "9x16_1080x1920", "codec": "h264", "source": "output/my-film_9x16_master.mov", "safeZone": "vertical" },
+    { "name": "1x1_1080", "codec": "h264", "source": "output/my-film_1x1_master.mov" },
+    { "name": "web_hero", "codec": "av1", "silent": true, "maxMb": 2.5 }
+  ]
+}

@@ -1,0 +1,16 @@
+{"voice": "af_heart", "speed": 1.1, "lead": 0.5, "tail": 0.6,
+ "lines": [
+  {"id": "hook",     "text": "On November 18th, 1883, clocks across America did something strange."},
+  {"id": "noon",     "text": "At noon, New York's clocks were set back about four minutes, and noon struck a second time.", "gap": 0.4},
+  {"id": "known",    "text": "It's remembered as the day of two noons. And the reason was the railroads.", "gap": 0.45},
+  {"id": "before",   "text": "Until then, most towns kept their own time: noon was when the sun stood highest.", "gap": 1.1},
+  {"id": "slide",    "text": "And because the Earth turns, noon slides west, four minutes for every degree of longitude.", "gap": 0.35},
+  {"id": "pitt",     "text": "Noon in Chicago was half past twelve in Pittsburgh.", "gap": 0.3},
+  {"id": "chaos",    "text": "For most people, that hardly mattered. But for railroads, it was chaos.", "gap": 0.55},
+  {"id": "clocks",   "text": "Each railroad kept its own time, and some stations hung a separate clock for every line.", "gap": 0.35},
+  {"id": "zones",    "text": "So the railroads fixed it themselves: four zones, one hour apart, measured from Greenwich, England.", "gap": 0.6},
+  {"id": "agree",    "text": "Inside a zone, every clock agreed. Cross a line, and the time jumped an hour.", "gap": 0.35},
+  {"id": "meridian", "text": "A year later, 25 nations met in Washington and chose Greenwich as the prime meridian.", "gap": 0.6},
+  {"id": "law",      "text": "But Congress didn't write standard time into law until 1918, thirty-five years after the trains.", "gap": 0.4},
+  {"id": "kicker",   "text": "The hour on your phone didn't start with the sun, or with Congress. It started with a train schedule.", "gap": 0.8}
+ ]}

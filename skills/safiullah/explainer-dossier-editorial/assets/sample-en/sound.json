@@ -1,0 +1,5 @@
+{"preset": "doc-pulse", "bpm": 96,
+ "sections": [{"t": 0, "energy": 1}, {"t": 3.1, "energy": 2}, {"t": 15.5, "energy": 3}, {"t": 16.85, "energy": 1},
+              {"t": 23.3, "energy": 2}, {"t": 38.2, "energy": 3}, {"t": 41.2, "energy": 2}, {"t": 57.5, "energy": 3},
+              {"t": 63.0, "energy": 2}, {"t": 78.4, "energy": 1}, {"t": 84.0, "energy": 2}, {"t": 88.35, "energy": 0}],
+ "music_under_voice_db": -14, "duck_db": 6, "sfx_db": -3, "lufs": -16, "end_hit": true, "reverb": 0.3}

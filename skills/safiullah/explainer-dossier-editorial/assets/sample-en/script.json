@@ -1,0 +1,79 @@
+{
+ "voice": "bm_george",
+ "speed": 1.12,
+ "lead": 0.9,
+ "tail": 4.2,
+ "lines": [
+  {
+   "id": "hook",
+   "text": "Twenty-one miles of water.",
+   "speed": 0.98
+  },
+  {
+   "id": "flow",
+   "text": "Before the war, about twenty million barrels of oil passed through it every day. A fifth of all the oil the world uses.",
+   "gap": 0.55
+  },
+  {
+   "id": "war",
+   "text": "On the twenty-eighth of February, the United States and Israel struck Iran.",
+   "gap": 0.7
+  },
+  {
+   "id": "radio",
+   "text": "Within hours, Iran's Revolutionary Guard was warning ships by radio. No passage.",
+   "gap": 0.35
+  },
+  {
+   "id": "brent",
+   "text": "By the eighth of March, Brent crude was above a hundred dollars a barrel, for the first time in four years. It peaked at one hundred and twenty-six.",
+   "gap": 0.7
+  },
+  {
+   "id": "truce",
+   "text": "A ceasefire in April. A memorandum signed in Islamabad in June.",
+   "gap": 0.7
+  },
+  {
+   "id": "void",
+   "text": "Each time, the strait closed again.",
+   "gap": 0.3
+  },
+  {
+   "id": "october",
+   "text": "This October, a ship has been struck there almost every day.",
+   "gap": 0.6
+  },
+  {
+   "id": "diesel",
+   "text": "At American pumps, diesel broke its all-time record on the fourth of September. Last week it averaged six dollars twenty-eight a gallon. Two dollars sixty-six more than a year ago.",
+   "gap": 0.75
+  },
+  {
+   "id": "trucks",
+   "text": "Diesel moves the trucks. So the price rides along with everything they carry.",
+   "gap": 0.45
+  },
+  {
+   "id": "ballot",
+   "text": "In one week, Americans vote for all four hundred and thirty-five House seats, and thirty-five in the Senate.",
+   "gap": 0.8
+  },
+  {
+   "id": "poll",
+   "text": "In a Reuters Ipsos poll, forty-nine percent named the cost of living as the single most important factor in their vote.",
+   "gap": 0.4
+  },
+  {
+   "id": "israel",
+   "text": "And today, Israel votes. Its first election since the war began.",
+   "gap": 0.7
+  },
+  {
+   "id": "close",
+   "text": "Twenty-one miles of water. And the bill arrives at the ballot box.",
+   "gap": 0.9,
+   "speed": 1.0
+  }
+ ]
+}

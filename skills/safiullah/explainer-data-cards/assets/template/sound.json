@@ -1,0 +1,2 @@
+{"preset": "doc-pulse", "bpm": 96, "sections": [{"t": 0, "energy": 1}, {"t": 5, "energy": 2}, {"t": 14.5, "energy": 0}],
+ "end_hit": false, "music_under_voice_db": -15, "sfx_db": -9, "lufs": -14}

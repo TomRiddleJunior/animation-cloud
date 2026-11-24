@@ -1,0 +1,842 @@
+{
+ "duration": 57.695,
+ "voice": "af_heart",
+ "words": 145,
+ "wpm_overall": 150.8,
+ "wpm_speech": 183.6,
+ "lines": [
+  {
+   "id": "hook",
+   "i": 0,
+   "text": "Meet Maya. She draws beautiful things for a living.",
+   "start": 0.96,
+   "end": 4.06,
+   "words": [
+    {
+     "w": "Meet",
+     "start": 0.96,
+     "end": 1.21
+    },
+    {
+     "w": "Maya.",
+     "start": 1.21,
+     "end": 1.785
+    },
+    {
+     "w": "She",
+     "start": 1.922,
+     "end": 2.06
+    },
+    {
+     "w": "draws",
+     "start": 2.06,
+     "end": 2.422
+    },
+    {
+     "w": "beautiful",
+     "start": 2.422,
+     "end": 2.847
+    },
+    {
+     "w": "things",
+     "start": 2.847,
+     "end": 3.21
+    },
+    {
+     "w": "for",
+     "start": 3.21,
+     "end": 3.322
+    },
+    {
+     "w": "a",
+     "start": 3.322,
+     "end": 3.385
+    },
+    {
+     "w": "living.",
+     "start": 3.385,
+     "end": 4.06
+    }
+   ]
+  },
+  {
+   "id": "problem",
+   "i": 1,
+   "text": "But the hardest part of her week isn't the drawing. It's getting paid.",
+   "start": 4.77,
+   "end": 8.62,
+   "words": [
+    {
+     "w": "But",
+     "start": 4.77,
+     "end": 4.883
+    },
+    {
+     "w": "the",
+     "start": 4.883,
+     "end": 5.008
+    },
+    {
+     "w": "hardest",
+     "start": 5.008,
+     "end": 5.445
+    },
+    {
+     "w": "part",
+     "start": 5.445,
+     "end": 5.658
+    },
+    {
+     "w": "of",
+     "start": 5.658,
+     "end": 5.733
+    },
+    {
+     "w": "her",
+     "start": 5.733,
+     "end": 5.87
+    },
+    {
+     "w": "week",
+     "start": 5.87,
+     "end": 6.158
+    },
+    {
+     "w": "isn't",
+     "start": 6.158,
+     "end": 6.433
+    },
+    {
+     "w": "the",
+     "start": 6.433,
+     "end": 6.52
+    },
+    {
+     "w": "drawing.",
+     "start": 6.52,
+     "end": 7.22
+    },
+    {
+     "w": "It's",
+     "start": 7.345,
+     "end": 7.595
+    },
+    {
+     "w": "getting",
+     "start": 7.595,
+     "end": 7.92
+    },
+    {
+     "w": "paid.",
+     "start": 7.92,
+     "end": 8.62
+    }
+   ]
+  },
+  {
+   "id": "pains",
+   "i": 2,
+   "text": "Which invoices went out? Who's running late? And is it awkward to ask again?",
+   "start": 9.33,
+   "end": 13.88,
+   "words": [
+    {
+     "w": "Which",
+     "start": 9.33,
+     "end": 9.543
+    },
+    {
+     "w": "invoices",
+     "start": 9.543,
+     "end": 10.13
+    },
+    {
+     "w": "went",
+     "start": 10.13,
+     "end": 10.305
+    },
+    {
+     "w": "out?",
+     "start": 10.305,
+     "end": 10.705
+    },
+    {
+     "w": "Who's",
+     "start": 10.818,
+     "end": 11.08
+    },
+    {
+     "w": "running",
+     "start": 11.08,
+     "end": 11.405
+    },
+    {
+     "w": "late?",
+     "start": 11.405,
+     "end": 11.98
+    },
+    {
+     "w": "And",
+     "start": 12.08,
+     "end": 12.23
+    },
+    {
+     "w": "is",
+     "start": 12.23,
+     "end": 12.355
+    },
+    {
+     "w": "it",
+     "start": 12.355,
+     "end": 12.468
+    },
+    {
+     "w": "awkward",
+     "start": 12.468,
+     "end": 12.805
+    },
+    {
+     "w": "to",
+     "start": 12.805,
+     "end": 12.93
+    },
+    {
+     "w": "ask",
+     "start": 12.93,
+     "end": 13.205
+    },
+    {
+     "w": "again?",
+     "start": 13.205,
+     "end": 13.88
+    }
+   ]
+  },
+  {
+   "id": "flock",
+   "i": 3,
+   "text": "Her invoices act like a flock of sheep. They wander off, and Maya spends her evenings chasing them.",
+   "start": 14.64,
+   "end": 20.615,
+   "words": [
+    {
+     "w": "Her",
+     "start": 14.64,
+     "end": 14.79
+    },
+    {
+     "w": "invoices",
+     "start": 14.79,
+     "end": 15.465
+    },
+    {
+     "w": "act",
+     "start": 15.465,
+     "end": 15.79
+    },
+    {
+     "w": "like",
+     "start": 15.79,
+     "end": 15.953
+    },
+    {
+     "w": "a",
+     "start": 15.953,
+     "end": 16.028
+    },
+    {
+     "w": "flock",
+     "start": 16.028,
+     "end": 16.303
+    },
+    {
+     "w": "of",
+     "start": 16.303,
+     "end": 16.428
+    },
+    {
+     "w": "sheep.",
+     "start": 16.428,
+     "end": 17.115
+    },
+    {
+     "w": "They",
+     "start": 17.24,
+     "end": 17.415
+    },
+    {
+     "w": "wander",
+     "start": 17.415,
+     "end": 17.79
+    },
+    {
+     "w": "off,",
+     "start": 17.79,
+     "end": 18.24
+    },
+    {
+     "w": "and",
+     "start": 18.315,
+     "end": 18.44
+    },
+    {
+     "w": "Maya",
+     "start": 18.44,
+     "end": 18.765
+    },
+    {
+     "w": "spends",
+     "start": 18.765,
+     "end": 19.028
+    },
+    {
+     "w": "her",
+     "start": 19.028,
+     "end": 19.165
+    },
+    {
+     "w": "evenings",
+     "start": 19.165,
+     "end": 19.678
+    },
+    {
+     "w": "chasing",
+     "start": 19.678,
+     "end": 20.09
+    },
+    {
+     "w": "them.",
+     "start": 20.09,
+     "end": 20.615
+    }
+   ]
+  },
+  {
+   "id": "pivot",
+   "i": 4,
+   "text": "So what if someone else did the chasing? Meet Tallypup.",
+   "start": 21.525,
+   "end": 24.775,
+   "words": [
+    {
+     "w": "So",
+     "start": 21.525,
+     "end": 21.7
+    },
+    {
+     "w": "what",
+     "start": 21.7,
+     "end": 21.838
+    },
+    {
+     "w": "if",
+     "start": 21.838,
+     "end": 21.95
+    },
+    {
+     "w": "someone",
+     "start": 21.95,
+     "end": 22.188
+    },
+    {
+     "w": "else",
+     "start": 22.188,
+     "end": 22.425
+    },
+    {
+     "w": "did",
+     "start": 22.425,
+     "end": 22.563
+    },
+    {
+     "w": "the",
+     "start": 22.563,
+     "end": 22.663
+    },
+    {
+     "w": "chasing?",
+     "start": 22.663,
+     "end": 23.45
+    },
+    {
+     "w": "Meet",
+     "start": 23.6,
+     "end": 23.913
+    },
+    {
+     "w": "Tallypup.",
+     "start": 23.913,
+     "end": 24.775
+    }
+   ]
+  },
+  {
+   "id": "send",
+   "i": 5,
+   "text": "Tallypup sends each invoice the moment the work is done,",
+   "start": 25.585,
+   "end": 28.785,
+   "words": [
+    {
+     "w": "Tallypup",
+     "start": 25.585,
+     "end": 26.11
+    },
+    {
+     "w": "sends",
+     "start": 26.11,
+     "end": 26.51
+    },
+    {
+     "w": "each",
+     "start": 26.51,
+     "end": 26.885
+    },
+    {
+     "w": "invoice",
+     "start": 26.885,
+     "end": 27.335
+    },
+    {
+     "w": "the",
+     "start": 27.335,
+     "end": 27.435
+    },
+    {
+     "w": "moment",
+     "start": 27.435,
+     "end": 27.723
+    },
+    {
+     "w": "the",
+     "start": 27.723,
+     "end": 27.81
+    },
+    {
+     "w": "work",
+     "start": 27.81,
+     "end": 28.06
+    },
+    {
+     "w": "is",
+     "start": 28.06,
+     "end": 28.21
+    },
+    {
+     "w": "done,",
+     "start": 28.21,
+     "end": 28.785
+    }
+   ]
+  },
+  {
+   "id": "nudge",
+   "i": 6,
+   "text": "follows up with friendly reminders, so Maya never has to,",
+   "start": 29.295,
+   "end": 32.795,
+   "words": [
+    {
+     "w": "follows",
+     "start": 29.295,
+     "end": 29.633
+    },
+    {
+     "w": "up",
+     "start": 29.633,
+     "end": 29.808
+    },
+    {
+     "w": "with",
+     "start": 29.808,
+     "end": 29.983
+    },
+    {
+     "w": "friendly",
+     "start": 29.983,
+     "end": 30.37
+    },
+    {
+     "w": "reminders,",
+     "start": 30.37,
+     "end": 31.22
+    },
+    {
+     "w": "so",
+     "start": 31.333,
+     "end": 31.545
+    },
+    {
+     "w": "Maya",
+     "start": 31.545,
+     "end": 31.82
+    },
+    {
+     "w": "never",
+     "start": 31.82,
+     "end": 32.095
+    },
+    {
+     "w": "has",
+     "start": 32.095,
+     "end": 32.358
+    },
+    {
+     "w": "to,",
+     "start": 32.358,
+     "end": 32.795
+    }
+   ]
+  },
+  {
+   "id": "pay",
+   "i": 7,
+   "text": "and lets clients pay in a single tap.",
+   "start": 33.305,
+   "end": 35.505,
+   "words": [
+    {
+     "w": "and",
+     "start": 33.305,
+     "end": 33.393
+    },
+    {
+     "w": "lets",
+     "start": 33.393,
+     "end": 33.63
+    },
+    {
+     "w": "clients",
+     "start": 33.63,
+     "end": 34.055
+    },
+    {
+     "w": "pay",
+     "start": 34.055,
+     "end": 34.33
+    },
+    {
+     "w": "in",
+     "start": 34.33,
+     "end": 34.418
+    },
+    {
+     "w": "a",
+     "start": 34.418,
+     "end": 34.518
+    },
+    {
+     "w": "single",
+     "start": 34.518,
+     "end": 34.88
+    },
+    {
+     "w": "tap.",
+     "start": 34.88,
+     "end": 35.505
+    }
+   ]
+  },
+  {
+   "id": "dash",
+   "i": 8,
+   "text": "Every payment lands in one tidy dashboard, so she always knows where she stands.",
+   "start": 36.215,
+   "end": 41.265,
+   "words": [
+    {
+     "w": "Every",
+     "start": 36.215,
+     "end": 36.515
+    },
+    {
+     "w": "payment",
+     "start": 36.515,
+     "end": 36.865
+    },
+    {
+     "w": "lands",
+     "start": 36.865,
+     "end": 37.265
+    },
+    {
+     "w": "in",
+     "start": 37.265,
+     "end": 37.415
+    },
+    {
+     "w": "one",
+     "start": 37.415,
+     "end": 37.678
+    },
+    {
+     "w": "tidy",
+     "start": 37.678,
+     "end": 38.015
+    },
+    {
+     "w": "dashboard,",
+     "start": 38.015,
+     "end": 38.915
+    },
+    {
+     "w": "so",
+     "start": 39.04,
+     "end": 39.215
+    },
+    {
+     "w": "she",
+     "start": 39.215,
+     "end": 39.377
+    },
+    {
+     "w": "always",
+     "start": 39.377,
+     "end": 39.79
+    },
+    {
+     "w": "knows",
+     "start": 39.79,
+     "end": 40.152
+    },
+    {
+     "w": "where",
+     "start": 40.152,
+     "end": 40.315
+    },
+    {
+     "w": "she",
+     "start": 40.315,
+     "end": 40.465
+    },
+    {
+     "w": "stands.",
+     "start": 40.465,
+     "end": 41.265
+    }
+   ]
+  },
+  {
+   "id": "home",
+   "i": 9,
+   "text": "Now the flock comes home on its own, and Maya gets her evenings back.",
+   "start": 42.075,
+   "end": 46.0,
+   "words": [
+    {
+     "w": "Now",
+     "start": 42.075,
+     "end": 42.3
+    },
+    {
+     "w": "the",
+     "start": 42.3,
+     "end": 42.413
+    },
+    {
+     "w": "flock",
+     "start": 42.413,
+     "end": 42.725
+    },
+    {
+     "w": "comes",
+     "start": 42.725,
+     "end": 42.975
+    },
+    {
+     "w": "home",
+     "start": 42.975,
+     "end": 43.212
+    },
+    {
+     "w": "on",
+     "start": 43.212,
+     "end": 43.312
+    },
+    {
+     "w": "its",
+     "start": 43.312,
+     "end": 43.475
+    },
+    {
+     "w": "own,",
+     "start": 43.475,
+     "end": 44.025
+    },
+    {
+     "w": "and",
+     "start": 44.125,
+     "end": 44.25
+    },
+    {
+     "w": "Maya",
+     "start": 44.25,
+     "end": 44.575
+    },
+    {
+     "w": "gets",
+     "start": 44.575,
+     "end": 44.788
+    },
+    {
+     "w": "her",
+     "start": 44.788,
+     "end": 44.925
+    },
+    {
+     "w": "evenings",
+     "start": 44.925,
+     "end": 45.375
+    },
+    {
+     "w": "back.",
+     "start": 45.375,
+     "end": 46.0
+    }
+   ]
+  },
+  {
+   "id": "proof",
+   "i": 10,
+   "text": "Freelancers everywhere are spending less time on admin, and more time on the work they love.",
+   "start": 46.76,
+   "end": 51.935,
+   "words": [
+    {
+     "w": "Freelancers",
+     "start": 46.76,
+     "end": 47.51
+    },
+    {
+     "w": "everywhere",
+     "start": 47.51,
+     "end": 47.96
+    },
+    {
+     "w": "are",
+     "start": 47.96,
+     "end": 48.06
+    },
+    {
+     "w": "spending",
+     "start": 48.06,
+     "end": 48.46
+    },
+    {
+     "w": "less",
+     "start": 48.46,
+     "end": 48.685
+    },
+    {
+     "w": "time",
+     "start": 48.685,
+     "end": 48.948
+    },
+    {
+     "w": "on",
+     "start": 48.948,
+     "end": 49.11
+    },
+    {
+     "w": "admin,",
+     "start": 49.11,
+     "end": 49.835
+    },
+    {
+     "w": "and",
+     "start": 49.948,
+     "end": 50.085
+    },
+    {
+     "w": "more",
+     "start": 50.085,
+     "end": 50.31
+    },
+    {
+     "w": "time",
+     "start": 50.31,
+     "end": 50.598
+    },
+    {
+     "w": "on",
+     "start": 50.598,
+     "end": 50.698
+    },
+    {
+     "w": "the",
+     "start": 50.698,
+     "end": 50.785
+    },
+    {
+     "w": "work",
+     "start": 50.785,
+     "end": 51.06
+    },
+    {
+     "w": "they",
+     "start": 51.06,
+     "end": 51.235
+    },
+    {
+     "w": "love.",
+     "start": 51.235,
+     "end": 51.935
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "i": 11,
+   "text": "Tallypup. Invoices that come home. Try it free today.",
+   "start": 52.745,
+   "end": 56.345,
+   "words": [
+    {
+     "w": "Tallypup.",
+     "start": 52.745,
+     "end": 53.42
+    },
+    {
+     "w": "Invoices",
+     "start": 53.52,
+     "end": 54.133
+    },
+    {
+     "w": "that",
+     "start": 54.133,
+     "end": 54.27
+    },
+    {
+     "w": "come",
+     "start": 54.27,
+     "end": 54.47
+    },
+    {
+     "w": "home.",
+     "start": 54.47,
+     "end": 55.02
+    },
+    {
+     "w": "Try",
+     "start": 55.158,
+     "end": 55.408
+    },
+    {
+     "w": "it",
+     "start": 55.408,
+     "end": 55.495
+    },
+    {
+     "w": "free",
+     "start": 55.495,
+     "end": 55.72
+    },
+    {
+     "w": "today.",
+     "start": 55.72,
+     "end": 56.345
+    }
+   ]
+  }
+ ]
+}

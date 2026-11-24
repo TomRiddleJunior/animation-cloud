@@ -1,0 +1,6 @@
+{"voice": "am_puck", "speed": 1.28, "lead": 0.4, "tail": 1.4, "gap": 0.06,
+ "lines": [
+  {"id": "hook", "text": "Imagine you're stranded on a tiny raft, and the only drink for miles is the ocean."},
+  {"id": "rung", "text": "Problem one: seawater is about three and a half percent salt.", "gap": 0.12},
+  {"id": "joke", "text": "Your kidneys can't keep up, so every sip makes you thirstier. Great deal."}
+ ]}

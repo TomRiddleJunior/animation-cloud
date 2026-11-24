@@ -1,0 +1,1310 @@
+{
+ "duration": 72.065,
+ "voice": "am_michael",
+ "words": 235,
+ "wpm_overall": 195.7,
+ "wpm_speech": 228.1,
+ "lines": [
+  {
+   "id": "hostA",
+   "i": 0,
+   "text": "So, how big is the Earth? Over two thousand years ago, one guy measured it. With a stick.",
+   "start": 0.56,
+   "end": 4.41,
+   "words": [
+    {
+     "w": "So,",
+     "start": 0.56,
+     "end": 0.66
+    },
+    {
+     "w": "how",
+     "start": 0.698,
+     "end": 0.86
+    },
+    {
+     "w": "big",
+     "start": 0.86,
+     "end": 1.047
+    },
+    {
+     "w": "is",
+     "start": 1.047,
+     "end": 1.122
+    },
+    {
+     "w": "the",
+     "start": 1.122,
+     "end": 1.21
+    },
+    {
+     "w": "Earth?",
+     "start": 1.21,
+     "end": 1.635
+    },
+    {
+     "w": "Over",
+     "start": 1.735,
+     "end": 1.91
+    },
+    {
+     "w": "two",
+     "start": 1.91,
+     "end": 2.085
+    },
+    {
+     "w": "thousand",
+     "start": 2.085,
+     "end": 2.373
+    },
+    {
+     "w": "years",
+     "start": 2.373,
+     "end": 2.573
+    },
+    {
+     "w": "ago,",
+     "start": 2.573,
+     "end": 2.735
+    },
+    {
+     "w": "one",
+     "start": 2.785,
+     "end": 2.923
+    },
+    {
+     "w": "guy",
+     "start": 2.923,
+     "end": 3.085
+    },
+    {
+     "w": "measured",
+     "start": 3.085,
+     "end": 3.373
+    },
+    {
+     "w": "it.",
+     "start": 3.373,
+     "end": 3.635
+    },
+    {
+     "w": "With",
+     "start": 3.698,
+     "end": 3.822
+    },
+    {
+     "w": "a",
+     "start": 3.822,
+     "end": 3.897
+    },
+    {
+     "w": "stick.",
+     "start": 3.897,
+     "end": 4.41
+    }
+   ]
+  },
+  {
+   "id": "cue",
+   "i": 1,
+   "text": "Let's go to the Daydream!",
+   "start": 4.77,
+   "end": 5.945,
+   "words": [
+    {
+     "w": "Let's",
+     "start": 4.77,
+     "end": 4.907
+    },
+    {
+     "w": "go",
+     "start": 4.907,
+     "end": 5.057
+    },
+    {
+     "w": "to",
+     "start": 5.057,
+     "end": 5.132
+    },
+    {
+     "w": "the",
+     "start": 5.132,
+     "end": 5.22
+    },
+    {
+     "w": "Daydream!",
+     "start": 5.22,
+     "end": 5.945
+    }
+   ]
+  },
+  {
+   "id": "s1a",
+   "i": 2,
+   "text": "It's around two hundred forty B.C. in Alexandria, Egypt, and Eratosthenes runs the greatest library on Earth.",
+   "start": 8.455,
+   "end": 13.93,
+   "words": [
+    {
+     "w": "It's",
+     "start": 8.455,
+     "end": 8.568
+    },
+    {
+     "w": "around",
+     "start": 8.568,
+     "end": 8.83
+    },
+    {
+     "w": "two",
+     "start": 8.83,
+     "end": 8.943
+    },
+    {
+     "w": "hundred",
+     "start": 8.943,
+     "end": 9.18
+    },
+    {
+     "w": "forty",
+     "start": 9.18,
+     "end": 9.43
+    },
+    {
+     "w": "B.C.",
+     "start": 9.43,
+     "end": 9.843
+    },
+    {
+     "w": "in",
+     "start": 9.843,
+     "end": 9.93
+    },
+    {
+     "w": "Alexandria,",
+     "start": 9.93,
+     "end": 10.655
+    },
+    {
+     "w": "Egypt,",
+     "start": 10.755,
+     "end": 11.305
+    },
+    {
+     "w": "and",
+     "start": 11.38,
+     "end": 11.505
+    },
+    {
+     "w": "Eratosthenes",
+     "start": 11.505,
+     "end": 12.255
+    },
+    {
+     "w": "runs",
+     "start": 12.255,
+     "end": 12.492
+    },
+    {
+     "w": "the",
+     "start": 12.492,
+     "end": 12.58
+    },
+    {
+     "w": "greatest",
+     "start": 12.58,
+     "end": 12.93
+    },
+    {
+     "w": "library",
+     "start": 12.93,
+     "end": 13.318
+    },
+    {
+     "w": "on",
+     "start": 13.318,
+     "end": 13.43
+    },
+    {
+     "w": "Earth.",
+     "start": 13.43,
+     "end": 13.93
+    }
+   ]
+  },
+  {
+   "id": "s1b",
+   "i": 3,
+   "text": "He's good at so much that people nickname him Beta. As in: second best at everything.",
+   "start": 14.34,
+   "end": 18.465,
+   "words": [
+    {
+     "w": "He's",
+     "start": 14.34,
+     "end": 14.477
+    },
+    {
+     "w": "good",
+     "start": 14.477,
+     "end": 14.602
+    },
+    {
+     "w": "at",
+     "start": 14.602,
+     "end": 14.702
+    },
+    {
+     "w": "so",
+     "start": 14.702,
+     "end": 14.89
+    },
+    {
+     "w": "much",
+     "start": 14.89,
+     "end": 15.102
+    },
+    {
+     "w": "that",
+     "start": 15.102,
+     "end": 15.202
+    },
+    {
+     "w": "people",
+     "start": 15.202,
+     "end": 15.415
+    },
+    {
+     "w": "nickname",
+     "start": 15.415,
+     "end": 15.727
+    },
+    {
+     "w": "him",
+     "start": 15.727,
+     "end": 15.865
+    },
+    {
+     "w": "Beta.",
+     "start": 15.865,
+     "end": 16.34
+    },
+    {
+     "w": "As",
+     "start": 16.477,
+     "end": 16.765
+    },
+    {
+     "w": "in:",
+     "start": 16.765,
+     "end": 17.115
+    },
+    {
+     "w": "second",
+     "start": 17.227,
+     "end": 17.49
+    },
+    {
+     "w": "best",
+     "start": 17.49,
+     "end": 17.727
+    },
+    {
+     "w": "at",
+     "start": 17.727,
+     "end": 17.815
+    },
+    {
+     "w": "everything.",
+     "start": 17.815,
+     "end": 18.465
+    }
+   ]
+  },
+  {
+   "id": "s1c",
+   "i": 4,
+   "text": "Rude. But fair.",
+   "start": 19.075,
+   "end": 19.975,
+   "words": [
+    {
+     "w": "Rude.",
+     "start": 19.075,
+     "end": 19.275
+    },
+    {
+     "w": "But",
+     "start": 19.312,
+     "end": 19.462
+    },
+    {
+     "w": "fair.",
+     "start": 19.462,
+     "end": 19.975
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "i": 5,
+   "text": "He hears that down south in [Syene](/sIˈini/), at noon on the longest day of the year, the sun shines straight down a well. No shadows.",
+   "start": 20.485,
+   "end": 26.135,
+   "words": [
+    {
+     "w": "He",
+     "start": 20.485,
+     "end": 20.585
+    },
+    {
+     "w": "hears",
+     "start": 20.585,
+     "end": 20.797
+    },
+    {
+     "w": "that",
+     "start": 20.797,
+     "end": 20.91
+    },
+    {
+     "w": "down",
+     "start": 20.91,
+     "end": 21.135
+    },
+    {
+     "w": "south",
+     "start": 21.135,
+     "end": 21.347
+    },
+    {
+     "w": "in",
+     "start": 21.347,
+     "end": 21.435
+    },
+    {
+     "w": "Syene,",
+     "start": 21.435,
+     "end": 21.835
+    },
+    {
+     "w": "at",
+     "start": 21.885,
+     "end": 21.985
+    },
+    {
+     "w": "noon",
+     "start": 21.985,
+     "end": 22.222
+    },
+    {
+     "w": "on",
+     "start": 22.222,
+     "end": 22.322
+    },
+    {
+     "w": "the",
+     "start": 22.322,
+     "end": 22.41
+    },
+    {
+     "w": "longest",
+     "start": 22.41,
+     "end": 22.697
+    },
+    {
+     "w": "day",
+     "start": 22.697,
+     "end": 22.822
+    },
+    {
+     "w": "of",
+     "start": 22.822,
+     "end": 22.897
+    },
+    {
+     "w": "the",
+     "start": 22.897,
+     "end": 22.985
+    },
+    {
+     "w": "year,",
+     "start": 22.985,
+     "end": 23.41
+    },
+    {
+     "w": "the",
+     "start": 23.472,
+     "end": 23.56
+    },
+    {
+     "w": "sun",
+     "start": 23.56,
+     "end": 23.797
+    },
+    {
+     "w": "shines",
+     "start": 23.797,
+     "end": 24.085
+    },
+    {
+     "w": "straight",
+     "start": 24.085,
+     "end": 24.347
+    },
+    {
+     "w": "down",
+     "start": 24.347,
+     "end": 24.497
+    },
+    {
+     "w": "a",
+     "start": 24.497,
+     "end": 24.56
+    },
+    {
+     "w": "well.",
+     "start": 24.56,
+     "end": 25.085
+    },
+    {
+     "w": "No",
+     "start": 25.222,
+     "end": 25.422
+    },
+    {
+     "w": "shadows.",
+     "start": 25.422,
+     "end": 26.135
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "i": 6,
+   "text": "But back in Alexandria, same day, same noon, a stick in the ground does cast a shadow. About seven degrees.",
+   "start": 26.545,
+   "end": 31.62,
+   "words": [
+    {
+     "w": "But",
+     "start": 26.545,
+     "end": 26.657
+    },
+    {
+     "w": "back",
+     "start": 26.657,
+     "end": 26.857
+    },
+    {
+     "w": "in",
+     "start": 26.857,
+     "end": 26.932
+    },
+    {
+     "w": "Alexandria,",
+     "start": 26.932,
+     "end": 27.445
+    },
+    {
+     "w": "same",
+     "start": 27.495,
+     "end": 27.682
+    },
+    {
+     "w": "day,",
+     "start": 27.682,
+     "end": 27.92
+    },
+    {
+     "w": "same",
+     "start": 27.995,
+     "end": 28.195
+    },
+    {
+     "w": "noon,",
+     "start": 28.195,
+     "end": 28.57
+    },
+    {
+     "w": "a",
+     "start": 28.645,
+     "end": 28.72
+    },
+    {
+     "w": "stick",
+     "start": 28.72,
+     "end": 28.907
+    },
+    {
+     "w": "in",
+     "start": 28.907,
+     "end": 28.982
+    },
+    {
+     "w": "the",
+     "start": 28.982,
+     "end": 29.057
+    },
+    {
+     "w": "ground",
+     "start": 29.057,
+     "end": 29.345
+    },
+    {
+     "w": "does",
+     "start": 29.345,
+     "end": 29.545
+    },
+    {
+     "w": "cast",
+     "start": 29.545,
+     "end": 29.782
+    },
+    {
+     "w": "a",
+     "start": 29.782,
+     "end": 29.857
+    },
+    {
+     "w": "shadow.",
+     "start": 29.857,
+     "end": 30.395
+    },
+    {
+     "w": "About",
+     "start": 30.52,
+     "end": 30.732
+    },
+    {
+     "w": "seven",
+     "start": 30.732,
+     "end": 30.932
+    },
+    {
+     "w": "degrees.",
+     "start": 30.932,
+     "end": 31.62
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "i": 7,
+   "text": "The sun is so far away that its rays arrive basically parallel. So on a flat Earth, both shadows would match. They don't. The ground curves.",
+   "start": 32.08,
+   "end": 38.73,
+   "words": [
+    {
+     "w": "The",
+     "start": 32.08,
+     "end": 32.167
+    },
+    {
+     "w": "sun",
+     "start": 32.167,
+     "end": 32.367
+    },
+    {
+     "w": "is",
+     "start": 32.367,
+     "end": 32.455
+    },
+    {
+     "w": "so",
+     "start": 32.455,
+     "end": 32.63
+    },
+    {
+     "w": "far",
+     "start": 32.63,
+     "end": 32.792
+    },
+    {
+     "w": "away",
+     "start": 32.792,
+     "end": 33.042
+    },
+    {
+     "w": "that",
+     "start": 33.042,
+     "end": 33.142
+    },
+    {
+     "w": "its",
+     "start": 33.142,
+     "end": 33.255
+    },
+    {
+     "w": "rays",
+     "start": 33.255,
+     "end": 33.542
+    },
+    {
+     "w": "arrive",
+     "start": 33.542,
+     "end": 33.78
+    },
+    {
+     "w": "basically",
+     "start": 33.78,
+     "end": 34.13
+    },
+    {
+     "w": "parallel.",
+     "start": 34.13,
+     "end": 34.855
+    },
+    {
+     "w": "So",
+     "start": 34.968,
+     "end": 35.142
+    },
+    {
+     "w": "on",
+     "start": 35.142,
+     "end": 35.242
+    },
+    {
+     "w": "a",
+     "start": 35.242,
+     "end": 35.305
+    },
+    {
+     "w": "flat",
+     "start": 35.305,
+     "end": 35.53
+    },
+    {
+     "w": "Earth,",
+     "start": 35.53,
+     "end": 35.78
+    },
+    {
+     "w": "both",
+     "start": 35.855,
+     "end": 36.093
+    },
+    {
+     "w": "shadows",
+     "start": 36.093,
+     "end": 36.417
+    },
+    {
+     "w": "would",
+     "start": 36.417,
+     "end": 36.517
+    },
+    {
+     "w": "match.",
+     "start": 36.517,
+     "end": 36.98
+    },
+    {
+     "w": "They",
+     "start": 37.08,
+     "end": 37.205
+    },
+    {
+     "w": "don't.",
+     "start": 37.205,
+     "end": 37.63
+    },
+    {
+     "w": "The",
+     "start": 37.73,
+     "end": 37.83
+    },
+    {
+     "w": "ground",
+     "start": 37.83,
+     "end": 38.105
+    },
+    {
+     "w": "curves.",
+     "start": 38.105,
+     "end": 38.73
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "i": 8,
+   "text": "Seven degrees is about one fiftieth of a circle, so [Syene](/sIˈini/) to Alexandria is one fiftieth of the way around the planet.",
+   "start": 39.14,
+   "end": 44.965,
+   "words": [
+    {
+     "w": "Seven",
+     "start": 39.14,
+     "end": 39.302
+    },
+    {
+     "w": "degrees",
+     "start": 39.302,
+     "end": 39.74
+    },
+    {
+     "w": "is",
+     "start": 39.74,
+     "end": 39.827
+    },
+    {
+     "w": "about",
+     "start": 39.827,
+     "end": 40.015
+    },
+    {
+     "w": "one",
+     "start": 40.015,
+     "end": 40.227
+    },
+    {
+     "w": "fiftieth",
+     "start": 40.227,
+     "end": 40.577
+    },
+    {
+     "w": "of",
+     "start": 40.577,
+     "end": 40.652
+    },
+    {
+     "w": "a",
+     "start": 40.652,
+     "end": 40.727
+    },
+    {
+     "w": "circle,",
+     "start": 40.727,
+     "end": 41.265
+    },
+    {
+     "w": "so",
+     "start": 41.365,
+     "end": 41.577
+    },
+    {
+     "w": "Syene",
+     "start": 41.577,
+     "end": 41.99
+    },
+    {
+     "w": "to",
+     "start": 41.99,
+     "end": 42.115
+    },
+    {
+     "w": "Alexandria",
+     "start": 42.115,
+     "end": 42.877
+    },
+    {
+     "w": "is",
+     "start": 42.877,
+     "end": 43.027
+    },
+    {
+     "w": "one",
+     "start": 43.027,
+     "end": 43.252
+    },
+    {
+     "w": "fiftieth",
+     "start": 43.252,
+     "end": 43.602
+    },
+    {
+     "w": "of",
+     "start": 43.602,
+     "end": 43.677
+    },
+    {
+     "w": "the",
+     "start": 43.677,
+     "end": 43.765
+    },
+    {
+     "w": "way",
+     "start": 43.765,
+     "end": 44.015
+    },
+    {
+     "w": "around",
+     "start": 44.015,
+     "end": 44.277
+    },
+    {
+     "w": "the",
+     "start": 44.277,
+     "end": 44.365
+    },
+    {
+     "w": "planet.",
+     "start": 44.365,
+     "end": 44.965
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "i": 9,
+   "text": "How far is that? About five thousand stadia, according to the people who walked it. Ancient GPS was just a guy. Walking. For weeks.",
+   "start": 45.425,
+   "end": 51.925,
+   "words": [
+    {
+     "w": "How",
+     "start": 45.425,
+     "end": 45.575
+    },
+    {
+     "w": "far",
+     "start": 45.575,
+     "end": 45.762
+    },
+    {
+     "w": "is",
+     "start": 45.762,
+     "end": 45.837
+    },
+    {
+     "w": "that?",
+     "start": 45.837,
+     "end": 46.25
+    },
+    {
+     "w": "About",
+     "start": 46.325,
+     "end": 46.537
+    },
+    {
+     "w": "five",
+     "start": 46.537,
+     "end": 46.8
+    },
+    {
+     "w": "thousand",
+     "start": 46.8,
+     "end": 47.1
+    },
+    {
+     "w": "stadia,",
+     "start": 47.1,
+     "end": 47.475
+    },
+    {
+     "w": "according",
+     "start": 47.512,
+     "end": 47.762
+    },
+    {
+     "w": "to",
+     "start": 47.762,
+     "end": 47.837
+    },
+    {
+     "w": "the",
+     "start": 47.837,
+     "end": 47.912
+    },
+    {
+     "w": "people",
+     "start": 47.912,
+     "end": 48.112
+    },
+    {
+     "w": "who",
+     "start": 48.112,
+     "end": 48.225
+    },
+    {
+     "w": "walked",
+     "start": 48.225,
+     "end": 48.462
+    },
+    {
+     "w": "it.",
+     "start": 48.462,
+     "end": 48.775
+    },
+    {
+     "w": "Ancient",
+     "start": 48.875,
+     "end": 49.175
+    },
+    {
+     "w": "GPS",
+     "start": 49.175,
+     "end": 49.688
+    },
+    {
+     "w": "was",
+     "start": 49.688,
+     "end": 49.787
+    },
+    {
+     "w": "just",
+     "start": 49.787,
+     "end": 49.938
+    },
+    {
+     "w": "a",
+     "start": 49.938,
+     "end": 50.0
+    },
+    {
+     "w": "guy.",
+     "start": 50.0,
+     "end": 50.475
+    },
+    {
+     "w": "Walking.",
+     "start": 50.612,
+     "end": 51.125
+    },
+    {
+     "w": "For",
+     "start": 51.2,
+     "end": 51.35
+    },
+    {
+     "w": "weeks.",
+     "start": 51.35,
+     "end": 51.925
+    }
+   ]
+  },
+  {
+   "id": "s7a",
+   "i": 10,
+   "text": "Fifty times five thousand: two hundred fifty thousand stadia around.",
+   "start": 52.385,
+   "end": 55.785,
+   "words": [
+    {
+     "w": "Fifty",
+     "start": 52.385,
+     "end": 52.635
+    },
+    {
+     "w": "times",
+     "start": 52.635,
+     "end": 52.935
+    },
+    {
+     "w": "five",
+     "start": 52.935,
+     "end": 53.16
+    },
+    {
+     "w": "thousand:",
+     "start": 53.16,
+     "end": 53.71
+    },
+    {
+     "w": "two",
+     "start": 53.81,
+     "end": 53.922
+    },
+    {
+     "w": "hundred",
+     "start": 53.922,
+     "end": 54.16
+    },
+    {
+     "w": "fifty",
+     "start": 54.16,
+     "end": 54.435
+    },
+    {
+     "w": "thousand",
+     "start": 54.435,
+     "end": 54.76
+    },
+    {
+     "w": "stadia",
+     "start": 54.76,
+     "end": 55.16
+    },
+    {
+     "w": "around.",
+     "start": 55.16,
+     "end": 55.785
+    }
+   ]
+  },
+  {
+   "id": "s7b",
+   "i": 11,
+   "text": "Depending on how long a stadion was, that's somewhere between pretty close and almost dead on. The real answer? About forty thousand kilometres.",
+   "start": 56.195,
+   "end": 62.87,
+   "words": [
+    {
+     "w": "Depending",
+     "start": 56.195,
+     "end": 56.458
+    },
+    {
+     "w": "on",
+     "start": 56.458,
+     "end": 56.557
+    },
+    {
+     "w": "how",
+     "start": 56.557,
+     "end": 56.72
+    },
+    {
+     "w": "long",
+     "start": 56.72,
+     "end": 56.932
+    },
+    {
+     "w": "a",
+     "start": 56.932,
+     "end": 56.995
+    },
+    {
+     "w": "stadion",
+     "start": 56.995,
+     "end": 57.395
+    },
+    {
+     "w": "was,",
+     "start": 57.395,
+     "end": 57.82
+    },
+    {
+     "w": "that's",
+     "start": 57.883,
+     "end": 58.07
+    },
+    {
+     "w": "somewhere",
+     "start": 58.07,
+     "end": 58.333
+    },
+    {
+     "w": "between",
+     "start": 58.333,
+     "end": 58.62
+    },
+    {
+     "w": "pretty",
+     "start": 58.62,
+     "end": 58.82
+    },
+    {
+     "w": "close",
+     "start": 58.82,
+     "end": 59.133
+    },
+    {
+     "w": "and",
+     "start": 59.133,
+     "end": 59.245
+    },
+    {
+     "w": "almost",
+     "start": 59.245,
+     "end": 59.545
+    },
+    {
+     "w": "dead",
+     "start": 59.545,
+     "end": 59.708
+    },
+    {
+     "w": "on.",
+     "start": 59.708,
+     "end": 60.17
+    },
+    {
+     "w": "The",
+     "start": 60.27,
+     "end": 60.37
+    },
+    {
+     "w": "real",
+     "start": 60.37,
+     "end": 60.657
+    },
+    {
+     "w": "answer?",
+     "start": 60.657,
+     "end": 61.195
+    },
+    {
+     "w": "About",
+     "start": 61.295,
+     "end": 61.508
+    },
+    {
+     "w": "forty",
+     "start": 61.508,
+     "end": 61.795
+    },
+    {
+     "w": "thousand",
+     "start": 61.795,
+     "end": 62.145
+    },
+    {
+     "w": "kilometres.",
+     "start": 62.145,
+     "end": 62.87
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "i": 12,
+   "text": "All with a stick, a well, and some very sore feet. Thanks, Daydream!",
+   "start": 63.33,
+   "end": 66.38,
+   "words": [
+    {
+     "w": "All",
+     "start": 63.33,
+     "end": 63.468
+    },
+    {
+     "w": "with",
+     "start": 63.468,
+     "end": 63.567
+    },
+    {
+     "w": "a",
+     "start": 63.567,
+     "end": 63.63
+    },
+    {
+     "w": "stick,",
+     "start": 63.63,
+     "end": 63.88
+    },
+    {
+     "w": "a",
+     "start": 63.918,
+     "end": 63.98
+    },
+    {
+     "w": "well,",
+     "start": 63.98,
+     "end": 64.155
+    },
+    {
+     "w": "and",
+     "start": 64.192,
+     "end": 64.293
+    },
+    {
+     "w": "some",
+     "start": 64.293,
+     "end": 64.43
+    },
+    {
+     "w": "very",
+     "start": 64.43,
+     "end": 64.668
+    },
+    {
+     "w": "sore",
+     "start": 64.668,
+     "end": 64.88
+    },
+    {
+     "w": "feet.",
+     "start": 64.88,
+     "end": 65.255
+    },
+    {
+     "w": "Thanks,",
+     "start": 65.367,
+     "end": 65.63
+    },
+    {
+     "w": "Daydream!",
+     "start": 65.68,
+     "end": 66.38
+    }
+   ]
+  },
+  {
+   "id": "hostB",
+   "i": 13,
+   "text": "So next time somebody calls you second best, remember: Beta measured the planet.",
+   "start": 67.14,
+   "end": 70.615,
+   "words": [
+    {
+     "w": "So",
+     "start": 67.14,
+     "end": 67.24
+    },
+    {
+     "w": "next",
+     "start": 67.24,
+     "end": 67.427
+    },
+    {
+     "w": "time",
+     "start": 67.427,
+     "end": 67.59
+    },
+    {
+     "w": "somebody",
+     "start": 67.59,
+     "end": 67.84
+    },
+    {
+     "w": "calls",
+     "start": 67.84,
+     "end": 68.078
+    },
+    {
+     "w": "you",
+     "start": 68.078,
+     "end": 68.165
+    },
+    {
+     "w": "second",
+     "start": 68.165,
+     "end": 68.415
+    },
+    {
+     "w": "best,",
+     "start": 68.415,
+     "end": 68.665
+    },
+    {
+     "w": "remember:",
+     "start": 68.703,
+     "end": 69.24
+    },
+    {
+     "w": "Beta",
+     "start": 69.377,
+     "end": 69.665
+    },
+    {
+     "w": "measured",
+     "start": 69.665,
+     "end": 69.927
+    },
+    {
+     "w": "the",
+     "start": 69.927,
+     "end": 70.015
+    },
+    {
+     "w": "planet.",
+     "start": 70.015,
+     "end": 70.615
+    }
+   ]
+  }
+ ]
+}

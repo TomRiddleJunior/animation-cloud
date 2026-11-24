@@ -1,0 +1,13 @@
+{"voice": "af_heart", "speed": 1.06, "lead": 0.3, "tail": 1.4, "gap": 0.36,
+ "lines": [
+  {"id": "hand", "text": "This is a line drawn by a hand.",
+   "chunks": ["This is a line|drawn by a hand."], "bold": ["hand"]},
+  {"id": "machine", "text": "And this is the same line, drawn by a machine.",
+   "chunks": ["And this is the same line,|drawn by a machine."], "bold": ["this", "machine"]},
+  {"id": "look", "text": "Now follow this one. It shakes, because you did.", "gap": 0.4,
+   "chunks": ["Now follow this one.", "It shakes,|because you did."], "bold": ["this", "shakes"]},
+  {"id": "turn", "text": "It says something about people.", "gap": 0.4,
+   "chunks": ["It says something|about people."], "bold": ["people"]},
+  {"id": "cta", "text": "Follow for more.", "gap": 0.4,
+   "chunks": ["Follow for more."], "bold": ["follow"]}
+ ]}

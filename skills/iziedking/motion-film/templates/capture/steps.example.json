@@ -1,0 +1,12 @@
+{
+  "url": "http://localhost:3000/app",
+  "viewport": { "width": 1440, "height": 900 },
+  "scale": 2,
+  "hideCss": ".chat-widget, .cookie-banner, .env-ribbon { display: none !important }",
+  "steps": [
+    { "name": "open-composer", "click": "[data-test=compose]" },
+    { "name": "type-request", "type": { "selector": "textarea", "text": "Send $50 to @fredy" }, "everyChars": 4 },
+    { "name": "send", "click": "button[type=submit]", "waitFor": ".receipt" },
+    { "name": "result", "focus": ".receipt", "wait": 400 }
+  ]
+}

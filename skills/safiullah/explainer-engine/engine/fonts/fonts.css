@@ -1,0 +1,28 @@
+/* Open-licence fonts (Google Fonts repo: OFL / Apache-2.0). Link from index.html: <link rel="stylesheet" href="/engine/fonts/fonts.css"> */
+@font-face{font-family:'Inter';src:url('/engine/fonts/Inter_opsz-wght_.ttf') format('truetype');font-weight:100 900;font-style:normal;font-display:block}
+@font-face{font-family:'Montserrat';src:url('/engine/fonts/Montserrat_wght_.ttf') format('truetype');font-weight:100 900;font-style:normal;font-display:block}
+@font-face{font-family:'Nunito';src:url('/engine/fonts/Nunito_wght_.ttf') format('truetype');font-weight:200 1000;font-style:normal;font-display:block}
+@font-face{font-family:'Playfair Display';src:url('/engine/fonts/PlayfairDisplay_wght_.ttf') format('truetype');font-weight:400 900;font-style:normal;font-display:block}
+@font-face{font-family:'Space Grotesk';src:url('/engine/fonts/SpaceGrotesk_wght_.ttf') format('truetype');font-weight:300 700;font-style:normal;font-display:block}
+@font-face{font-family:'Caveat';src:url('/engine/fonts/Caveat_wght_.ttf') format('truetype');font-weight:400 700;font-style:normal;font-display:block}
+@font-face{font-family:'Fredoka';src:url('/engine/fonts/Fredoka_wdth-wght_.ttf') format('truetype');font-weight:300 700;font-style:normal;font-display:block}
+@font-face{font-family:'Oswald';src:url('/engine/fonts/Oswald_wght_.ttf') format('truetype');font-weight:200 700;font-style:normal;font-display:block}
+@font-face{font-family:'Roboto Mono';src:url('/engine/fonts/RobotoMono_wght_.ttf') format('truetype');font-weight:100 700;font-style:normal;font-display:block}
+@font-face{font-family:'Lora';src:url('/engine/fonts/Lora_wght_.ttf') format('truetype');font-weight:400 700;font-style:normal;font-display:block}
+@font-face{font-family:'Bebas Neue';src:url('/engine/fonts/BebasNeue-Regular.ttf') format('truetype');font-weight:400;font-style:normal;font-display:block}
+@font-face{font-family:'Permanent Marker';src:url('/engine/fonts/PermanentMarker-Regular.ttf') format('truetype');font-weight:400;font-style:normal;font-display:block}
+@font-face{font-family:'Poppins';src:url('/engine/fonts/Poppins-Regular.ttf') format('truetype');font-weight:400;font-style:normal;font-display:block}
+@font-face{font-family:'Poppins';src:url('/engine/fonts/Poppins-Medium.ttf') format('truetype');font-weight:500;font-style:normal;font-display:block}
+@font-face{font-family:'Poppins';src:url('/engine/fonts/Poppins-SemiBold.ttf') format('truetype');font-weight:600;font-style:normal;font-display:block}
+@font-face{font-family:'Poppins';src:url('/engine/fonts/Poppins-Bold.ttf') format('truetype');font-weight:700;font-style:normal;font-display:block}
+@font-face{font-family:'Poppins';src:url('/engine/fonts/Poppins-ExtraBold.ttf') format('truetype');font-weight:800;font-style:normal;font-display:block}
+@font-face{font-family:'Barlow Condensed';src:url('/engine/fonts/BarlowCondensed-Medium.ttf') format('truetype');font-weight:500;font-style:normal;font-display:block}
+@font-face{font-family:'Barlow Condensed';src:url('/engine/fonts/BarlowCondensed-SemiBold.ttf') format('truetype');font-weight:600;font-style:normal;font-display:block}
+@font-face{font-family:'Barlow Condensed';src:url('/engine/fonts/BarlowCondensed-Bold.ttf') format('truetype');font-weight:700;font-style:normal;font-display:block}
+@font-face{font-family:'DM Serif Display';src:url('/engine/fonts/DMSerifDisplay-Regular.ttf') format('truetype');font-weight:400;font-style:normal;font-display:block}
+@font-face{font-family:'Patrick Hand';src:url('/engine/fonts/PatrickHand-Regular.ttf') format('truetype');font-weight:400;font-style:normal;font-display:block}
+@font-face{font-family:'Archivo Black';src:url('/engine/fonts/ArchivoBlack-Regular.ttf') format('truetype');font-weight:400;font-style:normal;font-display:block}
+@font-face{font-family:'Libre Baskerville';src:url('/engine/fonts/LibreBaskerville_wght_.ttf') format('truetype');font-weight:400 700;font-style:normal;font-display:block}
+@font-face{font-family:'Libre Baskerville';src:url('/engine/fonts/LibreBaskerville-Italic_wght_.ttf') format('truetype');font-weight:400 700;font-style:italic;font-display:block}
+@font-face{font-family:'Noto Serif SC';src:url('/engine/fonts/NotoSerifSC_wght_.ttf') format('truetype');font-weight:200 900;font-style:normal;font-display:block}
+@font-face{font-family:'Noto Sans SC';src:url('/engine/fonts/NotoSansSC_wght_.ttf') format('truetype');font-weight:100 900;font-style:normal;font-display:block}

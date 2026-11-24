@@ -1,0 +1,959 @@
+{
+ "duration": 73.575,
+ "voice": "bm_george",
+ "words": 163,
+ "wpm_overall": 132.9,
+ "wpm_speech": 174.9,
+ "lines": [
+  {
+   "id": "hook",
+   "i": 0,
+   "text": "Nearly all of us keep a small museum that no one else would want to visit.",
+   "start": 2.66,
+   "end": 7.585,
+   "words": [
+    {
+     "w": "Nearly",
+     "start": 2.66,
+     "end": 3.047
+    },
+    {
+     "w": "all",
+     "start": 3.047,
+     "end": 3.273
+    },
+    {
+     "w": "of",
+     "start": 3.273,
+     "end": 3.373
+    },
+    {
+     "w": "us",
+     "start": 3.373,
+     "end": 3.823
+    },
+    {
+     "w": "keep",
+     "start": 3.823,
+     "end": 4.085
+    },
+    {
+     "w": "a",
+     "start": 4.085,
+     "end": 4.21
+    },
+    {
+     "w": "small",
+     "start": 4.21,
+     "end": 4.585
+    },
+    {
+     "w": "museum",
+     "start": 4.585,
+     "end": 5.447
+    },
+    {
+     "w": "that",
+     "start": 5.447,
+     "end": 5.647
+    },
+    {
+     "w": "no",
+     "start": 5.647,
+     "end": 5.86
+    },
+    {
+     "w": "one",
+     "start": 5.86,
+     "end": 6.035
+    },
+    {
+     "w": "else",
+     "start": 6.035,
+     "end": 6.41
+    },
+    {
+     "w": "would",
+     "start": 6.41,
+     "end": 6.585
+    },
+    {
+     "w": "want",
+     "start": 6.585,
+     "end": 6.785
+    },
+    {
+     "w": "to",
+     "start": 6.785,
+     "end": 6.885
+    },
+    {
+     "w": "visit.",
+     "start": 6.885,
+     "end": 7.585
+    }
+   ]
+  },
+  {
+   "id": "list",
+   "i": 1,
+   "text": "A concert ticket. A pebble from one particular beach. The key to a flat we left long ago.",
+   "start": 8.295,
+   "end": 14.245,
+   "words": [
+    {
+     "w": "A",
+     "start": 8.295,
+     "end": 8.383
+    },
+    {
+     "w": "concert",
+     "start": 8.383,
+     "end": 8.857
+    },
+    {
+     "w": "ticket.",
+     "start": 8.857,
+     "end": 9.52
+    },
+    {
+     "w": "A",
+     "start": 9.62,
+     "end": 9.72
+    },
+    {
+     "w": "pebble",
+     "start": 9.72,
+     "end": 10.07
+    },
+    {
+     "w": "from",
+     "start": 10.07,
+     "end": 10.283
+    },
+    {
+     "w": "one",
+     "start": 10.283,
+     "end": 10.545
+    },
+    {
+     "w": "particular",
+     "start": 10.545,
+     "end": 11.082
+    },
+    {
+     "w": "beach.",
+     "start": 11.082,
+     "end": 11.72
+    },
+    {
+     "w": "The",
+     "start": 11.845,
+     "end": 11.982
+    },
+    {
+     "w": "key",
+     "start": 11.982,
+     "end": 12.295
+    },
+    {
+     "w": "to",
+     "start": 12.295,
+     "end": 12.42
+    },
+    {
+     "w": "a",
+     "start": 12.42,
+     "end": 12.533
+    },
+    {
+     "w": "flat",
+     "start": 12.533,
+     "end": 12.945
+    },
+    {
+     "w": "we",
+     "start": 12.945,
+     "end": 13.07
+    },
+    {
+     "w": "left",
+     "start": 13.07,
+     "end": 13.345
+    },
+    {
+     "w": "long",
+     "start": 13.345,
+     "end": 13.57
+    },
+    {
+     "w": "ago.",
+     "start": 13.57,
+     "end": 14.245
+    }
+   ]
+  },
+  {
+   "id": "c1",
+   "i": 2,
+   "text": "One. The evidence.",
+   "start": 15.355,
+   "end": 16.83,
+   "words": [
+    {
+     "w": "One.",
+     "start": 15.355,
+     "end": 15.68
+    },
+    {
+     "w": "The",
+     "start": 15.755,
+     "end": 15.943
+    },
+    {
+     "w": "evidence.",
+     "start": 15.943,
+     "end": 16.83
+    }
+   ]
+  },
+  {
+   "id": "proof",
+   "i": 3,
+   "text": "To anyone else, they are clutter. To us, they are proof that a certain afternoon really happened.",
+   "start": 17.64,
+   "end": 23.59,
+   "words": [
+    {
+     "w": "To",
+     "start": 17.64,
+     "end": 17.765
+    },
+    {
+     "w": "anyone",
+     "start": 17.765,
+     "end": 18.14
+    },
+    {
+     "w": "else,",
+     "start": 18.14,
+     "end": 18.515
+    },
+    {
+     "w": "they",
+     "start": 18.615,
+     "end": 18.765
+    },
+    {
+     "w": "are",
+     "start": 18.765,
+     "end": 18.903
+    },
+    {
+     "w": "clutter.",
+     "start": 18.903,
+     "end": 19.59
+    },
+    {
+     "w": "To",
+     "start": 19.728,
+     "end": 19.89
+    },
+    {
+     "w": "us,",
+     "start": 19.89,
+     "end": 20.315
+    },
+    {
+     "w": "they",
+     "start": 20.39,
+     "end": 20.54
+    },
+    {
+     "w": "are",
+     "start": 20.54,
+     "end": 20.678
+    },
+    {
+     "w": "proof",
+     "start": 20.678,
+     "end": 21.09
+    },
+    {
+     "w": "that",
+     "start": 21.09,
+     "end": 21.203
+    },
+    {
+     "w": "a",
+     "start": 21.203,
+     "end": 21.303
+    },
+    {
+     "w": "certain",
+     "start": 21.303,
+     "end": 21.753
+    },
+    {
+     "w": "afternoon",
+     "start": 21.753,
+     "end": 22.478
+    },
+    {
+     "w": "really",
+     "start": 22.478,
+     "end": 22.84
+    },
+    {
+     "w": "happened.",
+     "start": 22.84,
+     "end": 23.59
+    }
+   ]
+  },
+  {
+   "id": "memory",
+   "i": 4,
+   "text": "Memory is a poor archivist. It fades, it edits, it flatters.",
+   "start": 24.4,
+   "end": 29.0,
+   "words": [
+    {
+     "w": "Memory",
+     "start": 24.4,
+     "end": 24.863
+    },
+    {
+     "w": "is",
+     "start": 24.863,
+     "end": 25.0
+    },
+    {
+     "w": "a",
+     "start": 25.0,
+     "end": 25.113
+    },
+    {
+     "w": "poor",
+     "start": 25.113,
+     "end": 25.438
+    },
+    {
+     "w": "archivist.",
+     "start": 25.438,
+     "end": 26.325
+    },
+    {
+     "w": "It",
+     "start": 26.425,
+     "end": 26.638
+    },
+    {
+     "w": "fades,",
+     "start": 26.638,
+     "end": 27.2
+    },
+    {
+     "w": "it",
+     "start": 27.275,
+     "end": 27.438
+    },
+    {
+     "w": "edits,",
+     "start": 27.438,
+     "end": 27.875
+    },
+    {
+     "w": "it",
+     "start": 27.95,
+     "end": 28.113
+    },
+    {
+     "w": "flatters.",
+     "start": 28.113,
+     "end": 29.0
+    }
+   ]
+  },
+  {
+   "id": "stone",
+   "i": 5,
+   "text": "A stone in the hand cannot be argued with.",
+   "start": 29.71,
+   "end": 32.585,
+   "words": [
+    {
+     "w": "A",
+     "start": 29.71,
+     "end": 29.798
+    },
+    {
+     "w": "stone",
+     "start": 29.798,
+     "end": 30.198
+    },
+    {
+     "w": "in",
+     "start": 30.198,
+     "end": 30.273
+    },
+    {
+     "w": "the",
+     "start": 30.273,
+     "end": 30.36
+    },
+    {
+     "w": "hand",
+     "start": 30.36,
+     "end": 31.01
+    },
+    {
+     "w": "cannot",
+     "start": 31.01,
+     "end": 31.373
+    },
+    {
+     "w": "be",
+     "start": 31.373,
+     "end": 31.548
+    },
+    {
+     "w": "argued",
+     "start": 31.548,
+     "end": 32.035
+    },
+    {
+     "w": "with.",
+     "start": 32.035,
+     "end": 32.585
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "i": 6,
+   "text": "Two. Holding on.",
+   "start": 33.695,
+   "end": 35.12,
+   "words": [
+    {
+     "w": "Two.",
+     "start": 33.695,
+     "end": 34.045
+    },
+    {
+     "w": "Holding",
+     "start": 34.12,
+     "end": 34.545
+    },
+    {
+     "w": "on.",
+     "start": 34.545,
+     "end": 35.12
+    }
+   ]
+  },
+  {
+   "id": "grip",
+   "i": 7,
+   "text": "And so we grip these things a little too tightly.",
+   "start": 35.93,
+   "end": 39.18,
+   "words": [
+    {
+     "w": "And",
+     "start": 35.93,
+     "end": 36.08
+    },
+    {
+     "w": "so",
+     "start": 36.08,
+     "end": 36.33
+    },
+    {
+     "w": "we",
+     "start": 36.33,
+     "end": 36.467
+    },
+    {
+     "w": "grip",
+     "start": 36.467,
+     "end": 36.755
+    },
+    {
+     "w": "these",
+     "start": 36.755,
+     "end": 37.03
+    },
+    {
+     "w": "things",
+     "start": 37.03,
+     "end": 37.68
+    },
+    {
+     "w": "a",
+     "start": 37.68,
+     "end": 37.78
+    },
+    {
+     "w": "little",
+     "start": 37.78,
+     "end": 38.092
+    },
+    {
+     "w": "too",
+     "start": 38.092,
+     "end": 38.367
+    },
+    {
+     "w": "tightly.",
+     "start": 38.367,
+     "end": 39.18
+    }
+   ]
+  },
+  {
+   "id": "summer",
+   "i": 8,
+   "text": "We fear that if the object goes, the person or the summer goes with it.",
+   "start": 39.79,
+   "end": 44.365,
+   "words": [
+    {
+     "w": "We",
+     "start": 39.79,
+     "end": 39.927
+    },
+    {
+     "w": "fear",
+     "start": 39.927,
+     "end": 40.24
+    },
+    {
+     "w": "that",
+     "start": 40.24,
+     "end": 40.39
+    },
+    {
+     "w": "if",
+     "start": 40.39,
+     "end": 40.527
+    },
+    {
+     "w": "the",
+     "start": 40.527,
+     "end": 40.677
+    },
+    {
+     "w": "object",
+     "start": 40.677,
+     "end": 41.14
+    },
+    {
+     "w": "goes,",
+     "start": 41.14,
+     "end": 41.765
+    },
+    {
+     "w": "the",
+     "start": 41.865,
+     "end": 42.002
+    },
+    {
+     "w": "person",
+     "start": 42.002,
+     "end": 42.627
+    },
+    {
+     "w": "or",
+     "start": 42.627,
+     "end": 42.765
+    },
+    {
+     "w": "the",
+     "start": 42.765,
+     "end": 42.915
+    },
+    {
+     "w": "summer",
+     "start": 42.915,
+     "end": 43.327
+    },
+    {
+     "w": "goes",
+     "start": 43.327,
+     "end": 43.69
+    },
+    {
+     "w": "with",
+     "start": 43.69,
+     "end": 43.902
+    },
+    {
+     "w": "it.",
+     "start": 43.902,
+     "end": 44.365
+    }
+   ]
+  },
+  {
+   "id": "carry",
+   "i": 9,
+   "text": "The drawers fill up, and the past becomes something we carry rather than visit.",
+   "start": 45.075,
+   "end": 49.675,
+   "words": [
+    {
+     "w": "The",
+     "start": 45.075,
+     "end": 45.175
+    },
+    {
+     "w": "drawers",
+     "start": 45.175,
+     "end": 45.637
+    },
+    {
+     "w": "fill",
+     "start": 45.637,
+     "end": 45.875
+    },
+    {
+     "w": "up,",
+     "start": 45.875,
+     "end": 46.325
+    },
+    {
+     "w": "and",
+     "start": 46.425,
+     "end": 46.537
+    },
+    {
+     "w": "the",
+     "start": 46.537,
+     "end": 46.625
+    },
+    {
+     "w": "past",
+     "start": 46.625,
+     "end": 47.05
+    },
+    {
+     "w": "becomes",
+     "start": 47.05,
+     "end": 47.45
+    },
+    {
+     "w": "something",
+     "start": 47.45,
+     "end": 47.825
+    },
+    {
+     "w": "we",
+     "start": 47.825,
+     "end": 47.95
+    },
+    {
+     "w": "carry",
+     "start": 47.95,
+     "end": 48.425
+    },
+    {
+     "w": "rather",
+     "start": 48.425,
+     "end": 48.8
+    },
+    {
+     "w": "than",
+     "start": 48.8,
+     "end": 48.975
+    },
+    {
+     "w": "visit.",
+     "start": 48.975,
+     "end": 49.675
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "i": 10,
+   "text": "Three. Travelling light.",
+   "start": 50.785,
+   "end": 52.285,
+   "words": [
+    {
+     "w": "Three.",
+     "start": 50.785,
+     "end": 51.135
+    },
+    {
+     "w": "Travelling",
+     "start": 51.197,
+     "end": 51.635
+    },
+    {
+     "w": "light.",
+     "start": 51.635,
+     "end": 52.285
+    }
+   ]
+  },
+  {
+   "id": "door",
+   "i": 11,
+   "text": "Yet the object was never the memory. It was only a door.",
+   "start": 53.095,
+   "end": 56.895,
+   "words": [
+    {
+     "w": "Yet",
+     "start": 53.095,
+     "end": 53.257
+    },
+    {
+     "w": "the",
+     "start": 53.257,
+     "end": 53.407
+    },
+    {
+     "w": "object",
+     "start": 53.407,
+     "end": 53.92
+    },
+    {
+     "w": "was",
+     "start": 53.92,
+     "end": 54.145
+    },
+    {
+     "w": "never",
+     "start": 54.145,
+     "end": 54.47
+    },
+    {
+     "w": "the",
+     "start": 54.47,
+     "end": 54.607
+    },
+    {
+     "w": "memory.",
+     "start": 54.607,
+     "end": 55.295
+    },
+    {
+     "w": "It",
+     "start": 55.395,
+     "end": 55.532
+    },
+    {
+     "w": "was",
+     "start": 55.532,
+     "end": 55.707
+    },
+    {
+     "w": "only",
+     "start": 55.707,
+     "end": 56.07
+    },
+    {
+     "w": "a",
+     "start": 56.07,
+     "end": 56.182
+    },
+    {
+     "w": "door.",
+     "start": 56.182,
+     "end": 56.895
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "i": 12,
+   "text": "What happened lives on in us: in how we laugh, what we notice, who we become.",
+   "start": 57.605,
+   "end": 62.605,
+   "words": [
+    {
+     "w": "What",
+     "start": 57.605,
+     "end": 57.755
+    },
+    {
+     "w": "happened",
+     "start": 57.755,
+     "end": 58.192
+    },
+    {
+     "w": "lives",
+     "start": 58.192,
+     "end": 58.505
+    },
+    {
+     "w": "on",
+     "start": 58.505,
+     "end": 58.73
+    },
+    {
+     "w": "in",
+     "start": 58.73,
+     "end": 58.855
+    },
+    {
+     "w": "us:",
+     "start": 58.855,
+     "end": 59.405
+    },
+    {
+     "w": "in",
+     "start": 59.517,
+     "end": 59.68
+    },
+    {
+     "w": "how",
+     "start": 59.68,
+     "end": 59.905
+    },
+    {
+     "w": "we",
+     "start": 59.905,
+     "end": 60.03
+    },
+    {
+     "w": "laugh,",
+     "start": 60.03,
+     "end": 60.505
+    },
+    {
+     "w": "what",
+     "start": 60.58,
+     "end": 60.742
+    },
+    {
+     "w": "we",
+     "start": 60.742,
+     "end": 60.855
+    },
+    {
+     "w": "notice,",
+     "start": 60.855,
+     "end": 61.43
+    },
+    {
+     "w": "who",
+     "start": 61.505,
+     "end": 61.655
+    },
+    {
+     "w": "we",
+     "start": 61.655,
+     "end": 61.78
+    },
+    {
+     "w": "become.",
+     "start": 61.78,
+     "end": 62.605
+    }
+   ]
+  },
+  {
+   "id": "keep",
+   "i": 13,
+   "text": "Keep the few things that still open something.",
+   "start": 63.515,
+   "end": 66.74,
+   "words": [
+    {
+     "w": "Keep",
+     "start": 63.515,
+     "end": 63.765
+    },
+    {
+     "w": "the",
+     "start": 63.765,
+     "end": 63.902
+    },
+    {
+     "w": "few",
+     "start": 63.902,
+     "end": 64.177
+    },
+    {
+     "w": "things",
+     "start": 64.177,
+     "end": 64.902
+    },
+    {
+     "w": "that",
+     "start": 64.902,
+     "end": 65.127
+    },
+    {
+     "w": "still",
+     "start": 65.127,
+     "end": 65.552
+    },
+    {
+     "w": "open",
+     "start": 65.552,
+     "end": 65.927
+    },
+    {
+     "w": "something.",
+     "start": 65.927,
+     "end": 66.74
+    }
+   ]
+  },
+  {
+   "id": "go",
+   "i": 14,
+   "text": "And let the rest go, gently, with thanks.",
+   "start": 67.45,
+   "end": 70.225,
+   "words": [
+    {
+     "w": "And",
+     "start": 67.45,
+     "end": 67.575
+    },
+    {
+     "w": "let",
+     "start": 67.575,
+     "end": 67.737
+    },
+    {
+     "w": "the",
+     "start": 67.737,
+     "end": 67.825
+    },
+    {
+     "w": "rest",
+     "start": 67.825,
+     "end": 68.15
+    },
+    {
+     "w": "go,",
+     "start": 68.15,
+     "end": 68.525
+    },
+    {
+     "w": "gently,",
+     "start": 68.662,
+     "end": 69.15
+    },
+    {
+     "w": "with",
+     "start": 69.225,
+     "end": 69.437
+    },
+    {
+     "w": "thanks.",
+     "start": 69.437,
+     "end": 70.225
+    }
+   ]
+  }
+ ]
+}

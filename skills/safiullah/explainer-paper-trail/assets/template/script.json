@@ -1,0 +1,7 @@
+{"voice": "bm_george", "speed": 1.0, "lead": 0.6, "tail": 3.4, "gap": 0.06,
+ "lines": [
+  {"id": "h1", "at": 0.6, "text": "So you want to sell a miracle?", "cap": "So you want to sell a *miracle?*", "speed": 1.2},
+  {"id": "s1a", "at": 2.727, "text": "Step one: print a label. Promise everything.", "cap": "Step one: print a label. Promise *everything.*", "speed": 1.38},
+  {"id": "s1b", "text": "Cures what ails you. Results not guaranteed.", "cap": "Cures what ails you. Results *not guaranteed.*", "speed": 1.38},
+  {"id": "l1", "at": 8.182, "text": "Last step? Let the buyers do the rest.", "cap": "Last step? Let the *buyers* do the rest.", "speed": 1.1}
+ ]}

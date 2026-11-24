@@ -1,0 +1,842 @@
+{
+ "duration": 59.595,
+ "voice": "af_heart",
+ "words": 145,
+ "wpm_overall": 146.0,
+ "wpm_speech": 185.0,
+ "lines": [
+  {
+   "id": "hook",
+   "i": 0,
+   "text": "Your team's work is everywhere.",
+   "start": 0.56,
+   "end": 2.36,
+   "words": [
+    {
+     "w": "Your",
+     "start": 0.56,
+     "end": 0.722
+    },
+    {
+     "w": "team's",
+     "start": 0.722,
+     "end": 1.11
+    },
+    {
+     "w": "work",
+     "start": 1.11,
+     "end": 1.385
+    },
+    {
+     "w": "is",
+     "start": 1.385,
+     "end": 1.547
+    },
+    {
+     "w": "everywhere.",
+     "start": 1.547,
+     "end": 2.36
+    }
+   ]
+  },
+  {
+   "id": "tools",
+   "i": 1,
+   "text": "Chats in one app. Docs in another. Tasks, somewhere in between.",
+   "start": 2.92,
+   "end": 6.895,
+   "words": [
+    {
+     "w": "Chats",
+     "start": 2.92,
+     "end": 3.183
+    },
+    {
+     "w": "in",
+     "start": 3.183,
+     "end": 3.27
+    },
+    {
+     "w": "one",
+     "start": 3.27,
+     "end": 3.47
+    },
+    {
+     "w": "app.",
+     "start": 3.47,
+     "end": 3.77
+    },
+    {
+     "w": "Docs",
+     "start": 3.845,
+     "end": 4.183
+    },
+    {
+     "w": "in",
+     "start": 4.183,
+     "end": 4.258
+    },
+    {
+     "w": "another.",
+     "start": 4.258,
+     "end": 4.845
+    },
+    {
+     "w": "Tasks,",
+     "start": 4.982,
+     "end": 5.52
+    },
+    {
+     "w": "somewhere",
+     "start": 5.582,
+     "end": 6.02
+    },
+    {
+     "w": "in",
+     "start": 6.02,
+     "end": 6.133
+    },
+    {
+     "w": "between.",
+     "start": 6.133,
+     "end": 6.895
+    }
+   ]
+  },
+  {
+   "id": "pain",
+   "i": 2,
+   "text": "Every switch costs focus, and the important things slip through the cracks.",
+   "start": 7.505,
+   "end": 11.355,
+   "words": [
+    {
+     "w": "Every",
+     "start": 7.505,
+     "end": 7.78
+    },
+    {
+     "w": "switch",
+     "start": 7.78,
+     "end": 8.055
+    },
+    {
+     "w": "costs",
+     "start": 8.055,
+     "end": 8.43
+    },
+    {
+     "w": "focus,",
+     "start": 8.43,
+     "end": 9.155
+    },
+    {
+     "w": "and",
+     "start": 9.255,
+     "end": 9.367
+    },
+    {
+     "w": "the",
+     "start": 9.367,
+     "end": 9.443
+    },
+    {
+     "w": "important",
+     "start": 9.443,
+     "end": 9.83
+    },
+    {
+     "w": "things",
+     "start": 9.83,
+     "end": 10.168
+    },
+    {
+     "w": "slip",
+     "start": 10.168,
+     "end": 10.43
+    },
+    {
+     "w": "through",
+     "start": 10.43,
+     "end": 10.543
+    },
+    {
+     "w": "the",
+     "start": 10.543,
+     "end": 10.63
+    },
+    {
+     "w": "cracks.",
+     "start": 10.63,
+     "end": 11.355
+    }
+   ]
+  },
+  {
+   "id": "reveal",
+   "i": 3,
+   "text": "Meet Kitewise. One calm workspace, with an AI that keeps it all connected.",
+   "start": 12.365,
+   "end": 17.065,
+   "words": [
+    {
+     "w": "Meet",
+     "start": 12.365,
+     "end": 12.565
+    },
+    {
+     "w": "Kitewise.",
+     "start": 12.565,
+     "end": 13.44
+    },
+    {
+     "w": "One",
+     "start": 13.577,
+     "end": 13.84
+    },
+    {
+     "w": "calm",
+     "start": 13.84,
+     "end": 14.115
+    },
+    {
+     "w": "workspace,",
+     "start": 14.115,
+     "end": 14.79
+    },
+    {
+     "w": "with",
+     "start": 14.865,
+     "end": 15.002
+    },
+    {
+     "w": "an",
+     "start": 15.002,
+     "end": 15.127
+    },
+    {
+     "w": "AI",
+     "start": 15.127,
+     "end": 15.59
+    },
+    {
+     "w": "that",
+     "start": 15.59,
+     "end": 15.74
+    },
+    {
+     "w": "keeps",
+     "start": 15.74,
+     "end": 16.003
+    },
+    {
+     "w": "it",
+     "start": 16.003,
+     "end": 16.09
+    },
+    {
+     "w": "all",
+     "start": 16.09,
+     "end": 16.29
+    },
+    {
+     "w": "connected.",
+     "start": 16.29,
+     "end": 17.065
+    }
+   ]
+  },
+  {
+   "id": "f1",
+   "i": 4,
+   "text": "Kitewise plugs into the tools you already use, so every message, file and task lands in a single feed.",
+   "start": 17.975,
+   "end": 24.65,
+   "words": [
+    {
+     "w": "Kitewise",
+     "start": 17.975,
+     "end": 18.488
+    },
+    {
+     "w": "plugs",
+     "start": 18.488,
+     "end": 18.812
+    },
+    {
+     "w": "into",
+     "start": 18.812,
+     "end": 18.988
+    },
+    {
+     "w": "the",
+     "start": 18.988,
+     "end": 19.075
+    },
+    {
+     "w": "tools",
+     "start": 19.075,
+     "end": 19.45
+    },
+    {
+     "w": "you",
+     "start": 19.45,
+     "end": 19.6
+    },
+    {
+     "w": "already",
+     "start": 19.6,
+     "end": 19.975
+    },
+    {
+     "w": "use,",
+     "start": 19.975,
+     "end": 20.6
+    },
+    {
+     "w": "so",
+     "start": 20.7,
+     "end": 20.887
+    },
+    {
+     "w": "every",
+     "start": 20.887,
+     "end": 21.2
+    },
+    {
+     "w": "message,",
+     "start": 21.2,
+     "end": 21.875
+    },
+    {
+     "w": "file",
+     "start": 22.025,
+     "end": 22.537
+    },
+    {
+     "w": "and",
+     "start": 22.537,
+     "end": 22.688
+    },
+    {
+     "w": "task",
+     "start": 22.688,
+     "end": 23.1
+    },
+    {
+     "w": "lands",
+     "start": 23.1,
+     "end": 23.488
+    },
+    {
+     "w": "in",
+     "start": 23.488,
+     "end": 23.562
+    },
+    {
+     "w": "a",
+     "start": 23.562,
+     "end": 23.662
+    },
+    {
+     "w": "single",
+     "start": 23.662,
+     "end": 24.012
+    },
+    {
+     "w": "feed.",
+     "start": 24.012,
+     "end": 24.65
+    }
+   ]
+  },
+  {
+   "id": "f1b",
+   "i": 5,
+   "text": "No more hunting. Just open it, and you're caught up.",
+   "start": 25.21,
+   "end": 27.985,
+   "words": [
+    {
+     "w": "No",
+     "start": 25.21,
+     "end": 25.385
+    },
+    {
+     "w": "more",
+     "start": 25.385,
+     "end": 25.585
+    },
+    {
+     "w": "hunting.",
+     "start": 25.585,
+     "end": 26.285
+    },
+    {
+     "w": "Just",
+     "start": 26.385,
+     "end": 26.61
+    },
+    {
+     "w": "open",
+     "start": 26.61,
+     "end": 26.935
+    },
+    {
+     "w": "it,",
+     "start": 26.935,
+     "end": 27.035
+    },
+    {
+     "w": "and",
+     "start": 27.072,
+     "end": 27.172
+    },
+    {
+     "w": "you're",
+     "start": 27.172,
+     "end": 27.285
+    },
+    {
+     "w": "caught",
+     "start": 27.285,
+     "end": 27.522
+    },
+    {
+     "w": "up.",
+     "start": 27.522,
+     "end": 27.985
+    }
+   ]
+  },
+  {
+   "id": "f2",
+   "i": 6,
+   "text": "Need the short version? Ask Kite.",
+   "start": 28.995,
+   "end": 31.045,
+   "words": [
+    {
+     "w": "Need",
+     "start": 28.995,
+     "end": 29.157
+    },
+    {
+     "w": "the",
+     "start": 29.157,
+     "end": 29.258
+    },
+    {
+     "w": "short",
+     "start": 29.258,
+     "end": 29.545
+    },
+    {
+     "w": "version?",
+     "start": 29.545,
+     "end": 30.07
+    },
+    {
+     "w": "Ask",
+     "start": 30.182,
+     "end": 30.47
+    },
+    {
+     "w": "Kite.",
+     "start": 30.47,
+     "end": 31.045
+    }
+   ]
+  },
+  {
+   "id": "f2b",
+   "i": 7,
+   "text": "It reads the whole thread and hands you a summary, with the decisions and next steps pulled out.",
+   "start": 31.655,
+   "end": 36.855,
+   "words": [
+    {
+     "w": "It",
+     "start": 31.655,
+     "end": 31.78
+    },
+    {
+     "w": "reads",
+     "start": 31.78,
+     "end": 32.105
+    },
+    {
+     "w": "the",
+     "start": 32.105,
+     "end": 32.205
+    },
+    {
+     "w": "whole",
+     "start": 32.205,
+     "end": 32.468
+    },
+    {
+     "w": "thread",
+     "start": 32.468,
+     "end": 32.992
+    },
+    {
+     "w": "and",
+     "start": 32.992,
+     "end": 33.13
+    },
+    {
+     "w": "hands",
+     "start": 33.13,
+     "end": 33.443
+    },
+    {
+     "w": "you",
+     "start": 33.443,
+     "end": 33.517
+    },
+    {
+     "w": "a",
+     "start": 33.517,
+     "end": 33.617
+    },
+    {
+     "w": "summary,",
+     "start": 33.617,
+     "end": 34.305
+    },
+    {
+     "w": "with",
+     "start": 34.405,
+     "end": 34.543
+    },
+    {
+     "w": "the",
+     "start": 34.543,
+     "end": 34.63
+    },
+    {
+     "w": "decisions",
+     "start": 34.63,
+     "end": 35.293
+    },
+    {
+     "w": "and",
+     "start": 35.293,
+     "end": 35.43
+    },
+    {
+     "w": "next",
+     "start": 35.43,
+     "end": 35.693
+    },
+    {
+     "w": "steps",
+     "start": 35.693,
+     "end": 36.03
+    },
+    {
+     "w": "pulled",
+     "start": 36.03,
+     "end": 36.305
+    },
+    {
+     "w": "out.",
+     "start": 36.305,
+     "end": 36.855
+    }
+   ]
+  },
+  {
+   "id": "f3",
+   "i": 8,
+   "text": "Then turn those next steps into tasks, with one click.",
+   "start": 37.765,
+   "end": 40.94,
+   "words": [
+    {
+     "w": "Then",
+     "start": 37.765,
+     "end": 37.965
+    },
+    {
+     "w": "turn",
+     "start": 37.965,
+     "end": 38.202
+    },
+    {
+     "w": "those",
+     "start": 38.202,
+     "end": 38.39
+    },
+    {
+     "w": "next",
+     "start": 38.39,
+     "end": 38.652
+    },
+    {
+     "w": "steps",
+     "start": 38.652,
+     "end": 38.927
+    },
+    {
+     "w": "into",
+     "start": 38.927,
+     "end": 39.14
+    },
+    {
+     "w": "tasks,",
+     "start": 39.14,
+     "end": 39.84
+    },
+    {
+     "w": "with",
+     "start": 39.94,
+     "end": 40.14
+    },
+    {
+     "w": "one",
+     "start": 40.14,
+     "end": 40.365
+    },
+    {
+     "w": "click.",
+     "start": 40.365,
+     "end": 40.94
+    }
+   ]
+  },
+  {
+   "id": "f3b",
+   "i": 9,
+   "text": "Kitewise assigns owners, sets due dates, and keeps the board in sync on its own.",
+   "start": 41.5,
+   "end": 46.225,
+   "words": [
+    {
+     "w": "Kitewise",
+     "start": 41.5,
+     "end": 41.925
+    },
+    {
+     "w": "assigns",
+     "start": 41.925,
+     "end": 42.375
+    },
+    {
+     "w": "owners,",
+     "start": 42.375,
+     "end": 43.0
+    },
+    {
+     "w": "sets",
+     "start": 43.112,
+     "end": 43.425
+    },
+    {
+     "w": "due",
+     "start": 43.425,
+     "end": 43.6
+    },
+    {
+     "w": "dates,",
+     "start": 43.6,
+     "end": 44.125
+    },
+    {
+     "w": "and",
+     "start": 44.2,
+     "end": 44.325
+    },
+    {
+     "w": "keeps",
+     "start": 44.325,
+     "end": 44.612
+    },
+    {
+     "w": "the",
+     "start": 44.612,
+     "end": 44.7
+    },
+    {
+     "w": "board",
+     "start": 44.7,
+     "end": 44.962
+    },
+    {
+     "w": "in",
+     "start": 44.962,
+     "end": 45.112
+    },
+    {
+     "w": "sync",
+     "start": 45.112,
+     "end": 45.387
+    },
+    {
+     "w": "on",
+     "start": 45.387,
+     "end": 45.487
+    },
+    {
+     "w": "its",
+     "start": 45.487,
+     "end": 45.65
+    },
+    {
+     "w": "own.",
+     "start": 45.65,
+     "end": 46.225
+    }
+   ]
+  },
+  {
+   "id": "outcome",
+   "i": 10,
+   "text": "Less switching. More finished work. And a team that always knows what's next.",
+   "start": 47.235,
+   "end": 51.535,
+   "words": [
+    {
+     "w": "Less",
+     "start": 47.235,
+     "end": 47.435
+    },
+    {
+     "w": "switching.",
+     "start": 47.435,
+     "end": 47.96
+    },
+    {
+     "w": "More",
+     "start": 48.035,
+     "end": 48.272
+    },
+    {
+     "w": "finished",
+     "start": 48.272,
+     "end": 48.635
+    },
+    {
+     "w": "work.",
+     "start": 48.635,
+     "end": 49.185
+    },
+    {
+     "w": "And",
+     "start": 49.285,
+     "end": 49.422
+    },
+    {
+     "w": "a",
+     "start": 49.422,
+     "end": 49.497
+    },
+    {
+     "w": "team",
+     "start": 49.497,
+     "end": 49.797
+    },
+    {
+     "w": "that",
+     "start": 49.797,
+     "end": 49.91
+    },
+    {
+     "w": "always",
+     "start": 49.91,
+     "end": 50.285
+    },
+    {
+     "w": "knows",
+     "start": 50.285,
+     "end": 50.66
+    },
+    {
+     "w": "what's",
+     "start": 50.66,
+     "end": 50.885
+    },
+    {
+     "w": "next.",
+     "start": 50.885,
+     "end": 51.535
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "i": 11,
+   "text": "Kitewise. Your work, in one view. Try it free at kitewise dot app.",
+   "start": 52.545,
+   "end": 56.345,
+   "words": [
+    {
+     "w": "Kitewise.",
+     "start": 52.545,
+     "end": 53.095
+    },
+    {
+     "w": "Your",
+     "start": 53.145,
+     "end": 53.295
+    },
+    {
+     "w": "work,",
+     "start": 53.295,
+     "end": 53.52
+    },
+    {
+     "w": "in",
+     "start": 53.557,
+     "end": 53.695
+    },
+    {
+     "w": "one",
+     "start": 53.695,
+     "end": 53.92
+    },
+    {
+     "w": "view.",
+     "start": 53.92,
+     "end": 54.37
+    },
+    {
+     "w": "Try",
+     "start": 54.532,
+     "end": 54.782
+    },
+    {
+     "w": "it",
+     "start": 54.782,
+     "end": 54.87
+    },
+    {
+     "w": "free",
+     "start": 54.87,
+     "end": 55.082
+    },
+    {
+     "w": "at",
+     "start": 55.082,
+     "end": 55.17
+    },
+    {
+     "w": "kitewise",
+     "start": 55.17,
+     "end": 55.62
+    },
+    {
+     "w": "dot",
+     "start": 55.62,
+     "end": 55.87
+    },
+    {
+     "w": "app.",
+     "start": 55.87,
+     "end": 56.345
+    }
+   ]
+  }
+ ]
+}

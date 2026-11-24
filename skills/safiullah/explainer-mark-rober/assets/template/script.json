@@ -1,0 +1,7 @@
+{"voice": "am_puck", "speed": 1.1, "lead": 0.4, "tail": 1.6,
+ "lines": [
+  {"id": "hook", "text": "This is a two kilogram crate. And this is the parachute that has to save it."},
+  {"id": "weight", "text": "Gravity pulls it down with about twenty newtons.", "gap": 0.3},
+  {"id": "drag", "text": "But as it speeds up, air resistance grows, until the two forces match.", "gap": 0.2},
+  {"id": "result", "text": "With a one point two meter chute, that's about six meters per second.", "gap": 0.2}
+ ]}

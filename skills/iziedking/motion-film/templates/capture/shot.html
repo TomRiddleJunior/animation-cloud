@@ -1,0 +1,54 @@
+<!doctype html>
+<!-- A minimal DOM shot that meets the frame contract: word-by-word type on a white stage
+     with a soft colour bloom. Everything on screen is a function of the frame index.
+     Render it with: node capture.cjs shot.html --out shot.mov -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Shot</title>
+<style>
+  html, body { margin: 0; width: 1920px; height: 1080px; overflow: hidden; background: #fff; }
+  .stage { position: relative; width: 100%; height: 100%; font-family: "Helvetica Neue", Arial, sans-serif; color: #16202A; }
+  .bloom { position: absolute; left: 50%; top: 58%; width: 900px; height: 900px; margin: -450px 0 0 -450px;
+           background: radial-gradient(closest-side, rgba(190, 230, 110, .38), rgba(190, 230, 110, 0)); }
+  .line { position: absolute; left: 0; right: 0; top: 150px; text-align: center; font-size: 84px; font-weight: 500; letter-spacing: -0.01em; }
+  .word { display: inline-block; margin: 0 .14em; will-change: transform, opacity; }
+  .label { position: absolute; left: 0; right: 0; bottom: 60px; text-align: center; font-size: 24px; color: #6A737C; }
+</style>
+</head>
+<body>
+<div class="stage">
+  <div class="bloom" id="bloom"></div>
+  <div class="line" id="line"></div>
+  <div class="label">Illustration</div>
+</div>
+<script>
+'use strict';
+const FPS = 30, FRAMES = 120, W = 1920, H = 1080;
+const WORDS = 'Too many taps to manage your money'.split(' ');
+const clamp = (v, a = 0, b = 1) => Math.max(a, Math.min(b, v));
+const P = (t, a, b) => clamp((t - a) / (b - a));
+const eo5 = (p) => 1 - Math.pow(1 - p, 5);
+
+const line = document.getElementById('line');
+const bloom = document.getElementById('bloom');
+const spans = WORDS.map((w) => { const s = document.createElement('span'); s.className = 'word'; s.textContent = w; line.appendChild(s); return s; });
+
+window.renderFrame = (i) => {
+  const t = i / FPS;
+  spans.forEach((s, n) => {
+    const start = 0.3 + n * 0.12;                      // 3 to 4 frames between words
+    const p = eo5(P(t, start, start + 0.33));
+    const newest = Math.floor((t - 0.3) / 0.12);
+    const dim = n < newest - 1 && t < 0.3 + WORDS.length * 0.12 + 0.3 ? 0.6 : 1;   // earlier words dim while the line is arriving
+    s.style.opacity = String(p * dim);
+    s.style.transform = `translateY(${(1 - p) * 20}px)`;
+  });
+  const breathe = 1 + 0.04 * Math.sin(t * Math.PI * 0.5);
+  bloom.style.transform = `scale(${breathe})`;
+};
+
+window.ready = document.fonts.ready.then(() => { window.renderFrame(0); return { width: W, height: H, fps: FPS, frames: FRAMES }; });
+</script>
+</body>
+</html>

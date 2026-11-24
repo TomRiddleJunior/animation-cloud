@@ -1,0 +1,5 @@
+{"voice": "af_heart", "speed": 1.1, "lead": 0.5, "tail": 0.6,
+ "lines": [
+  {"id": "still", "text": "This is the clock that a whole town once set its watches by."},
+  {"id": "chart", "text": "But noon arrives four minutes later for every degree you travel west.", "gap": 0.5}
+ ]}

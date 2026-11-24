@@ -1,0 +1,17 @@
+{
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "output": "output",
+  "music": "audio/track.wav",
+  "musicGain": 0.8,
+  "bpm": 120,
+  "firstBeat": 0.25,
+  "shots": [
+    { "src": "footage/stage-wide.mp4", "in": 12.4, "beats": 4 },
+    { "src": "footage/crowd.mp4", "in": 3.1, "beats": 2, "speed": 0.5 },
+    { "src": "footage/hands-detail.mp4", "in": 8.0, "beats": 2 },
+    { "src": "footage/speaker.mp4", "in": 44.0, "dur": 2.4, "audio": true, "gain": 1.0 },
+    { "src": "footage/logo-card.mov", "in": 0, "dur": 2.5, "fit": "fit" }
+  ]
+}

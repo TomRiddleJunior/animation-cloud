@@ -1,0 +1,3 @@
+{"preset": "ambient-space", "bpm": 80, "key": 0,
+ "sections": [{"t": 0, "energy": 1}, {"t": 4.0, "energy": 2}, {"t": 9.0, "energy": 1}, {"t": 11.5, "energy": 0}],
+ "music_under_voice_db": -17, "music_alone_db": -8, "sfx_db": -4, "lufs": -15, "reverb": 0.5, "end_hit": true}

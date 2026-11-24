@@ -1,0 +1,47 @@
+{
+  "film": "title",
+  "updated": "YYYY-MM-DD",
+  "sourceTypes": ["authored", "capture", "client", "licensed", "stock", "generated"],
+  "assets": [
+    {
+      "id": "example-font",
+      "usedIn": ["all"],
+      "sourceType": "licensed",
+      "what": "Typeface",
+      "source": "https://example.com/font",
+      "licence": "SIL OFL 1.1",
+      "licenceUrl": "https://example.com/font/licence",
+      "readOn": "YYYY-MM-DD",
+      "credit": ""
+    },
+    {
+      "id": "example-generated-plate",
+      "usedIn": ["040"],
+      "sourceType": "generated",
+      "what": "Background plate, still",
+      "provider": "",
+      "model": "",
+      "termsUrl": "",
+      "readOn": "YYYY-MM-DD",
+      "prompt": "",
+      "references": [],
+      "seed": null,
+      "cost": "",
+      "humanEdits": "",
+      "disclosure": ""
+    }
+  ],
+  "people": [
+    { "who": "", "appearsIn": [], "release": "releases/name.pdf", "covers": "" }
+  ],
+  "claims": [
+    { "text": "", "status": "live | beta | planned | illustrative", "evidence": "", "label": "" }
+  ],
+  "disclosure": [
+    { "platform": "", "territory": "", "label": "", "why": "" }
+  ],
+  "deliverables": [
+    { "file": "", "sha256": "", "signed": false }
+  ],
+  "notVerified": []
+}

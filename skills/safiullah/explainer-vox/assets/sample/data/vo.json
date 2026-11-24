@@ -1,0 +1,1061 @@
+{
+ "duration": 71.18,
+ "voice": "af_heart",
+ "words": 187,
+ "wpm_overall": 157.6,
+ "wpm_speech": 183.6,
+ "lines": [
+  {
+   "id": "hook",
+   "i": 0,
+   "text": "On November 18th, 1883, clocks across America did something strange.",
+   "start": 0.56,
+   "end": 5.36,
+   "words": [
+    {
+     "w": "On",
+     "start": 0.56,
+     "end": 0.672
+    },
+    {
+     "w": "November",
+     "start": 0.672,
+     "end": 1.06
+    },
+    {
+     "w": "18th,",
+     "start": 1.06,
+     "end": 1.71
+    },
+    {
+     "w": "1883,",
+     "start": 1.81,
+     "end": 2.91
+    },
+    {
+     "w": "clocks",
+     "start": 3.035,
+     "end": 3.373
+    },
+    {
+     "w": "across",
+     "start": 3.373,
+     "end": 3.697
+    },
+    {
+     "w": "America",
+     "start": 3.697,
+     "end": 4.185
+    },
+    {
+     "w": "did",
+     "start": 4.185,
+     "end": 4.36
+    },
+    {
+     "w": "something",
+     "start": 4.36,
+     "end": 4.66
+    },
+    {
+     "w": "strange.",
+     "start": 4.66,
+     "end": 5.36
+    }
+   ]
+  },
+  {
+   "id": "noon",
+   "i": 1,
+   "text": "At noon, New York's clocks were set back about four minutes, and noon struck a second time.",
+   "start": 5.97,
+   "end": 10.87,
+   "words": [
+    {
+     "w": "At",
+     "start": 5.97,
+     "end": 6.12
+    },
+    {
+     "w": "noon,",
+     "start": 6.12,
+     "end": 6.545
+    },
+    {
+     "w": "New",
+     "start": 6.633,
+     "end": 6.82
+    },
+    {
+     "w": "York's",
+     "start": 6.82,
+     "end": 7.145
+    },
+    {
+     "w": "clocks",
+     "start": 7.145,
+     "end": 7.482
+    },
+    {
+     "w": "were",
+     "start": 7.482,
+     "end": 7.595
+    },
+    {
+     "w": "set",
+     "start": 7.595,
+     "end": 7.795
+    },
+    {
+     "w": "back",
+     "start": 7.795,
+     "end": 8.033
+    },
+    {
+     "w": "about",
+     "start": 8.033,
+     "end": 8.308
+    },
+    {
+     "w": "four",
+     "start": 8.308,
+     "end": 8.508
+    },
+    {
+     "w": "minutes,",
+     "start": 8.508,
+     "end": 9.12
+    },
+    {
+     "w": "and",
+     "start": 9.22,
+     "end": 9.358
+    },
+    {
+     "w": "noon",
+     "start": 9.358,
+     "end": 9.645
+    },
+    {
+     "w": "struck",
+     "start": 9.645,
+     "end": 9.908
+    },
+    {
+     "w": "a",
+     "start": 9.908,
+     "end": 9.97
+    },
+    {
+     "w": "second",
+     "start": 9.97,
+     "end": 10.295
+    },
+    {
+     "w": "time.",
+     "start": 10.295,
+     "end": 10.87
+    }
+   ]
+  },
+  {
+   "id": "known",
+   "i": 2,
+   "text": "It's remembered as the day of two noons. And the reason was the railroads.",
+   "start": 11.53,
+   "end": 15.58,
+   "words": [
+    {
+     "w": "It's",
+     "start": 11.53,
+     "end": 11.73
+    },
+    {
+     "w": "remembered",
+     "start": 11.73,
+     "end": 12.268
+    },
+    {
+     "w": "as",
+     "start": 12.268,
+     "end": 12.418
+    },
+    {
+     "w": "the",
+     "start": 12.418,
+     "end": 12.505
+    },
+    {
+     "w": "day",
+     "start": 12.505,
+     "end": 12.742
+    },
+    {
+     "w": "of",
+     "start": 12.742,
+     "end": 12.867
+    },
+    {
+     "w": "two",
+     "start": 12.867,
+     "end": 13.08
+    },
+    {
+     "w": "noons.",
+     "start": 13.08,
+     "end": 13.73
+    },
+    {
+     "w": "And",
+     "start": 13.83,
+     "end": 13.967
+    },
+    {
+     "w": "the",
+     "start": 13.967,
+     "end": 14.055
+    },
+    {
+     "w": "reason",
+     "start": 14.055,
+     "end": 14.48
+    },
+    {
+     "w": "was",
+     "start": 14.48,
+     "end": 14.643
+    },
+    {
+     "w": "the",
+     "start": 14.643,
+     "end": 14.73
+    },
+    {
+     "w": "railroads.",
+     "start": 14.73,
+     "end": 15.58
+    }
+   ]
+  },
+  {
+   "id": "before",
+   "i": 3,
+   "text": "Until then, most towns kept their own time: noon was when the sun stood highest.",
+   "start": 16.89,
+   "end": 21.14,
+   "words": [
+    {
+     "w": "Until",
+     "start": 16.89,
+     "end": 17.115
+    },
+    {
+     "w": "then,",
+     "start": 17.115,
+     "end": 17.415
+    },
+    {
+     "w": "most",
+     "start": 17.49,
+     "end": 17.765
+    },
+    {
+     "w": "towns",
+     "start": 17.765,
+     "end": 18.14
+    },
+    {
+     "w": "kept",
+     "start": 18.14,
+     "end": 18.328
+    },
+    {
+     "w": "their",
+     "start": 18.328,
+     "end": 18.44
+    },
+    {
+     "w": "own",
+     "start": 18.44,
+     "end": 18.64
+    },
+    {
+     "w": "time:",
+     "start": 18.64,
+     "end": 19.265
+    },
+    {
+     "w": "noon",
+     "start": 19.402,
+     "end": 19.703
+    },
+    {
+     "w": "was",
+     "start": 19.703,
+     "end": 19.802
+    },
+    {
+     "w": "when",
+     "start": 19.802,
+     "end": 19.927
+    },
+    {
+     "w": "the",
+     "start": 19.927,
+     "end": 20.027
+    },
+    {
+     "w": "sun",
+     "start": 20.027,
+     "end": 20.29
+    },
+    {
+     "w": "stood",
+     "start": 20.29,
+     "end": 20.49
+    },
+    {
+     "w": "highest.",
+     "start": 20.49,
+     "end": 21.14
+    }
+   ]
+  },
+  {
+   "id": "slide",
+   "i": 4,
+   "text": "And because the Earth turns, noon slides west, four minutes for every degree of longitude.",
+   "start": 21.7,
+   "end": 26.85,
+   "words": [
+    {
+     "w": "And",
+     "start": 21.7,
+     "end": 21.812
+    },
+    {
+     "w": "because",
+     "start": 21.812,
+     "end": 22.138
+    },
+    {
+     "w": "the",
+     "start": 22.138,
+     "end": 22.25
+    },
+    {
+     "w": "Earth",
+     "start": 22.25,
+     "end": 22.5
+    },
+    {
+     "w": "turns,",
+     "start": 22.5,
+     "end": 23.075
+    },
+    {
+     "w": "noon",
+     "start": 23.188,
+     "end": 23.5
+    },
+    {
+     "w": "slides",
+     "start": 23.5,
+     "end": 23.9
+    },
+    {
+     "w": "west,",
+     "start": 23.9,
+     "end": 24.45
+    },
+    {
+     "w": "four",
+     "start": 24.588,
+     "end": 24.825
+    },
+    {
+     "w": "minutes",
+     "start": 24.825,
+     "end": 25.15
+    },
+    {
+     "w": "for",
+     "start": 25.15,
+     "end": 25.312
+    },
+    {
+     "w": "every",
+     "start": 25.312,
+     "end": 25.613
+    },
+    {
+     "w": "degree",
+     "start": 25.613,
+     "end": 25.888
+    },
+    {
+     "w": "of",
+     "start": 25.888,
+     "end": 25.975
+    },
+    {
+     "w": "longitude.",
+     "start": 25.975,
+     "end": 26.85
+    }
+   ]
+  },
+  {
+   "id": "pitt",
+   "i": 5,
+   "text": "Noon in Chicago was half past twelve in Pittsburgh.",
+   "start": 27.36,
+   "end": 30.185,
+   "words": [
+    {
+     "w": "Noon",
+     "start": 27.36,
+     "end": 27.548
+    },
+    {
+     "w": "in",
+     "start": 27.548,
+     "end": 27.66
+    },
+    {
+     "w": "Chicago",
+     "start": 27.66,
+     "end": 28.185
+    },
+    {
+     "w": "was",
+     "start": 28.185,
+     "end": 28.31
+    },
+    {
+     "w": "half",
+     "start": 28.31,
+     "end": 28.56
+    },
+    {
+     "w": "past",
+     "start": 28.56,
+     "end": 28.835
+    },
+    {
+     "w": "twelve",
+     "start": 28.835,
+     "end": 29.298
+    },
+    {
+     "w": "in",
+     "start": 29.298,
+     "end": 29.435
+    },
+    {
+     "w": "Pittsburgh.",
+     "start": 29.435,
+     "end": 30.185
+    }
+   ]
+  },
+  {
+   "id": "chaos",
+   "i": 6,
+   "text": "For most people, that hardly mattered. But for railroads, it was chaos.",
+   "start": 30.945,
+   "end": 34.845,
+   "words": [
+    {
+     "w": "For",
+     "start": 30.945,
+     "end": 31.07
+    },
+    {
+     "w": "most",
+     "start": 31.07,
+     "end": 31.345
+    },
+    {
+     "w": "people,",
+     "start": 31.345,
+     "end": 31.72
+    },
+    {
+     "w": "that",
+     "start": 31.77,
+     "end": 31.92
+    },
+    {
+     "w": "hardly",
+     "start": 31.92,
+     "end": 32.295
+    },
+    {
+     "w": "mattered.",
+     "start": 32.295,
+     "end": 32.92
+    },
+    {
+     "w": "But",
+     "start": 33.02,
+     "end": 33.17
+    },
+    {
+     "w": "for",
+     "start": 33.17,
+     "end": 33.32
+    },
+    {
+     "w": "railroads,",
+     "start": 33.32,
+     "end": 33.895
+    },
+    {
+     "w": "it",
+     "start": 33.933,
+     "end": 34.008
+    },
+    {
+     "w": "was",
+     "start": 34.008,
+     "end": 34.145
+    },
+    {
+     "w": "chaos.",
+     "start": 34.145,
+     "end": 34.845
+    }
+   ]
+  },
+  {
+   "id": "clocks",
+   "i": 7,
+   "text": "Each railroad kept its own time, and some stations hung a separate clock for every line.",
+   "start": 35.405,
+   "end": 40.455,
+   "words": [
+    {
+     "w": "Each",
+     "start": 35.405,
+     "end": 35.68
+    },
+    {
+     "w": "railroad",
+     "start": 35.68,
+     "end": 36.205
+    },
+    {
+     "w": "kept",
+     "start": 36.205,
+     "end": 36.468
+    },
+    {
+     "w": "its",
+     "start": 36.468,
+     "end": 36.58
+    },
+    {
+     "w": "own",
+     "start": 36.58,
+     "end": 36.83
+    },
+    {
+     "w": "time,",
+     "start": 36.83,
+     "end": 37.455
+    },
+    {
+     "w": "and",
+     "start": 37.555,
+     "end": 37.68
+    },
+    {
+     "w": "some",
+     "start": 37.68,
+     "end": 37.905
+    },
+    {
+     "w": "stations",
+     "start": 37.905,
+     "end": 38.455
+    },
+    {
+     "w": "hung",
+     "start": 38.455,
+     "end": 38.643
+    },
+    {
+     "w": "a",
+     "start": 38.643,
+     "end": 38.743
+    },
+    {
+     "w": "separate",
+     "start": 38.743,
+     "end": 39.08
+    },
+    {
+     "w": "clock",
+     "start": 39.08,
+     "end": 39.405
+    },
+    {
+     "w": "for",
+     "start": 39.405,
+     "end": 39.555
+    },
+    {
+     "w": "every",
+     "start": 39.555,
+     "end": 39.855
+    },
+    {
+     "w": "line.",
+     "start": 39.855,
+     "end": 40.455
+    }
+   ]
+  },
+  {
+   "id": "zones",
+   "i": 8,
+   "text": "So the railroads fixed it themselves: four zones, one hour apart, measured from Greenwich, England.",
+   "start": 41.265,
+   "end": 46.79,
+   "words": [
+    {
+     "w": "So",
+     "start": 41.265,
+     "end": 41.353
+    },
+    {
+     "w": "the",
+     "start": 41.353,
+     "end": 41.44
+    },
+    {
+     "w": "railroads",
+     "start": 41.44,
+     "end": 42.015
+    },
+    {
+     "w": "fixed",
+     "start": 42.015,
+     "end": 42.278
+    },
+    {
+     "w": "it",
+     "start": 42.278,
+     "end": 42.353
+    },
+    {
+     "w": "themselves:",
+     "start": 42.353,
+     "end": 43.24
+    },
+    {
+     "w": "four",
+     "start": 43.39,
+     "end": 43.64
+    },
+    {
+     "w": "zones,",
+     "start": 43.64,
+     "end": 44.115
+    },
+    {
+     "w": "one",
+     "start": 44.19,
+     "end": 44.415
+    },
+    {
+     "w": "hour",
+     "start": 44.415,
+     "end": 44.653
+    },
+    {
+     "w": "apart,",
+     "start": 44.653,
+     "end": 45.065
+    },
+    {
+     "w": "measured",
+     "start": 45.14,
+     "end": 45.49
+    },
+    {
+     "w": "from",
+     "start": 45.49,
+     "end": 45.665
+    },
+    {
+     "w": "Greenwich,",
+     "start": 45.665,
+     "end": 46.04
+    },
+    {
+     "w": "England.",
+     "start": 46.09,
+     "end": 46.79
+    }
+   ]
+  },
+  {
+   "id": "agree",
+   "i": 9,
+   "text": "Inside a zone, every clock agreed. Cross a line, and the time jumped an hour.",
+   "start": 47.35,
+   "end": 51.65,
+   "words": [
+    {
+     "w": "Inside",
+     "start": 47.35,
+     "end": 47.688
+    },
+    {
+     "w": "a",
+     "start": 47.688,
+     "end": 47.75
+    },
+    {
+     "w": "zone,",
+     "start": 47.75,
+     "end": 48.05
+    },
+    {
+     "w": "every",
+     "start": 48.125,
+     "end": 48.425
+    },
+    {
+     "w": "clock",
+     "start": 48.425,
+     "end": 48.688
+    },
+    {
+     "w": "agreed.",
+     "start": 48.688,
+     "end": 49.3
+    },
+    {
+     "w": "Cross",
+     "start": 49.438,
+     "end": 49.738
+    },
+    {
+     "w": "a",
+     "start": 49.738,
+     "end": 49.8
+    },
+    {
+     "w": "line,",
+     "start": 49.8,
+     "end": 50.175
+    },
+    {
+     "w": "and",
+     "start": 50.213,
+     "end": 50.312
+    },
+    {
+     "w": "the",
+     "start": 50.312,
+     "end": 50.4
+    },
+    {
+     "w": "time",
+     "start": 50.4,
+     "end": 50.725
+    },
+    {
+     "w": "jumped",
+     "start": 50.725,
+     "end": 50.988
+    },
+    {
+     "w": "an",
+     "start": 50.988,
+     "end": 51.075
+    },
+    {
+     "w": "hour.",
+     "start": 51.075,
+     "end": 51.65
+    }
+   ]
+  },
+  {
+   "id": "meridian",
+   "i": 10,
+   "text": "A year later, 25 nations met in Washington and chose Greenwich as the prime meridian.",
+   "start": 52.46,
+   "end": 57.835,
+   "words": [
+    {
+     "w": "A",
+     "start": 52.46,
+     "end": 52.535
+    },
+    {
+     "w": "year",
+     "start": 52.535,
+     "end": 52.76
+    },
+    {
+     "w": "later,",
+     "start": 52.76,
+     "end": 53.26
+    },
+    {
+     "w": "25",
+     "start": 53.36,
+     "end": 53.96
+    },
+    {
+     "w": "nations",
+     "start": 53.96,
+     "end": 54.46
+    },
+    {
+     "w": "met",
+     "start": 54.46,
+     "end": 54.623
+    },
+    {
+     "w": "in",
+     "start": 54.623,
+     "end": 54.735
+    },
+    {
+     "w": "Washington",
+     "start": 54.735,
+     "end": 55.648
+    },
+    {
+     "w": "and",
+     "start": 55.648,
+     "end": 55.798
+    },
+    {
+     "w": "chose",
+     "start": 55.798,
+     "end": 56.135
+    },
+    {
+     "w": "Greenwich",
+     "start": 56.135,
+     "end": 56.598
+    },
+    {
+     "w": "as",
+     "start": 56.598,
+     "end": 56.748
+    },
+    {
+     "w": "the",
+     "start": 56.748,
+     "end": 56.835
+    },
+    {
+     "w": "prime",
+     "start": 56.835,
+     "end": 57.123
+    },
+    {
+     "w": "meridian.",
+     "start": 57.123,
+     "end": 57.835
+    }
+   ]
+  },
+  {
+   "id": "law",
+   "i": 11,
+   "text": "But Congress didn't write standard time into law until 1918, thirty-five years after the trains.",
+   "start": 58.445,
+   "end": 64.195,
+   "words": [
+    {
+     "w": "But",
+     "start": 58.445,
+     "end": 58.57
+    },
+    {
+     "w": "Congress",
+     "start": 58.57,
+     "end": 59.02
+    },
+    {
+     "w": "didn't",
+     "start": 59.02,
+     "end": 59.245
+    },
+    {
+     "w": "write",
+     "start": 59.245,
+     "end": 59.52
+    },
+    {
+     "w": "standard",
+     "start": 59.52,
+     "end": 59.92
+    },
+    {
+     "w": "time",
+     "start": 59.92,
+     "end": 60.183
+    },
+    {
+     "w": "into",
+     "start": 60.183,
+     "end": 60.42
+    },
+    {
+     "w": "law",
+     "start": 60.42,
+     "end": 60.72
+    },
+    {
+     "w": "until",
+     "start": 60.72,
+     "end": 60.97
+    },
+    {
+     "w": "1918,",
+     "start": 60.97,
+     "end": 62.07
+    },
+    {
+     "w": "thirty-five",
+     "start": 62.208,
+     "end": 62.795
+    },
+    {
+     "w": "years",
+     "start": 62.795,
+     "end": 63.12
+    },
+    {
+     "w": "after",
+     "start": 63.12,
+     "end": 63.383
+    },
+    {
+     "w": "the",
+     "start": 63.383,
+     "end": 63.47
+    },
+    {
+     "w": "trains.",
+     "start": 63.47,
+     "end": 64.195
+    }
+   ]
+  },
+  {
+   "id": "kicker",
+   "i": 12,
+   "text": "The hour on your phone didn't start with the sun, or with Congress. It started with a train schedule.",
+   "start": 65.205,
+   "end": 70.43,
+   "words": [
+    {
+     "w": "The",
+     "start": 65.205,
+     "end": 65.342
+    },
+    {
+     "w": "hour",
+     "start": 65.342,
+     "end": 65.642
+    },
+    {
+     "w": "on",
+     "start": 65.642,
+     "end": 65.742
+    },
+    {
+     "w": "your",
+     "start": 65.742,
+     "end": 65.892
+    },
+    {
+     "w": "phone",
+     "start": 65.892,
+     "end": 66.23
+    },
+    {
+     "w": "didn't",
+     "start": 66.23,
+     "end": 66.455
+    },
+    {
+     "w": "start",
+     "start": 66.455,
+     "end": 66.742
+    },
+    {
+     "w": "with",
+     "start": 66.742,
+     "end": 66.842
+    },
+    {
+     "w": "the",
+     "start": 66.842,
+     "end": 66.942
+    },
+    {
+     "w": "sun,",
+     "start": 66.942,
+     "end": 67.33
+    },
+    {
+     "w": "or",
+     "start": 67.43,
+     "end": 67.542
+    },
+    {
+     "w": "with",
+     "start": 67.542,
+     "end": 67.705
+    },
+    {
+     "w": "Congress.",
+     "start": 67.705,
+     "end": 68.58
+    },
+    {
+     "w": "It",
+     "start": 68.705,
+     "end": 68.855
+    },
+    {
+     "w": "started",
+     "start": 68.855,
+     "end": 69.217
+    },
+    {
+     "w": "with",
+     "start": 69.217,
+     "end": 69.342
+    },
+    {
+     "w": "a",
+     "start": 69.342,
+     "end": 69.405
+    },
+    {
+     "w": "train",
+     "start": 69.405,
+     "end": 69.73
+    },
+    {
+     "w": "schedule.",
+     "start": 69.73,
+     "end": 70.43
+    }
+   ]
+  }
+ ]
+}

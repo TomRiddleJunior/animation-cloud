@@ -1,0 +1,15 @@
+{"voice": "af_heart", "speed": 0.92, "lead": 0.9, "tail": 1.2, "gap": 0.45,
+ "lines": [
+  {"id": "hook",     "text": "Meet Maya. She draws beautiful things for a living."},
+  {"id": "problem",  "text": "But the hardest part of her week isn't the drawing. It's getting paid.", "gap": 0.5},
+  {"id": "pains",    "text": "Which invoices went out? Who's running late? And is it awkward to ask again?", "gap": 0.5},
+  {"id": "flock",    "text": "Her invoices act like a flock of sheep. They wander off, and Maya spends her evenings chasing them.", "gap": 0.55},
+  {"id": "pivot",    "text": "So what if someone else did the chasing? Meet Tallypup.", "gap": 0.7},
+  {"id": "send",     "text": "Tallypup sends each invoice the moment the work is done,", "gap": 0.6},
+  {"id": "nudge",    "text": "follows up with friendly reminders, so Maya never has to,", "gap": 0.3},
+  {"id": "pay",      "text": "and lets clients pay in a single tap.", "gap": 0.3},
+  {"id": "dash",     "text": "Every payment lands in one tidy dashboard, so she always knows where she stands.", "gap": 0.5},
+  {"id": "home",     "text": "Now the flock comes home on its own, and Maya gets her evenings back.", "gap": 0.6},
+  {"id": "proof",    "text": "Freelancers everywhere are spending less time on admin, and more time on the work they love.", "gap": 0.55},
+  {"id": "cta",      "text": "Tallypup. Invoices that come home. Try it free today.", "gap": 0.6}
+ ]}

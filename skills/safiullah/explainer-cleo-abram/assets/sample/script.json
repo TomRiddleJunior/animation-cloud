@@ -1,0 +1,16 @@
+{"voice": "af_heart", "speed": 1.18, "lead": 3.25, "tail": 1.5, "gap": 0.2,
+ "lines": [
+  {"id": "hook1",   "text": "Imagine a spaceship with no engine and no fuel, that never stops speeding up."},
+  {"id": "hook2",   "text": "You and I are going to fly one, powered by nothing but sunlight."},
+  {"id": "weird",   "text": "Here's the weird part: light has no mass, but it still carries momentum."},
+  {"id": "bounce",  "text": "When a photon hits a mirror, it bounces off and gives it a tiny shove."},
+  {"id": "double",  "text": "Bounce it straight back? Double the kick!"},
+  {"id": "tiny",    "text": "On real sails, that push is less than the weight of a paperclip."},
+  {"id": "build",   "text": "But space has no friction, and the Sun never switches off, so your speed just keeps building."},
+  {"id": "old",     "text": "And this idea is old! Four centuries ago, Kepler saw comet tails point away from the Sun, and guessed sunlight was pushing them.", "gap": 0.4},
+  {"id": "maxwell", "text": "In the 1870s, Maxwell predicted light really does push, and around 1900, physicists measured it."},
+  {"id": "ikaros",  "text": "In 2010, a Japanese probe called Ikaros unfurled a sail on its way to Venus, and flew on sunlight.", "gap": 0.3},
+  {"id": "laser",   "text": "Now scientists have proposed tiny probes on sails, pushed by giant lasers,"},
+  {"id": "stars",   "text": "fast enough to reach the nearest stars in about twenty years. At Voyager's speed? Tens of thousands.", "gap": 0.1},
+  {"id": "end",     "text": "Light, the same stuff warming your face right now, could one day carry us to another star.", "gap": 0.45}
+ ]}

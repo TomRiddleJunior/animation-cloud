@@ -1,0 +1,1195 @@
+{
+ "duration": 93.015,
+ "voice": "bm_george",
+ "words": 212,
+ "wpm_overall": 136.8,
+ "wpm_speech": 165.0,
+ "lines": [
+  {
+   "id": "hook",
+   "i": 0,
+   "text": "Twenty-one miles of water.",
+   "start": 0.96,
+   "end": 3.36,
+   "words": [
+    {
+     "w": "Twenty-one",
+     "start": 0.96,
+     "end": 1.547
+    },
+    {
+     "w": "miles",
+     "start": 1.547,
+     "end": 2.322
+    },
+    {
+     "w": "of",
+     "start": 2.322,
+     "end": 2.522
+    },
+    {
+     "w": "water.",
+     "start": 2.522,
+     "end": 3.36
+    }
+   ]
+  },
+  {
+   "id": "flow",
+   "i": 1,
+   "text": "Before the war, about twenty million barrels of oil passed through it every day. A fifth of all the oil the world uses.",
+   "start": 4.12,
+   "end": 11.22,
+   "words": [
+    {
+     "w": "Before",
+     "start": 4.12,
+     "end": 4.42
+    },
+    {
+     "w": "the",
+     "start": 4.42,
+     "end": 4.545
+    },
+    {
+     "w": "war,",
+     "start": 4.545,
+     "end": 4.97
+    },
+    {
+     "w": "about",
+     "start": 5.07,
+     "end": 5.37
+    },
+    {
+     "w": "twenty",
+     "start": 5.37,
+     "end": 5.695
+    },
+    {
+     "w": "million",
+     "start": 5.695,
+     "end": 6.045
+    },
+    {
+     "w": "barrels",
+     "start": 6.045,
+     "end": 6.407
+    },
+    {
+     "w": "of",
+     "start": 6.407,
+     "end": 6.52
+    },
+    {
+     "w": "oil",
+     "start": 6.52,
+     "end": 6.857
+    },
+    {
+     "w": "passed",
+     "start": 6.857,
+     "end": 7.245
+    },
+    {
+     "w": "through",
+     "start": 7.245,
+     "end": 7.47
+    },
+    {
+     "w": "it",
+     "start": 7.47,
+     "end": 7.657
+    },
+    {
+     "w": "every",
+     "start": 7.657,
+     "end": 7.995
+    },
+    {
+     "w": "day.",
+     "start": 7.995,
+     "end": 8.595
+    },
+    {
+     "w": "A",
+     "start": 8.732,
+     "end": 8.857
+    },
+    {
+     "w": "fifth",
+     "start": 8.857,
+     "end": 9.282
+    },
+    {
+     "w": "of",
+     "start": 9.282,
+     "end": 9.42
+    },
+    {
+     "w": "all",
+     "start": 9.42,
+     "end": 9.607
+    },
+    {
+     "w": "the",
+     "start": 9.607,
+     "end": 9.758
+    },
+    {
+     "w": "oil",
+     "start": 9.758,
+     "end": 10.12
+    },
+    {
+     "w": "the",
+     "start": 10.12,
+     "end": 10.22
+    },
+    {
+     "w": "world",
+     "start": 10.22,
+     "end": 10.495
+    },
+    {
+     "w": "uses.",
+     "start": 10.495,
+     "end": 11.22
+    }
+   ]
+  },
+  {
+   "id": "war",
+   "i": 2,
+   "text": "On the twenty-eighth of February, the United States and Israel struck Iran.",
+   "start": 12.13,
+   "end": 16.605,
+   "words": [
+    {
+     "w": "On",
+     "start": 12.13,
+     "end": 12.242
+    },
+    {
+     "w": "the",
+     "start": 12.242,
+     "end": 12.33
+    },
+    {
+     "w": "twenty-eighth",
+     "start": 12.33,
+     "end": 12.892
+    },
+    {
+     "w": "of",
+     "start": 12.892,
+     "end": 13.005
+    },
+    {
+     "w": "February,",
+     "start": 13.005,
+     "end": 13.63
+    },
+    {
+     "w": "the",
+     "start": 13.73,
+     "end": 13.83
+    },
+    {
+     "w": "United",
+     "start": 13.83,
+     "end": 14.355
+    },
+    {
+     "w": "States",
+     "start": 14.355,
+     "end": 14.855
+    },
+    {
+     "w": "and",
+     "start": 14.855,
+     "end": 14.98
+    },
+    {
+     "w": "Israel",
+     "start": 14.98,
+     "end": 15.517
+    },
+    {
+     "w": "struck",
+     "start": 15.517,
+     "end": 15.855
+    },
+    {
+     "w": "Iran.",
+     "start": 15.855,
+     "end": 16.605
+    }
+   ]
+  },
+  {
+   "id": "radio",
+   "i": 3,
+   "text": "Within hours, Iran's Revolutionary Guard was warning ships by radio. No passage.",
+   "start": 17.165,
+   "end": 22.79,
+   "words": [
+    {
+     "w": "Within",
+     "start": 17.165,
+     "end": 17.503
+    },
+    {
+     "w": "hours,",
+     "start": 17.503,
+     "end": 18.015
+    },
+    {
+     "w": "Iran's",
+     "start": 18.115,
+     "end": 18.59
+    },
+    {
+     "w": "Revolutionary",
+     "start": 18.59,
+     "end": 19.315
+    },
+    {
+     "w": "Guard",
+     "start": 19.315,
+     "end": 19.715
+    },
+    {
+     "w": "was",
+     "start": 19.715,
+     "end": 19.89
+    },
+    {
+     "w": "warning",
+     "start": 19.89,
+     "end": 20.227
+    },
+    {
+     "w": "ships",
+     "start": 20.227,
+     "end": 20.565
+    },
+    {
+     "w": "by",
+     "start": 20.565,
+     "end": 20.765
+    },
+    {
+     "w": "radio.",
+     "start": 20.765,
+     "end": 21.565
+    },
+    {
+     "w": "No",
+     "start": 21.727,
+     "end": 22.002
+    },
+    {
+     "w": "passage.",
+     "start": 22.002,
+     "end": 22.79
+    }
+   ]
+  },
+  {
+   "id": "brent",
+   "i": 4,
+   "text": "By the eighth of March, Brent crude was above a hundred dollars a barrel, for the first time in four years. It peaked at one hundred and twenty-six.",
+   "start": 23.7,
+   "end": 32.45,
+   "words": [
+    {
+     "w": "By",
+     "start": 23.7,
+     "end": 23.812
+    },
+    {
+     "w": "the",
+     "start": 23.812,
+     "end": 23.95
+    },
+    {
+     "w": "eighth",
+     "start": 23.95,
+     "end": 24.188
+    },
+    {
+     "w": "of",
+     "start": 24.188,
+     "end": 24.3
+    },
+    {
+     "w": "March,",
+     "start": 24.3,
+     "end": 24.825
+    },
+    {
+     "w": "Brent",
+     "start": 24.925,
+     "end": 25.262
+    },
+    {
+     "w": "crude",
+     "start": 25.262,
+     "end": 25.675
+    },
+    {
+     "w": "was",
+     "start": 25.675,
+     "end": 25.825
+    },
+    {
+     "w": "above",
+     "start": 25.825,
+     "end": 26.087
+    },
+    {
+     "w": "a",
+     "start": 26.087,
+     "end": 26.163
+    },
+    {
+     "w": "hundred",
+     "start": 26.163,
+     "end": 26.6
+    },
+    {
+     "w": "dollars",
+     "start": 26.6,
+     "end": 26.975
+    },
+    {
+     "w": "a",
+     "start": 26.975,
+     "end": 27.075
+    },
+    {
+     "w": "barrel,",
+     "start": 27.075,
+     "end": 27.7
+    },
+    {
+     "w": "for",
+     "start": 27.775,
+     "end": 27.887
+    },
+    {
+     "w": "the",
+     "start": 27.887,
+     "end": 28.012
+    },
+    {
+     "w": "first",
+     "start": 28.012,
+     "end": 28.35
+    },
+    {
+     "w": "time",
+     "start": 28.35,
+     "end": 28.7
+    },
+    {
+     "w": "in",
+     "start": 28.7,
+     "end": 28.863
+    },
+    {
+     "w": "four",
+     "start": 28.863,
+     "end": 29.15
+    },
+    {
+     "w": "years.",
+     "start": 29.15,
+     "end": 29.9
+    },
+    {
+     "w": "It",
+     "start": 29.975,
+     "end": 30.125
+    },
+    {
+     "w": "peaked",
+     "start": 30.125,
+     "end": 30.425
+    },
+    {
+     "w": "at",
+     "start": 30.425,
+     "end": 30.525
+    },
+    {
+     "w": "one",
+     "start": 30.525,
+     "end": 30.75
+    },
+    {
+     "w": "hundred",
+     "start": 30.75,
+     "end": 31.337
+    },
+    {
+     "w": "and",
+     "start": 31.337,
+     "end": 31.475
+    },
+    {
+     "w": "twenty-six.",
+     "start": 31.475,
+     "end": 32.45
+    }
+   ]
+  },
+  {
+   "id": "truce",
+   "i": 5,
+   "text": "A ceasefire in April. A memorandum signed in Islamabad in June.",
+   "start": 33.36,
+   "end": 38.035,
+   "words": [
+    {
+     "w": "A",
+     "start": 33.36,
+     "end": 33.448
+    },
+    {
+     "w": "ceasefire",
+     "start": 33.448,
+     "end": 34.098
+    },
+    {
+     "w": "in",
+     "start": 34.098,
+     "end": 34.26
+    },
+    {
+     "w": "April.",
+     "start": 34.26,
+     "end": 34.985
+    },
+    {
+     "w": "A",
+     "start": 35.085,
+     "end": 35.16
+    },
+    {
+     "w": "memorandum",
+     "start": 35.16,
+     "end": 35.885
+    },
+    {
+     "w": "signed",
+     "start": 35.885,
+     "end": 36.348
+    },
+    {
+     "w": "in",
+     "start": 36.348,
+     "end": 36.51
+    },
+    {
+     "w": "Islamabad",
+     "start": 36.51,
+     "end": 37.198
+    },
+    {
+     "w": "in",
+     "start": 37.198,
+     "end": 37.373
+    },
+    {
+     "w": "June.",
+     "start": 37.373,
+     "end": 38.035
+    }
+   ]
+  },
+  {
+   "id": "void",
+   "i": 6,
+   "text": "Each time, the strait closed again.",
+   "start": 38.545,
+   "end": 40.795,
+   "words": [
+    {
+     "w": "Each",
+     "start": 38.545,
+     "end": 38.795
+    },
+    {
+     "w": "time,",
+     "start": 38.795,
+     "end": 39.22
+    },
+    {
+     "w": "the",
+     "start": 39.282,
+     "end": 39.37
+    },
+    {
+     "w": "strait",
+     "start": 39.37,
+     "end": 39.707
+    },
+    {
+     "w": "closed",
+     "start": 39.707,
+     "end": 40.12
+    },
+    {
+     "w": "again.",
+     "start": 40.12,
+     "end": 40.795
+    }
+   ]
+  },
+  {
+   "id": "october",
+   "i": 7,
+   "text": "This October, a ship has been struck there almost every day.",
+   "start": 41.605,
+   "end": 45.205,
+   "words": [
+    {
+     "w": "This",
+     "start": 41.605,
+     "end": 41.78
+    },
+    {
+     "w": "October,",
+     "start": 41.78,
+     "end": 42.455
+    },
+    {
+     "w": "a",
+     "start": 42.593,
+     "end": 42.718
+    },
+    {
+     "w": "ship",
+     "start": 42.718,
+     "end": 42.968
+    },
+    {
+     "w": "has",
+     "start": 42.968,
+     "end": 43.068
+    },
+    {
+     "w": "been",
+     "start": 43.068,
+     "end": 43.255
+    },
+    {
+     "w": "struck",
+     "start": 43.255,
+     "end": 43.58
+    },
+    {
+     "w": "there",
+     "start": 43.58,
+     "end": 43.793
+    },
+    {
+     "w": "almost",
+     "start": 43.793,
+     "end": 44.267
+    },
+    {
+     "w": "every",
+     "start": 44.267,
+     "end": 44.605
+    },
+    {
+     "w": "day.",
+     "start": 44.605,
+     "end": 45.205
+    }
+   ]
+  },
+  {
+   "id": "diesel",
+   "i": 8,
+   "text": "At American pumps, diesel broke its all-time record on the fourth of September. Last week it averaged six dollars twenty-eight a gallon. Two dollars sixty-six more than a year ago.",
+   "start": 46.165,
+   "end": 57.015,
+   "words": [
+    {
+     "w": "At",
+     "start": 46.165,
+     "end": 46.278
+    },
+    {
+     "w": "American",
+     "start": 46.278,
+     "end": 46.765
+    },
+    {
+     "w": "pumps,",
+     "start": 46.765,
+     "end": 47.29
+    },
+    {
+     "w": "diesel",
+     "start": 47.39,
+     "end": 47.765
+    },
+    {
+     "w": "broke",
+     "start": 47.765,
+     "end": 48.003
+    },
+    {
+     "w": "its",
+     "start": 48.003,
+     "end": 48.19
+    },
+    {
+     "w": "all-time",
+     "start": 48.19,
+     "end": 48.69
+    },
+    {
+     "w": "record",
+     "start": 48.69,
+     "end": 49.315
+    },
+    {
+     "w": "on",
+     "start": 49.315,
+     "end": 49.428
+    },
+    {
+     "w": "the",
+     "start": 49.428,
+     "end": 49.528
+    },
+    {
+     "w": "fourth",
+     "start": 49.528,
+     "end": 49.803
+    },
+    {
+     "w": "of",
+     "start": 49.803,
+     "end": 49.915
+    },
+    {
+     "w": "September.",
+     "start": 49.915,
+     "end": 50.765
+    },
+    {
+     "w": "Last",
+     "start": 50.903,
+     "end": 51.265
+    },
+    {
+     "w": "week",
+     "start": 51.265,
+     "end": 51.753
+    },
+    {
+     "w": "it",
+     "start": 51.753,
+     "end": 51.89
+    },
+    {
+     "w": "averaged",
+     "start": 51.89,
+     "end": 52.365
+    },
+    {
+     "w": "six",
+     "start": 52.365,
+     "end": 52.69
+    },
+    {
+     "w": "dollars",
+     "start": 52.69,
+     "end": 53.078
+    },
+    {
+     "w": "twenty-eight",
+     "start": 53.078,
+     "end": 53.553
+    },
+    {
+     "w": "a",
+     "start": 53.553,
+     "end": 53.615
+    },
+    {
+     "w": "gallon.",
+     "start": 53.615,
+     "end": 54.265
+    },
+    {
+     "w": "Two",
+     "start": 54.378,
+     "end": 54.59
+    },
+    {
+     "w": "dollars",
+     "start": 54.59,
+     "end": 54.978
+    },
+    {
+     "w": "sixty-six",
+     "start": 54.978,
+     "end": 55.653
+    },
+    {
+     "w": "more",
+     "start": 55.653,
+     "end": 55.89
+    },
+    {
+     "w": "than",
+     "start": 55.89,
+     "end": 56.015
+    },
+    {
+     "w": "a",
+     "start": 56.015,
+     "end": 56.128
+    },
+    {
+     "w": "year",
+     "start": 56.128,
+     "end": 56.39
+    },
+    {
+     "w": "ago.",
+     "start": 56.39,
+     "end": 57.015
+    }
+   ]
+  },
+  {
+   "id": "trucks",
+   "i": 9,
+   "text": "Diesel moves the trucks. So the price rides along with everything they carry.",
+   "start": 57.675,
+   "end": 62.3,
+   "words": [
+    {
+     "w": "Diesel",
+     "start": 57.675,
+     "end": 58.063
+    },
+    {
+     "w": "moves",
+     "start": 58.063,
+     "end": 58.4
+    },
+    {
+     "w": "the",
+     "start": 58.4,
+     "end": 58.538
+    },
+    {
+     "w": "trucks.",
+     "start": 58.538,
+     "end": 59.2
+    },
+    {
+     "w": "So",
+     "start": 59.3,
+     "end": 59.475
+    },
+    {
+     "w": "the",
+     "start": 59.475,
+     "end": 59.575
+    },
+    {
+     "w": "price",
+     "start": 59.575,
+     "end": 59.963
+    },
+    {
+     "w": "rides",
+     "start": 59.963,
+     "end": 60.325
+    },
+    {
+     "w": "along",
+     "start": 60.325,
+     "end": 60.725
+    },
+    {
+     "w": "with",
+     "start": 60.725,
+     "end": 60.913
+    },
+    {
+     "w": "everything",
+     "start": 60.913,
+     "end": 61.45
+    },
+    {
+     "w": "they",
+     "start": 61.45,
+     "end": 61.638
+    },
+    {
+     "w": "carry.",
+     "start": 61.638,
+     "end": 62.3
+    }
+   ]
+  },
+  {
+   "id": "ballot",
+   "i": 10,
+   "text": "In one week, Americans vote for all four hundred and thirty-five House seats, and thirty-five in the Senate.",
+   "start": 63.31,
+   "end": 69.61,
+   "words": [
+    {
+     "w": "In",
+     "start": 63.31,
+     "end": 63.435
+    },
+    {
+     "w": "one",
+     "start": 63.435,
+     "end": 63.66
+    },
+    {
+     "w": "week,",
+     "start": 63.66,
+     "end": 64.06
+    },
+    {
+     "w": "Americans",
+     "start": 64.135,
+     "end": 64.76
+    },
+    {
+     "w": "vote",
+     "start": 64.76,
+     "end": 65.035
+    },
+    {
+     "w": "for",
+     "start": 65.035,
+     "end": 65.16
+    },
+    {
+     "w": "all",
+     "start": 65.16,
+     "end": 65.41
+    },
+    {
+     "w": "four",
+     "start": 65.41,
+     "end": 65.66
+    },
+    {
+     "w": "hundred",
+     "start": 65.66,
+     "end": 66.047
+    },
+    {
+     "w": "and",
+     "start": 66.047,
+     "end": 66.172
+    },
+    {
+     "w": "thirty-five",
+     "start": 66.172,
+     "end": 66.735
+    },
+    {
+     "w": "House",
+     "start": 66.735,
+     "end": 66.998
+    },
+    {
+     "w": "seats,",
+     "start": 66.998,
+     "end": 67.61
+    },
+    {
+     "w": "and",
+     "start": 67.71,
+     "end": 67.873
+    },
+    {
+     "w": "thirty-five",
+     "start": 67.873,
+     "end": 68.672
+    },
+    {
+     "w": "in",
+     "start": 68.672,
+     "end": 68.797
+    },
+    {
+     "w": "the",
+     "start": 68.797,
+     "end": 68.922
+    },
+    {
+     "w": "Senate.",
+     "start": 68.922,
+     "end": 69.61
+    }
+   ]
+  },
+  {
+   "id": "poll",
+   "i": 11,
+   "text": "In a Reuters Ipsos poll, forty-nine percent named the cost of living as the single most important factor in their vote.",
+   "start": 70.22,
+   "end": 77.92,
+   "words": [
+    {
+     "w": "In",
+     "start": 70.22,
+     "end": 70.308
+    },
+    {
+     "w": "a",
+     "start": 70.308,
+     "end": 70.395
+    },
+    {
+     "w": "Reuters",
+     "start": 70.395,
+     "end": 70.883
+    },
+    {
+     "w": "Ipsos",
+     "start": 70.883,
+     "end": 71.383
+    },
+    {
+     "w": "poll,",
+     "start": 71.383,
+     "end": 71.92
+    },
+    {
+     "w": "forty-nine",
+     "start": 72.033,
+     "end": 72.62
+    },
+    {
+     "w": "percent",
+     "start": 72.62,
+     "end": 73.37
+    },
+    {
+     "w": "named",
+     "start": 73.37,
+     "end": 73.633
+    },
+    {
+     "w": "the",
+     "start": 73.633,
+     "end": 73.758
+    },
+    {
+     "w": "cost",
+     "start": 73.758,
+     "end": 74.108
+    },
+    {
+     "w": "of",
+     "start": 74.108,
+     "end": 74.245
+    },
+    {
+     "w": "living",
+     "start": 74.245,
+     "end": 74.933
+    },
+    {
+     "w": "as",
+     "start": 74.933,
+     "end": 75.095
+    },
+    {
+     "w": "the",
+     "start": 75.095,
+     "end": 75.233
+    },
+    {
+     "w": "single",
+     "start": 75.233,
+     "end": 75.62
+    },
+    {
+     "w": "most",
+     "start": 75.62,
+     "end": 75.895
+    },
+    {
+     "w": "important",
+     "start": 75.895,
+     "end": 76.458
+    },
+    {
+     "w": "factor",
+     "start": 76.458,
+     "end": 76.958
+    },
+    {
+     "w": "in",
+     "start": 76.958,
+     "end": 77.095
+    },
+    {
+     "w": "their",
+     "start": 77.095,
+     "end": 77.295
+    },
+    {
+     "w": "vote.",
+     "start": 77.295,
+     "end": 77.92
+    }
+   ]
+  },
+  {
+   "id": "israel",
+   "i": 12,
+   "text": "And today, Israel votes. Its first election since the war began.",
+   "start": 78.83,
+   "end": 83.055,
+   "words": [
+    {
+     "w": "And",
+     "start": 78.83,
+     "end": 78.98
+    },
+    {
+     "w": "today,",
+     "start": 78.98,
+     "end": 79.455
+    },
+    {
+     "w": "Israel",
+     "start": 79.555,
+     "end": 79.993
+    },
+    {
+     "w": "votes.",
+     "start": 79.993,
+     "end": 80.605
+    },
+    {
+     "w": "Its",
+     "start": 80.68,
+     "end": 80.893
+    },
+    {
+     "w": "first",
+     "start": 80.893,
+     "end": 81.205
+    },
+    {
+     "w": "election",
+     "start": 81.205,
+     "end": 81.73
+    },
+    {
+     "w": "since",
+     "start": 81.73,
+     "end": 81.955
+    },
+    {
+     "w": "the",
+     "start": 81.955,
+     "end": 82.08
+    },
+    {
+     "w": "war",
+     "start": 82.08,
+     "end": 82.28
+    },
+    {
+     "w": "began.",
+     "start": 82.28,
+     "end": 83.055
+    }
+   ]
+  },
+  {
+   "id": "close",
+   "i": 13,
+   "text": "Twenty-one miles of water. And the bill arrives at the ballot box.",
+   "start": 84.165,
+   "end": 88.665,
+   "words": [
+    {
+     "w": "Twenty-one",
+     "start": 84.165,
+     "end": 84.715
+    },
+    {
+     "w": "miles",
+     "start": 84.715,
+     "end": 85.253
+    },
+    {
+     "w": "of",
+     "start": 85.253,
+     "end": 85.428
+    },
+    {
+     "w": "water.",
+     "start": 85.428,
+     "end": 86.14
+    },
+    {
+     "w": "And",
+     "start": 86.24,
+     "end": 86.378
+    },
+    {
+     "w": "the",
+     "start": 86.378,
+     "end": 86.478
+    },
+    {
+     "w": "bill",
+     "start": 86.478,
+     "end": 86.765
+    },
+    {
+     "w": "arrives",
+     "start": 86.765,
+     "end": 87.365
+    },
+    {
+     "w": "at",
+     "start": 87.365,
+     "end": 87.453
+    },
+    {
+     "w": "the",
+     "start": 87.453,
+     "end": 87.54
+    },
+    {
+     "w": "ballot",
+     "start": 87.54,
+     "end": 87.915
+    },
+    {
+     "w": "box.",
+     "start": 87.915,
+     "end": 88.665
+    }
+   ]
+  }
+ ]
+}

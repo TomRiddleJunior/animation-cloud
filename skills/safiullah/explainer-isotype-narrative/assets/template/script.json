@@ -1,0 +1,7 @@
+{"voice": "am_michael", "speed": 1.0, "lead": 0.9, "tail": 2.2,
+ "lines": [
+  {"id": "hook",  "text": "How does a payment travel?"},
+  {"id": "cast",  "text": "A family pays a builder.", "gap": 0.7},
+  {"id": "flow",  "text": "The deposit moves from their bank to his, and the two banks settle up in reserves.", "gap": 0.5},
+  {"id": "close", "text": "That's money, moving.", "gap": 0.6}
+ ]}

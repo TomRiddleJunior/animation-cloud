@@ -1,0 +1,165 @@
+{
+ "voice": "bm_george",
+ "speed": 1.0,
+ "lead": 0.72,
+ "tail": 4.3,
+ "gap": 0.06,
+ "lines": [
+  {
+   "id": "h1",
+   "at": 0.72,
+   "text": "So you want to run a bubble?",
+   "cap": "So you want to run a *bubble?*",
+   "speed": 1.03
+  },
+  {
+   "id": "h2",
+   "at": 2.727,
+   "text": "Forget the ships. Forget the spice.",
+   "cap": "Forget the ships. Forget the *spice.*",
+   "speed": 1.0
+  },
+  {
+   "id": "h3",
+   "at": 5.455,
+   "text": "You're not selling cargo. You're selling a price,",
+   "cap": "You're not selling cargo. You're selling a *price,*",
+   "speed": 1.242
+  },
+  {
+   "id": "h4",
+   "at": 8.182,
+   "text": "and a fool to pay it twice.",
+   "cap": "and a *fool* to pay it twice.",
+   "speed": 1.0
+  },
+  {
+   "id": "s1a",
+   "at": 10.909,
+   "text": "Step one: a charter, seventeen eleven.",
+   "cap": "Step one: a *charter,* 1711.^2",
+   "speed": 1.279
+  },
+  {
+   "id": "s1b",
+   "text": "South Sea trade: a monopoly from heaven.",
+   "cap": "South Sea trade: a *monopoly* from heaven.",
+   "speed": 1.279
+  },
+  {
+   "id": "s1c",
+   "text": "It never pays? Relax: paper and wax.",
+   "cap": "It never pays? Relax: *paper and wax.*",
+   "speed": 1.279
+  },
+  {
+   "id": "s2a",
+   "at": 19.091,
+   "text": "Step two: swallow the nation's debt,",
+   "cap": "Step two: swallow the nation's *debt,*",
+   "speed": 1.08
+  },
+  {
+   "id": "s2b",
+   "text": "thirty-one million, swapped for shares.",
+   "cap": "*£31 million,* swapped for shares.",
+   "speed": 1.08
+  },
+  {
+   "id": "s2c",
+   "text": "Higher price, bigger cut. Who cares?",
+   "cap": "Higher price, bigger *cut.* Who cares?",
+   "speed": 1.08
+  },
+  {
+   "id": "s3a",
+   "at": 27.273,
+   "text": "Step three: friends where laws get made.",
+   "cap": "Step three: *friends* where laws get made.",
+   "speed": 1.211
+  },
+  {
+   "id": "s3b",
+   "text": "Hand ministers stock. Nothing paid.",
+   "cap": "Hand ministers stock. *Nothing paid.*",
+   "speed": 1.211
+  },
+  {
+   "id": "s3c",
+   "text": "They sell it back high; the bill sails by.",
+   "cap": "They sell it back high; the *bill* sails by.",
+   "speed": 1.211
+  },
+  {
+   "id": "s4a",
+   "at": 35.455,
+   "text": "Step four: climb. January, one twenty-eight.",
+   "cap": "Step four: *climb.* January, £128.^2",
+   "speed": 1.34
+  },
+  {
+   "id": "s4b",
+   "text": "By summer, a thousand. Rivals? Legislate.",
+   "cap": "By summer, *£1,000.*^2 Rivals? Legislate.",
+   "speed": 1.34
+  },
+  {
+   "id": "s4c",
+   "text": "June's Bubble Act: no charter? Shut the gate.",
+   "cap": "June's *Bubble Act:* no charter? Shut the gate.",
+   "speed": 1.34
+  },
+  {
+   "id": "s5a",
+   "at": 43.636,
+   "text": "Step five: sell before the music stops.",
+   "cap": "Step five: sell before the music *stops.*",
+   "speed": 1.35
+  },
+  {
+   "id": "s5b",
+   "text": "September's end: one fifty. Watch it drop.",
+   "cap": "September's end: *£150.*^2 Watch it drop.",
+   "speed": 1.35
+  },
+  {
+   "id": "s5c",
+   "text": "Newton reportedly lost twenty thousand pounds.",
+   "cap": "Newton reportedly lost *£20,000.*^3",
+   "speed": 1.35
+  },
+  {
+   "id": "s5d",
+   "text": "He wrote gravity's law. It still came down.",
+   "cap": "He wrote gravity's law. It still came *down.*",
+   "speed": 1.35
+  },
+  {
+   "id": "l1",
+   "at": 54.545,
+   "text": "Last step? Do nothing. Seventeen twenty-one:",
+   "cap": "Last step? Do *nothing.* 1721:^2",
+   "speed": 1.33
+  },
+  {
+   "id": "l2",
+   "text": "the inquiry. The Chancellor's in the Tower.",
+   "cap": "the inquiry. The Chancellor's in the *Tower.*",
+   "speed": 1.33
+  },
+  {
+   "id": "t1",
+   "at": 60.0,
+   "win": 6.4,
+   "text": "But a bubble needs no villain, just one more buyer.",
+   "cap": "But a bubble needs no villain, just one more *buyer.*",
+   "speed": 1.097
+  },
+  {
+   "id": "t2",
+   "text": "Check your portfolio. Who's paying higher?",
+   "cap": "Check your portfolio. Who's paying *higher?*",
+   "speed": 1.097
+  }
+ ]
+}

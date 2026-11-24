@@ -1,0 +1,34 @@
+{
+ "key": "ai",
+ "name": "the-state-of-ai-oct-2026",
+ "master": "state-of-ai/out/the-state-of-ai-oct-2026.mp4",
+ "lines": "state-of-ai/data/lyrics.json",
+ "fonts": "state-of-ai/app/public/fonts",
+ "title": [
+  "THE STATE",
+  "OF AI"
+ ],
+ "title_font": "Inter Tight Black",
+ "title_size": 122,
+ "sub": "OCTOBER 2026 · EVERY NUMBER SOURCED",
+ "note": "MUSIC: MINIMAX-MUSIC3 (AI-GENERATED)",
+ "sub_font": "JetBrains Mono SemiBold",
+ "cap_font": "Inter Tight ExtraBold",
+ "cap_size": 78,
+ "accent": "#E8553D",
+ "end_note": "Every number is sourced on screen.",
+ "cuts": {
+  "shorts": [
+   [
+    0.0,
+    175.0
+   ]
+  ],
+  "full": [
+   [
+    0.0,
+    175.0
+   ]
+  ]
+ }
+}

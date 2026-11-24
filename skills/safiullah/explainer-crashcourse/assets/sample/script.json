@@ -1,0 +1,17 @@
+{"voice": "am_michael", "speed": 1.38, "lead": 0.5, "tail": 1.3,
+ "lines": [
+  {"id": "hostA", "text": "So, how big is the Earth? Over two thousand years ago, one guy measured it. With a stick."},
+  {"id": "cue", "text": "Let's go to the Daydream!", "gap": 0.15},
+  {"id": "s1a", "text": "It's around two hundred forty B.C. in Alexandria, Egypt, and Eratosthenes runs the greatest library on Earth.", "gap": 2.3},
+  {"id": "s1b", "text": "He's good at so much that people nickname him Beta. As in: second best at everything.", "gap": 0.2},
+  {"id": "s1c", "text": "Rude. But fair.", "gap": 0.4},
+  {"id": "s2", "text": "He hears that down south in [Syene](/sIˈini/), at noon on the longest day of the year, the sun shines straight down a well. No shadows.", "gap": 0.3},
+  {"id": "s3", "text": "But back in Alexandria, same day, same noon, a stick in the ground does cast a shadow. About seven degrees.", "gap": 0.2},
+  {"id": "s4", "text": "The sun is so far away that its rays arrive basically parallel. So on a flat Earth, both shadows would match. They don't. The ground curves.", "gap": 0.25},
+  {"id": "s5", "text": "Seven degrees is about one fiftieth of a circle, so [Syene](/sIˈini/) to Alexandria is one fiftieth of the way around the planet.", "gap": 0.2},
+  {"id": "s6", "text": "How far is that? About five thousand stadia, according to the people who walked it. Ancient GPS was just a guy. Walking. For weeks.", "gap": 0.25},
+  {"id": "s7a", "text": "Fifty times five thousand: two hundred fifty thousand stadia around.", "gap": 0.25},
+  {"id": "s7b", "text": "Depending on how long a stadion was, that's somewhere between pretty close and almost dead on. The real answer? About forty thousand kilometres.", "gap": 0.2},
+  {"id": "s8", "text": "All with a stick, a well, and some very sore feet. Thanks, Daydream!", "gap": 0.25},
+  {"id": "hostB", "text": "So next time somebody calls you second best, remember: Beta measured the planet.", "gap": 0.55}
+ ]}

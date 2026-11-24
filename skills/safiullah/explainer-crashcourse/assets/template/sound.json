@@ -1,0 +1,3 @@
+{"preset": "playful-bounce", "bpm": 118,
+ "sections": [{"t": 0, "energy": 1}, {"t": 4.0, "energy": 2}, {"t": 12.5, "energy": 1}],
+ "music_under_voice_db": -19, "sfx_db": -3, "lufs": -14, "end_hit": true}

@@ -1,0 +1,6 @@
+{"voice": "zm_yunjian", "speed": 0.92, "lead": 0.9, "tail": 3.6,
+ "lines": [
+  {"id": "hook", "text": "这是一份关于钱的档案"},
+  {"id": "card", "text": "每一张纸，都是一条证据。红色的印章，只留给结论", "gap": 0.9},
+  {"id": "end", "text": "而钱本身，只靠一个字：信", "gap": 0.8}
+ ]}
